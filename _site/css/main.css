@@ -23,7 +23,7 @@ body {
   margin: 0 auto;
   padding: 20px;
   border: 1px solid #dcdcdc;
-  width: 300px;
+  max-width: 300px;
   margin: 40px;
   background-color: #eeeeee; }
 
