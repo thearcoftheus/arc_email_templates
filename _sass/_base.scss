@@ -21,6 +21,7 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    margin: 40px;
 }
 
 .home {
@@ -28,7 +29,6 @@ body {
 	padding: 20px;
 	border: 1px solid #dcdcdc;
 	max-width: 300px;
-	margin: 40px;
 	background-color: #eeeeee;
 }
 

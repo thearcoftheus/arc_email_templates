@@ -17,14 +17,14 @@ body {
   font-weight: 300;
   color: #111;
   background-color: #fdfdfd;
-  -webkit-text-size-adjust: 100%; }
+  -webkit-text-size-adjust: 100%;
+  margin: 40px; }
 
 .home {
   margin: 0 auto;
   padding: 20px;
   border: 1px solid #dcdcdc;
   max-width: 300px;
-  margin: 40px;
   background-color: #eeeeee; }
 
 /**
