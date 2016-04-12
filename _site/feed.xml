@@ -4,10 +4,10 @@
     <title>Your awesome title</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://thearcoftheus.github.io/arc_email_templates//</link>
-    <atom:link href="http://thearcoftheus.github.io/arc_email_templates//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Apr 2016 10:53:27 -0400</pubDate>
-    <lastBuildDate>Tue, 12 Apr 2016 10:53:27 -0400</lastBuildDate>
+    <link>http://thearcoftheus.github.ioarc_email_templates//</link>
+    <atom:link href="http://thearcoftheus.github.ioarc_email_templates//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 12 Apr 2016 10:55:33 -0400</pubDate>
+    <lastBuildDate>Tue, 12 Apr 2016 10:55:33 -0400</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>
 </description>
         <pubDate>Mon, 17 Aug 2015 05:09:59 -0400</pubDate>
-        <link>http://thearcoftheus.github.io/arc_email_templates//nce/2015/08/17/part-nce.html</link>
-        <guid isPermaLink="true">http://thearcoftheus.github.io/arc_email_templates//nce/2015/08/17/part-nce.html</guid>
+        <link>http://thearcoftheus.github.ioarc_email_templates//nce/2015/08/17/part-nce.html</link>
+        <guid isPermaLink="true">http://thearcoftheus.github.ioarc_email_templates//nce/2015/08/17/part-nce.html</guid>
         
         
         <category>nce</category>
@@ -28,8 +28,8 @@
         <description>
 </description>
         <pubDate>Mon, 17 Aug 2015 05:09:59 -0400</pubDate>
-        <link>http://thearcoftheus.github.io/arc_email_templates//nccjd/2015/08/17/part-nccjd.html</link>
-        <guid isPermaLink="true">http://thearcoftheus.github.io/arc_email_templates//nccjd/2015/08/17/part-nccjd.html</guid>
+        <link>http://thearcoftheus.github.ioarc_email_templates//nccjd/2015/08/17/part-nccjd.html</link>
+        <guid isPermaLink="true">http://thearcoftheus.github.ioarc_email_templates//nccjd/2015/08/17/part-nccjd.html</guid>
         
         
         <category>nccjd</category>
@@ -41,8 +41,8 @@
         <description>
 </description>
         <pubDate>Mon, 17 Aug 2015 05:09:59 -0400</pubDate>
-        <link>http://thearcoftheus.github.io/arc_email_templates//ga/2015/08/17/part-ga.html</link>
-        <guid isPermaLink="true">http://thearcoftheus.github.io/arc_email_templates//ga/2015/08/17/part-ga.html</guid>
+        <link>http://thearcoftheus.github.ioarc_email_templates//ga/2015/08/17/part-ga.html</link>
+        <guid isPermaLink="true">http://thearcoftheus.github.ioarc_email_templates//ga/2015/08/17/part-ga.html</guid>
         
         
         <category>ga</category>
@@ -54,8 +54,8 @@
         <description>
 </description>
         <pubDate>Mon, 17 Aug 2015 05:09:59 -0400</pubDate>
-        <link>http://thearcoftheus.github.io/arc_email_templates//fusion/2015/08/17/part-fusion.html</link>
-        <guid isPermaLink="true">http://thearcoftheus.github.io/arc_email_templates//fusion/2015/08/17/part-fusion.html</guid>
+        <link>http://thearcoftheus.github.ioarc_email_templates//fusion/2015/08/17/part-fusion.html</link>
+        <guid isPermaLink="true">http://thearcoftheus.github.ioarc_email_templates//fusion/2015/08/17/part-fusion.html</guid>
         
         
         <category>fusion</category>
@@ -67,8 +67,8 @@
         <description>
 </description>
         <pubDate>Mon, 17 Aug 2015 05:09:59 -0400</pubDate>
-        <link>http://thearcoftheus.github.io/arc_email_templates//enews/2015/08/17/part-enews.html</link>
-        <guid isPermaLink="true">http://thearcoftheus.github.io/arc_email_templates//enews/2015/08/17/part-enews.html</guid>
+        <link>http://thearcoftheus.github.ioarc_email_templates//enews/2015/08/17/part-enews.html</link>
+        <guid isPermaLink="true">http://thearcoftheus.github.ioarc_email_templates//enews/2015/08/17/part-enews.html</guid>
         
         
         <category>enews</category>
@@ -80,8 +80,8 @@
         <description>
 </description>
         <pubDate>Mon, 17 Aug 2015 05:09:59 -0400</pubDate>
-        <link>http://thearcoftheus.github.io/arc_email_templates//blank/2015/08/17/part-blank.html</link>
-        <guid isPermaLink="true">http://thearcoftheus.github.io/arc_email_templates//blank/2015/08/17/part-blank.html</guid>
+        <link>http://thearcoftheus.github.ioarc_email_templates//blank/2015/08/17/part-blank.html</link>
+        <guid isPermaLink="true">http://thearcoftheus.github.ioarc_email_templates//blank/2015/08/17/part-blank.html</guid>
         
         
         <category>blank</category>
