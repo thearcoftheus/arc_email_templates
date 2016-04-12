@@ -1,0 +1,278 @@
+---
+layout: default
+---
+<html>
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+<style>
+a {
+color: #EA7125;
+}
+strong {
+ color: #ea7125; font-family: 'trebuchet ms', arial, verdana, helvetica, sans-serif; font-size: 16px; font-weight: bold;
+}
+</style>
+</head>
+<body>
+{% for page in site.pages %}
+{% if page.categories == 'enews-header' %}  
+<table border="0" cellpadding="0" cellspacing="0" style="border-left: 1px solid #dddddd; border-right: 1px solid #dddddd; border-top: 1px solid #dddddd; text-align: left; width: 600px; font-family: 'trebuchet ms', arial, verdana, helvetica, sans-serif; font-size: 14px; color: #000000; border-collapse: collapse;">
+<tr>
+<td style="background-color: #ffffff; text-align: center;" valign="bottom"><img alt="The Arc E-News" height="150" src="https://www.thearc.org/view.image?Id=4773" /></td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+<tbody>
+<tr>
+<td style="border-bottom: 1px solid #dddddd; padding: 8px 20px; font-family: 'trebuchet ms', arial, verdana, helvetica, sans-serif; font-size: 14px;"><a style="color: #44697d;" href="target=&amp;pid=0&amp;did=0&amp;tab=0&amp;splid=1">View this email on the web</a></td>
+<td style="border-bottom: 1px solid #dddddd; padding: 8px 20px; font-family: 'trebuchet ms', arial, verdana, helvetica, sans-serif; font-size: 14px; color: #000000;" align="right">{{ page.actualdate }}</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+{% endif %}
+{% endfor %}
+
+{% for page in site.pages %}
+{% if page.categories == 'enews-section1' %} 
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-left: 1px solid #dddddd; border-right: 1px solid #dddddd; border-bottom: 1px solid #dddddd; text-align: left; width: 600px; font-family: 'trebuchet ms', arial, verdana, helvetica, sans-serif; font-size: 14px; color: #000000; border-collapse: collapse;">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" style="width: 600px;">
+<tbody>
+<tr>
+<td style="padding: 15px 20px 20px;" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+<tbody>
+<tr>
+<td style="text-align: center;"><img height="150" src="{{ page.image }}" width="250" /></td>
+</tr>
+<tr>
+<td style="text-align: center; line-height: 18px; font-family: 'trebuchet ms', arial, verdana, helvetica, sans-serif; font-size: 14px; color: #000000;">{{ page.caption }}</td>
+</tr>
+<tr>
+<td style="border-bottom: 1px solid #d5d5d5; color: #ea7125; font-family: 'trebuchet ms', arial, verdana, helvetica, sans-serif; font-size: 21px; padding-top: 10px; padding-bottom: 10px;">
+
+<strong>{{ page.title }}</strong>
+
+</td>
+</tr>
+<tr>
+<td style="line-height: 18px; font-family: 'trebuchet ms', arial, verdana, helvetica, sans-serif; font-size: 14px; color: #000000; padding-bottom: 15px; padding-top: 5px;">
+
+{{ page.content }}
+
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="border-left: 1px solid #d5d5d5; padding: 15px 20px 20px; width: 152px; background-color: #ffffff; color: #000000;" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="line-height: 20px; font-size: 14px;">
+<tbody>
+<tr>
+<td style="padding-bottom: 0px; font-family: 'trebuchet ms', arial, verdana, helvetica, sans-serif; font-size: 14px;">Hot Links:</td>
+</tr>
+<tr>
+<td>
+
+<ul>
+{% for page in site.pages %}
+{% if page.categories == 'enews-hotlinks' %} 
+<li style="font-family: 'trebuchet ms', arial, verdana, helvetica, sans-serif; font-size: 14px;"><a href="{{ page.link1 }}"> {{ page.title }} </a></li>
+{% endif %}
+{% endfor %}
+</ul>
+
+</td>
+</tr>
+<tr>
+<td style="padding: 10px 0px;"><hr style="border: 1px solid #dddddd;" /></td>
+</tr>
+<tr>
+<td style="padding-bottom: 0px; font-family: 'trebuchet ms',arial,verdana,helvetica,sans-serif; font-size: 14px; color: #474747; padding-top: 0px; text-align: center;">Join us on the web:</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="http://www.facebook.com/thearcus" target="_blank"><img alt="Facebook icon" height="32" src="https://www.thearc.org/view.image?Id=4419" width="32" /></a>&nbsp;<a href="http://www.twitter.com/thearcus" target="_blank"><img alt="Twitter icon" height="32" src="https://www.thearc.org/view.image?Id=4424" width="32" /></a>&nbsp;<a href="http://www.youtube.com/thearcoftheus" target="_blank"><img alt="YouTube icon" height="32" src="https://www.thearc.org/view.image?Id=4425" width="32" /></a></td>
+</tr>
+<tr>
+<td style="padding: 10px 0px;"><hr style="border: 1px solid #dddddd;" /></td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="target=&amp;pid=2514&amp;did=0&amp;tab=0"><img alt="Donate" height="60" src="https://www.thearc.org/view.image?Id=4922" style="border: 2px solid #ffffff; width: 125px; height: 60px;" width="125" /></a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="http://capwiz.com/thearc/home/"><img alt="Take Action" height="60" src="https://www.thearc.org/view.image?Id=4921" style="border: 2px solid #ffffff; width: 125px; height: 60px;" width="125" /></a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="target=&amp;pid=2335&amp;did=0&amp;tab=0"><img alt="Learn More" height="60" src="https://www.thearc.org/view.image?Id=4924" style="border: 2px solid #ffffff; width: 125px; height: 60px;" width="125" /></a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="target=&amp;pid=2493&amp;did=0&amp;tab=0"><img alt="Join Now" height="60" src="https://www.thearc.org/view.image?Id=4923" style="border: 2px solid #ffffff; width: 125px; height: 60px;" width="125" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+
+{% endif %}
+{% endfor %}
+
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-left: 1px solid #dddddd; border-right: 1px solid #dddddd; border-bottom: 1px solid #dddddd; text-align: left; width: 600px; font-family: 'trebuchet ms', arial, verdana, helvetica, sans-serif; font-size: 14px; color: #000000; border-collapse: collapse;">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" style="border-top: 1px solid #dddddd; background-color: transparent; font-size: 11px; color: #44697d; width: 600px;">
+<tbody>
+<tr>
+{% for page in site.pages %}
+{% if page.categories == 'enews-section2' %} 
+<td style="width: 33%; text-align: center; padding-top: 10px; padding-bottom: 15px;"><img alt="Alt text" height="125" src="{{ page.image }}" width="125" /></td>
+{% endif %}
+{% endfor %}
+</tr>
+<tr>
+
+{% for page in site.pages %}
+{% if page.categories == 'enews-section2' %} 
+<td style="width: 34%; color: #474747; font-family: arial; line-height: 18px; font-size: 14px; padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" valign="top">
+<strong>{{ page.headline }}</strong><br><br>
+{{ page.content }}
+</td>
+{% endif %}
+{% endfor %}
+
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-left: 1px solid #dddddd; border-right: 1px solid #dddddd; border-bottom: 1px solid #dddddd; text-align: left; width: 600px; font-family: 'trebuchet ms', arial, verdana, helvetica, sans-serif; font-size: 14px; color: #000000; border-collapse: collapse;">
+<tr>
+<td>
+<table border="0" style="border-top: 1px solid #dddddd; width: 600px;">
+<tbody>
+{% for page in site.pages %}
+{% if page.categories == 'enews-section3' %} 
+<tr>
+<td style="border-bottom: 1px solid #dddddd; color: #474747; font-family: arial; line-height: 18px; font-size: 14px; padding-left: 10px; padding-right: 10px; padding-bottom: 10px;">
+<strong>{{ page.headline }}</strong><br><br>
+{{ page.content }}
+</td>
+</tr>
+{% endif %}
+{% endfor %}
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-left: 1px solid #dddddd; border-right: 1px solid #dddddd; border-bottom: 1px solid #dddddd; text-align: left; width: 600px; font-family: 'trebuchet ms', arial, verdana, helvetica, sans-serif; font-size: 14px; color: #000000; border-collapse: collapse;">
+<tr>
+<td>
+<table border="0" style="border-top: 1px solid #dddddd; padding: 10px; width: 600px;">
+<tbody>
+{% for page in site.pages %}
+{% if page.categories == 'enews-ad' %} 
+<tr>
+<td style="width: 60%;"><a href="{{ page.link }}"><img alt="Advertisement" height="100" src="{{ page.image }}" style="border: 0pt none;" width="325" /></a></td>
+<td style="width: 40%; text-align: center;"><a href="target=&amp;pid=2492&amp;did=0&amp;tab=0"><img alt="Car Donation Button" height="125" src="https://www.thearc.org/view.image?Id=3775" style="border: 1px solid #b2b2b2; width: 125px; height: 125px;" width="125" /></a></td>
+</tr>
+{% endif %}
+{% endfor %}
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-left: 1px solid #dddddd; border-right: 1px solid #dddddd; border-bottom: 1px solid #dddddd; text-align: left; width: 600px; font-family: 'trebuchet ms', arial, verdana, helvetica, sans-serif; font-size: 14px; color: #000000; border-collapse: collapse;">
+<tr>
+<td>
+<table border="0" style="border-top: 1px solid #dddddd; width: 600px;">
+<tbody>
+<tr>
+<td style="padding: 10px; color: #474747; font-family: 'trebuchet ms', arial, verdana, helvetica, sans-serif; line-height: 18px; font-size: 11px;">
+<p>If you like <em>The Arc E-newsletter</em>, you'll love <em>Empower</em>, our quarterly member newsletter. Not a member of The Arc yet? <a style="color: #44697d;" href="target=&amp;pid=2509&amp;did=0&amp;tab=0">Sign up on our website.</a> Share this with your friends and family. Let's get even more people involved in the movement for people with intellectual and developmental disabilities! If someone you know would like to be added to the distribution list for <em>The Arc E-newsletter</em>, please have them send an e-mail to <a style="color: #44697d;" href="mailto:communications@thearc.org">communications@thearc.org</a>.</p>
+<p>If you do not want to receive <em>The Arc E-newsletter</em>, please <a style="color: #44697d;" href="mailto:feedback@thearc.org?subject=Unsubscribe%20from%20The%20Arc%E-News">e-mail us</a> with the words "Unsubscribe from <em>The Arc E-News</em>" in the subject line. If you would like to opt-out of all email from The Arc, please <a style="color: #44697d;" href="mailto:feedback@thearc.org?subject=Opt-Out">email us</a> with the words "Opt-Out" in the subject line.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-left: 1px solid #dddddd; border-right: 1px solid #dddddd; border-bottom: 1px solid #dddddd; text-align: left; width: 600px; font-family: 'trebuchet ms', arial, verdana, helvetica, sans-serif; font-size: 14px; color: #000000; border-collapse: collapse;">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" style="border-top: 1px solid #dddddd; background-color: transparent; font-size: 11px; color: #44697d; width: 600px; height: 89px;">
+<tbody>
+<tr>
+<td style="padding: 12px 20px 20px; color: #44697d; height: 63px;" colspan="2" align="center"><strong style="font-size: 14px;">The Arc</strong>&nbsp;1825 K Street, NW, Suite 1200, Washington, DC 20006<br /> Phone: 800.433.5255&nbsp;&nbsp;|&nbsp;&nbsp;<a style="color: #44697d;" href="mailto:info@thearc.org">Contact Us</a></td>
+</tr>
+<tr>
+<td style="border-bottom: 1px solid #dddddd; padding: 0px 20px 10px; font-family: 'trebuchet ms', arial, verdana, helvetica, sans-serif;"><a style="color: #44697d;" href="target=&amp;pid=2679&amp;did=0&amp;tab=0">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="color: #44697d;" href="target=&amp;pid=2264&amp;did=0&amp;tab=0">Email Preferences</a></td>
+<td style="border-bottom: 1px solid #dddddd; padding: 0px 20px 10px; font-family: 'trebuchet ms', arial, verdana, helvetica, sans-serif;" align="right">&copy; 2016 The Arc</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-left: 1px solid #dddddd; border-right: 1px solid #dddddd; border-bottom: 1px solid #dddddd; text-align: left; width: 600px; font-family: 'trebuchet ms', arial, verdana, helvetica, sans-serif; font-size: 14px; color: #000000; border-collapse: collapse;">
+<tr>
+<td style="padding-top: 10px; text-align: center;" colspan="2" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="width: 600px;">
+<tbody>
+<tr>
+<td style="padding-left: 20px;"><a href="http://charityreports.bbb.org/public/seal.aspx?ID=15522842010" target="_blank"><img height="106" src="https://www.thearc.org/view.image?Id=2342" style="border: 0pt none;" width="60" /></a></td>
+<td style="padding-left: 20px;"><img alt="GuideStar Exchange Gold Participant" height="73" src="https://www.thearc.org/view.image?Id=3893" width="100" /></td>
+<td style="padding-left: 20px;"><a href="http://www.myphilanthropedia.org/top-nonprofits/national/people-with-disabilities/2013/the-arc"><img alt="Philanthropedia 2013 Top Non-Profit" height="118" src="https://www.thearc.org/view.image?Id=3854" style="height: 118px; width: 100px;" width="100" /></a></td>
+<td style="padding-left: 20px;"><a href="http://www.myphilanthropedia.org/top-nonprofits/national/people-with-disabilities/2013/the-arc"><img alt="Combined Federal Campaign" height="70" src="https://www.thearc.org/view.image?Id=3059" style="height: 70px; width: 100px;" width="100" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</table>
+<script type="text/javascript">// <![CDATA[
+(function initialise() {
+	var patchTimer;
+
+	function addCleanUpRoutine() {
+		if (typeof tinyMCE == "undefined") return;
+		clearInterval(patchTimer);
+		
+		setTimeout(function() {
+			tinymce.activeEditor.onPostProcess.add(function(ed, o) {
+				if (o.get) {
+					if (o.content.indexOf("") !== -1) {
+						o.content = o.content.replace("", "").replace("", "");
+						if (console && console.log) {console.log("Enabled mobile CSS content")};
+					}
+				}
+			});
+		}, 1500);
+	}
+	
+	pathTimer = setInterval(addCleanUpRoutine, 500);
+})();
+// ]]></script>
+
+</body>
+</html>

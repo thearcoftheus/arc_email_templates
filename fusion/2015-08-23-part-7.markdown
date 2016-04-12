@@ -1,0 +1,9 @@
+---
+layout: fusion
+title: "Resources & Opportunities"
+headline: "Request for Proposals: The Coleman Institute for Cognitive Disabilities"
+date:  2015-08-21 09:09:59
+categories: fusion-resources
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Colorado_Buffs_alternate_logo.png/220px-Colorado_Buffs_alternate_logo.png
+---
+The <a href="http://www.colemaninstitute.org/index.php">Coleman Institute for Cognitive Disabilities</a> at the University of Colorado has an open request for proposals (RFP) for Advancing and Promoting <a href="http://www.colemaninstitute.org/declaration"><i>The Declaration on the Rights of People with Cognitive Disabilities to Technology and Information Access.</i></a> The purpose of the RFP, due April 22, 2016, is to further advance the Declaration through five local and statewide implementation grants of up to $10,000.  Specifically, they seek creative and effective approaches to increase awareness and demonstrate effective implementation of the principles outlined in the Declaration. Find more information and apply <a href="http://www.colemaninstitute.org/index.php?option=com_content&view=article&layout=edit&id=384">here.</a>

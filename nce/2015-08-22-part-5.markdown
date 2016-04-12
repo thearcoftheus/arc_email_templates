@@ -1,0 +1,11 @@
+---
+layout: nce-1
+title:  "Photo and Caption"
+headline: "SIG Spotlight"
+date:   2015-08-23 09:09:59
+categories: nce-section2
+image: https://www.thearc.org/image/Special-Interest-Groups-B.png
+---
+<p style="font-family: 'Trebuchet MS', Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 18.200000762939453px;">
+Are any of your chapters seeking advice on Education and Early Intervention? The Education and Early Intervention Special Interests Group covers topics such as Special Needs Pre-School requirements for all three-and-four year olds, special education laws, parents' rights and responsibilities.  Sign in or sign up for this and other special interest groups <a href="http://www.thearc.org/for-chapters/chapter-leadership-development/special-interest-groups/supported-decision-making">here.</a></p>
+</p>

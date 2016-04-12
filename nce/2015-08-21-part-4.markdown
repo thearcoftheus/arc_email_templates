@@ -1,0 +1,21 @@
+---
+layout: nce-1
+headline: "Pregnancy Outcomes for Women with I/DD"
+date:   2015-08-19 09:09:59
+categories: nce-section2
+image: http://www.thearc.org/image/lhidds.png
+---
+<i>Wednesday, January 21</i><br>
+<table style="width: 100%;">
+<tr>
+<td style="font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 14px; line-height: 1.3em; width: 50%;" >
+<p><i>3:00pm&mdash;4:00pm Eastern Time</i><br><i>2:00pm&mdash;3:00pm Central Time</i></p>
+</td>
+<td style="font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 14px; line-height: 1.3em; width: 50%;" >
+<p><i>1:00pm&mdash;2:00pm Mountain Time</i><br><i>12:00pm&mdash;1:00pm Pacific Time</i></p>
+</td>
+</table>
+<br>
+<br>Did you know women with I/DD had longer hospital stays, and were more likely to have Caesarean deliveries in contrast to other women? Rates of adverse pregnancy outcomes were elevated for women with I/DD across a range of measures, including early labor, preterm birth, and preeclampsia, and their infants were more likely to have low birth weight. Dr. Susan Parish will present findings from a study that compared deliveries among women with I/DD to the general obstetric population, and discuss the implications of these findings, as well as the targeted interventions needed to address these detrimental outcomes. <a href="https://www.thearc.org/page.redir?target=http%3a%2f%2fbit.ly%2f1R3G8Xx&srcid=37159&srctid=1&erid=7553538&trid=1d3c8c41-17b6-4d86-a3aa-408ab0965125">Register here</a>. 
+<br><br>
+This project is funded through Rehabilitation Research and Training Center on Developmental Disabilities and Health (RRTCDD), United States Department of Health and Human Services, Administration for Community Living (ACL), National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR), Grant # 90RT5020-01-00.

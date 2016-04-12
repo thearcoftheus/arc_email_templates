@@ -1,0 +1,10 @@
+---
+layout: fusion
+title:  "News & Action Items"
+headline: "Community Health Inclusion Index: Available Now!"
+date:   2015-08-18 09:09:59
+categories: fusion-news
+image: https://pbs.twimg.com/profile_images/552217390571073536/Rcr1QCQ0.jpeg
+---
+A study about the <a href="http://www.nchpad.org/1273/5989/Community~Health~Inclusion~Index">Community Health Inclusion Index (CHII)</a>, a new evaluation tool for improving inclusion of people with disabilities in community health initiatives, was <a href="http://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-015-2381-2">recently published in the BMC Public Health Journal</a>. The information collected through the CHII can be used by public health professionals and community programs to understand the needs and develop new initiatives for improving healthy, active living among people with disabilities. The study was co-authored by the Institute on Disability and Human Development at the University of Illinois at Chicago; the University of Alabama at Birmingham/Lakeshore Foundation Research Collaborative; and the National Center on Birth Defects and Developmental Disabilities (NCBDDD) at the Centers for Disease Control and Prevention (CDC). Read the <a href="http://www.cdc.gov/ncbddd/disabilityandhealth/features/keyfinding-people-wi">key findings</a> of this study and share this valuable tool with others in your chapters! 
+To learn more about what NCBDDD is doing to improve the health of people with disabilities visit <a href="">NCBDDD's disability and health program</a>.

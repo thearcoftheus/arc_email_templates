@@ -1,0 +1,9 @@
+---
+layout: fusion
+title:  "News & Action Items"
+headline: "Deadline for Convention Proposals Extended"
+date:   2015-08-18 09:09:59
+categories: fusion-news
+image: http://convention.thearc.org/wp-content/uploads/2016/02/D797E15E84-150x150.jpg
+---
+The deadline for 2016 National Convention & International Forum proposals has been extended to April 15! <a href="https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=NZKFFANS">Share your passion and knowledge with over 660 chapters of The Arc and attendees from 115 countries represented by Inclusion International.</a> Proposals will be accepted on the following topics: <i>Access to Justice | Building Strong Organizations | Community Inclusion/Deinstitutionalization | Development | Employment | Future Planning and Person Centered Planning | Grassroots Advocacy | Health | Intimacy | Public Policy | Supporting Families</i>. Learn more about the selection process and submit a proposal here.

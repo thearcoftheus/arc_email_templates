@@ -1,0 +1,13 @@
+---
+layout: enews
+headline: "Affordable Care Act News &mdash; 2016 Open Enrollment"
+date:   2015-08-19 09:09:59
+categories: enews-section3
+---
+Now is the time for individuals who are uninsured or looking for affordable health insurance to investigate the private health insurance plans available through state marketplaces (to find your state information visit <a href="http://healthcare.gov">healthcare.gov</a>. During "open enrollment", a person can purchase private health insurance through the marketplace in each state. There may also be financial assistance to help with health care costs available for people with low and moderate income. It is also important for people who currently have insurance through the marketplace to look at their plan and determine if it will continue to meet their needs, or select a better plan. <b>Individuals who do not take action will be automatically re-enrolled in their current plan.  
+2016 Open Enrollment Dates to Remember:</b>
+<br><br>
+<ul>
+<li>December 15, 2015 &mdash; Enroll before this date to have coverage January 1, 2016</li>
+<li>January 31, 2016 &mdash; Open Enrollment Ends </li>
+</ul>

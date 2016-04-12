@@ -1,0 +1,10 @@
+---
+layout: enews
+headline: "Holiday Shopping in Entrepreneur Alley"
+date:   2015-08-18 09:09:59
+image: http://placehold.it/125
+categories: enews-section2
+---
+Last minute holiday shopping got you down? We have the solution for you! Each year The Arc invites self-advocates who own their own micro-businesses to participate in Entrepreneur Alley during The Arc's National Convention. These entrepreneurs have a variety of amazing products available for purchase.
+<br><br>
+Whatever wish list you are working to fulfill, these businesses have what you are looking for including custom artwork, greeting cards, delicious confections, jewelry, collectibles, hand crafted wood work, books, and beautiful paintings. We encourage you to skip the department stores <a href="http://blog.thearc.org/2015/12/08/holiday-shopping-in-entrepreneur-alley/">and visit some of our talented entrepreneur's websites to fill your stockings this holiday season!</a>

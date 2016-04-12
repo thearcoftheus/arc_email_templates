@@ -1,0 +1,9 @@
+---
+layout: fusion
+title:  "News & Action Items"
+headline: "Disability Policy Seminar: Happening Now!"
+date:   2015-08-18 09:09:59
+categories: fusion-news
+image: http://www.thearc.org/image/DPS_logo_partners_color_2016.png
+---
+Today is the first day of the annual 2016 Disability Policy in Washington D.C.! If you aren't joining us this year, follow the conversation online using the hashtag #DPS16 and we hope to see you next year from March 20&mdash;22 in the same location!

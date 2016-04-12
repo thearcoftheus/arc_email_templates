@@ -1,0 +1,10 @@
+---
+layout: fusion
+title:  "Letter from the CEO"
+headline: "The Power of The Arc"
+date:   2015-08-17 09:09:59
+categories: fusion-ceo
+---
+Lately, it seems that everyone is asking about alternatives to traditional day services. But what are they? As states begin to change their services systems based on the <a href="http://bit.ly/1Q1zVvw">HCBS settings rule</a>, we are even more challenged to think about how to support people with the most intensive support needs to be more engaged in their communities.  
+
+We would love to hear from you about innovative and financially sustainable program models you have developed, or are exploring, to support people with I/DD to have a personally satisfying way to spend their day. Please email me at <a href="mailto:berns@thearc.org">berns@thearc.org</a> to share what you are doing and what you are learning. Thanks. 

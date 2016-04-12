@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 11 Apr 2016 11:47:45 -0400</pubDate>
+    <lastBuildDate>Mon, 11 Apr 2016 11:47:45 -0400</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>NCE Template</title>
+        <description>
+</description>
+        <pubDate>Mon, 17 Aug 2015 05:09:59 -0400</pubDate>
+        <link>http://yourdomain.com/nce/2015/08/17/part-nce.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/nce/2015/08/17/part-nce.html</guid>
+        
+        
+        <category>nce</category>
+        
+      </item>
+    
+      <item>
+        <title>NCCJD Template</title>
+        <description>
+</description>
+        <pubDate>Mon, 17 Aug 2015 05:09:59 -0400</pubDate>
+        <link>http://yourdomain.com/nccjd/2015/08/17/part-nccjd.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/nccjd/2015/08/17/part-nccjd.html</guid>
+        
+        
+        <category>nccjd</category>
+        
+      </item>
+    
+      <item>
+        <title>GA Template</title>
+        <description>
+</description>
+        <pubDate>Mon, 17 Aug 2015 05:09:59 -0400</pubDate>
+        <link>http://yourdomain.com/ga/2015/08/17/part-ga.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/ga/2015/08/17/part-ga.html</guid>
+        
+        
+        <category>ga</category>
+        
+      </item>
+    
+      <item>
+        <title>Fusion Template</title>
+        <description>
+</description>
+        <pubDate>Mon, 17 Aug 2015 05:09:59 -0400</pubDate>
+        <link>http://yourdomain.com/fusion/2015/08/17/part-fusion.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/fusion/2015/08/17/part-fusion.html</guid>
+        
+        
+        <category>fusion</category>
+        
+      </item>
+    
+      <item>
+        <title>E-News Template</title>
+        <description>
+</description>
+        <pubDate>Mon, 17 Aug 2015 05:09:59 -0400</pubDate>
+        <link>http://yourdomain.com/enews/2015/08/17/part-enews.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/enews/2015/08/17/part-enews.html</guid>
+        
+        
+        <category>enews</category>
+        
+      </item>
+    
+      <item>
+        <title>Blank Template</title>
+        <description>
+</description>
+        <pubDate>Mon, 17 Aug 2015 05:09:59 -0400</pubDate>
+        <link>http://yourdomain.com/blank/2015/08/17/part-blank.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blank/2015/08/17/part-blank.html</guid>
+        
+        
+        <category>blank</category>
+        
+      </item>
+    
+  </channel>
+</rss>

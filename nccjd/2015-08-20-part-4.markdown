@@ -1,0 +1,11 @@
+---
+layout: nccjd
+headline: "OK THEN"
+date:   2015-08-19 09:09:59
+categories: nccjd-section2
+image: http://www.thearc.org/image/NCE-Hands.png
+---
+Don’t forget to register <a href="https://thearc2.webex.com/thearc2/onstage/g.php?MTID=e0ea1f963608e20800ba15a84c8990770">here</a> for our next webinar.
+<hr>
+<b>The Attorney Client Relationship: Bridging the Gap Between Attorneys, Clients with I/DD, and Their Families</b>, <br><i>May 26, 2016 at 1:30 pm</i>. 
+<br>Join NCCJD as we help attorneys, clients and their families understand each other’s needs and obligations during a criminal case.

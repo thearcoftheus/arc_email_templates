@@ -1,0 +1,8 @@
+---
+layout: enews
+headline:  "The Arc Announces $1.4 Million Google.org Investment in <a href='https://toolbox.thearc.org/'>Tech Toolbox</a>"
+date:   2015-08-18 09:09:59
+image: http://placehold.it/125
+categories: enews-section2
+---
+The Arc is thrilled to announce that it is a recipient of a $1.4 million grant from Google.org. Made through the Google Impact Challenge: Disabilities, the grant will support an online search, recommendation, and coaching platform that will help people with cognitive disabilities find and adopt technology to live fuller lives.   With Google.org's support, The Arc will expand the features and services around its <a href="https://toolbox.thearc.org/">Tech Toolbox</a>, a place to find, share, rate and review technology for people with I/DD.  Through a national partnership with the Comcast Foundation, The Arc was able to launch a beta version of <a href="https://toolbox.thearc.org/">Tech Toolbox</a> in 2015.  With Google.org's support, The Arc will take this to the next level and build a web platform that uses profile data and expert reviews to help people with cognitive disabilities and their caregivers easily identify the technologies that are most likely to produce positive outcomes based on evidence from people with similar profiles.  Learn more.

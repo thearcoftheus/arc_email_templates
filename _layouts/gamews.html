@@ -1,0 +1,8 @@
+---
+layout: default
+---
+{% for page in site.pages %}
+  {% if page.categories == 'ga' %}  
+    {{ page.content }}
+  {% endif %}
+{% endfor %}

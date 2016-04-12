@@ -1,0 +1,78 @@
+---
+layout: default
+---
+<html>
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+<style>
+a {
+color: #EA7125;
+}
+</style>
+</head>
+<body>
+
+<table style="width: 600px; height: 715px; border: 1px solid #000; font-family: trebuchet, arial; font-size: 10px; size: 10px; padding: 0px; margin: 0px;" cellpadding="0" cellspacing="0">
+<tr>
+<td colspan="2" style="width: 600px; height: 100px;">
+<img src="http://www.thearc.org/image/nccjd-newsletter/16-031.01-Masthead.jpg">
+</td>
+<tr valign="top">
+<td style="width: 380px; height: 465px;">
+
+{% for page in site.pages %}
+  {% if page.categories == 'nccjd-section1' %}  
+
+<div style="padding-left: 10px; padding-right: 10px; padding-top: 5px;">
+{{ page.content }}
+</div>
+
+  {% endif %}
+{% endfor %}
+
+<td>
+
+<table style="font-family: trebuchet, arial; font-size: 10px; size: 10px;" cellpadding="0" cellspacing="0">
+<tr>
+<td style="width: 220px; height: 50px;"><img src="http://www.thearc.org/image/nccjd-newsletter/Donation-Button.jpg"></td><tr>
+<td style="width: 220px; height: 170px;"><a href="http://www.thearc.org/NCCJD"><img src="http://www.thearc.org/image/nccjd-newsletter/Video-image.jpg"></a></td><tr>
+<td style="width: 220px; height: 50px;"><img src="http://www.thearc.org/image/nccjd-newsletter/16-031.01-Sign-Up-Button.jpg"></td><tr>
+<td style="width: 220px; height: 170px;">
+{% for page in site.pages %}
+  {% if page.categories == 'nccjd-section2' %}  
+
+<table width="380" cellpadding="0" cellspacing="0" style="font-family: trebuchet, arial; font-size: 10px; size: 10px; width: 380px; padding-left: 10px; padding-top: 5px; padding-right: 5px;">
+<tr>
+<td>
+{{ page.content }}
+</td>
+</tr>
+</table>
+
+  {% endif %}
+{% endfor %}
+</td><tr>
+<td style="width: 220px; height: 25px;"><a href="http://www.facebook.com/NCCJD"><img src="http://www.thearc.org/image/nccjd-newsletter/16-031.01-Facebook-Sign-Up.jpg"></a></td>
+</table>
+
+</td>
+<tr>
+<td colspan="2" style="width: 600px; height: 150px;">
+<a href="http://www.thearc.org/what-we-do/programs-and-services/national-initiatives/nccjd/legislative-resources/by-state"><img src="http://www.thearc.org/image/nccjd-newsletter/16-031.01-Banner-Ad.jpg"></a>
+</td>
+<tr>
+<td colspan="2" style="width: 600px;">
+<div style="padding: 10px;">
+This publication is supported by Grant No. 2013-MU-MX-K024 awarded by the Bureau of Justice Assistance, a component of the Office of Justice Programs. Point of views or opinions in this document are those of the author and do not necessarily represent the official position or policies of the U.S. Department of Justice.
+</div>
+</td>
+<tr>
+<td colspan="2" style="width: 600px;">
+<div style="padding: 10px; text-align: center;">
+<hr>
+If you do not want to receive future email from Criminal Justice and Disability, please <a style="color: #000000;" href="mailto:feedback@thearc.org?subject=Unsubscribe%20from%20NCCJD%20Emails" target="_blank">e-mail us</a> with the words "Unsubscribe from NCCJD Emails" in the subject line.</div>
+</td>
+</table>
+
+</body>
+</html>

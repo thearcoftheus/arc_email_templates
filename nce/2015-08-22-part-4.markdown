@@ -1,0 +1,11 @@
+---
+layout: nce-1
+title:  "Text with Caption"
+headline: "The Arc Connection"
+date:   2015-08-19 09:09:59
+categories: nce-section2
+image: https://www.thearc.org/image/The-Arc-Connection-B.png
+---
+<p style="font-family: 'Trebuchet MS', Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 18.200000762939453px;">
+As we are thinking about the holidays and reflecting up on the work that we do, it is important that we don’t forget the reasons why we are driven to serve people with I/DD.  Please take some time to view this video, <a href="http://www.thearc.org/for-chapters/chapter-leadership-development/the-arc-connection/sessions/putting-people-first">Putting People First: Key Concepts in Serving People with I/DD</a>, to get a refresher on concepts that will help you improve the ways we support and serve these amazing individuals who impact our lives every day.
+</p>

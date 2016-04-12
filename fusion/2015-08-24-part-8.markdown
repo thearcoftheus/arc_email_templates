@@ -1,0 +1,9 @@
+---
+layout: fusion
+title: "Resources & Opportunities"
+headline: "Seeking Male Sibling Caregivers"
+date:  2015-08-21 09:09:59
+categories: fusion-resources
+image: https://upload.wikimedia.org/wikipedia/en/thumb/8/89/South_Florida_Bulls_Logo2.svg/1278px-South_Florida_Bulls_Logo2.svg.png
+---
+A University of South Florida social work doctoral student is seeking male study participants for research on the effects on male siblings who become primary caregiver to and co-reside with their brother/sister with developmental disability after transitioning from the parental home. Participation includes 1-2 phone interviews about your experience of the transition itself and after the transition. If you would like to participate, please email <a href="mailto:rglaesse@mail.usf.edu">rglaesse@mail.usf.edu</a>.
