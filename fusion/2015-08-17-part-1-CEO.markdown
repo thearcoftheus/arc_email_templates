@@ -1,10 +1,10 @@
 ---
 layout: fusion
 title:  "Letter from the CEO"
-headline: "The Power of The Arc"
+headline: "Calling all cars!"
 date:   2015-08-17 09:09:59
 categories: fusion-ceo
 ---
-Lately, it seems that everyone is asking about alternatives to traditional day services. But what are they? As states begin to change their services systems based on the <a href="http://bit.ly/1Q1zVvw">HCBS settings rule</a>, we are even more challenged to think about how to support people with the most intensive support needs to be more engaged in their communities.  
-
-We would love to hear from you about innovative and financially sustainable program models you have developed, or are exploring, to support people with I/DD to have a personally satisfying way to spend their day. Please email me at <a href="mailto:berns@thearc.org">berns@thearc.org</a> to share what you are doing and what you are learning. Thanks. 
+<p>Are you taking advantage of The Arc’s Vehicle Donation Program? I just finished our 2015 Year End Review and learned that last year 200 state and local chapters of The Arc participated in the vehicle donation program. More than half, 135 chapters, received at least one donation. A total of 607 cars were donated, yielding $249,000 to our chapters.</p>
+ 
+<p>If you haven’t signed up, you can find more information <a href="http://www.thearc.org/for-chapters/chapter-resources/car-donation">here.</a>  As always, you can reach me at <a href="mailto:berns@thearc.org">berns@thearc.org</a>.</p>

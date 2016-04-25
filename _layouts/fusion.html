@@ -121,7 +121,7 @@ color: #EA7125;
 </td>
 <td style="vertical-align: top; font-family: 'Trebuchet MS',Arial,Helvetica,sans-serif; color: #000000; font-size: 14px;">
 
-<span style="font-size: 18px; color: #44697d; font-weight: bold;"><br />{{ page.headline }}</span><br />
+<span style="font-size: 18px; color: #44697d; font-weight: bold;">{{ page.headline }}</span><br />
 {{ page.content }}
 </td>
 </tr>
@@ -197,7 +197,22 @@ color: #EA7125;
 </table>
 
 
+{% for page in site.pages %}
+  {% if page.categories == 'fusion-ad' %}  
+  
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 700px; font-family: 'Trebuchet MS',Arial,Helvetica,sans-serif; color: #000000; font-size: 14px;">
+<tbody>
+<tr valign="top">
+<td>
+<table align="center" cellpadding="5"><tr valign="top"><td><a href="{{ page.link }}"><img src="{{ page.image }}"></a></td></table>
+</td>
+</tr>
+</tbody>
+</table>
 
+    
+  {% endif %}
+{% endfor %}
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 700px; font-family: 'Trebuchet MS',Arial,Helvetica,sans-serif; color: #000000; font-size: 14px; border-top: 1px solid #b2b2b2;">
 <tbody>

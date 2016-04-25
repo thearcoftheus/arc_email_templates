@@ -1,9 +1,10 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Disability Policy Seminar: Happening Now!"
+headline: "Bring Technology into the Lives of your Clients!"
 date:   2015-08-18 09:09:59
 categories: fusion-news
-image: http://www.thearc.org/image/DPS_logo_partners_color_2016.png
+image: http://www.thearc.org/image/comcast.png
 ---
-Today is the first day of the annual 2016 Disability Policy in Washington D.C.! If you aren't joining us this year, follow the conversation online using the hashtag #DPS16 and we hope to see you next year from March 20&mdash;22 in the same location!
+Would you like the chance to help better the lives of those with I/DD through technology?
+The Arc is offering sub grants to chapters for Comcast Learning Labs to bring technology into the lives of individuals with I/DD. We are seeking chapters to host recurring Learning Lab events. Chapters are not required to be in Comcast’s service area in order to apply. These events should focus on the use of technology to help individuals with I/DD. The structure of a Learning Lab may vary based on the selected chapters and their resources. However, the intention is to showcase the use of technology and the positive impact it can have on the lives of individuals with I/DD. <a href="https://docs.google.com/document/d/1RBlZx28f0weKxw1u2HaGc91TefHojw3EMUeZtta2p2o/edit?pref=2&pli=1">Take advantage of this opportunity and apply today!</a> 

@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-headline: "Request for Proposals: The Coleman Institute for Cognitive Disabilities"
+headline: "Give your Input to a New Resource Directory"
 date:  2015-08-21 09:09:59
 categories: fusion-resources
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Colorado_Buffs_alternate_logo.png/220px-Colorado_Buffs_alternate_logo.png
+image: http://www.gannett-cdn.com/-mm-/eb90774312740aa412b11f7aa8404f73eb8661b1/c=0-31-1280-993&r=x404&c=534x401/local/-/media/2014/12/15/CarolinaGroup/Asheville/635542449049292216-studentlife-wallpaper-Large-4.jpg
 ---
-The <a href="http://www.colemaninstitute.org/index.php">Coleman Institute for Cognitive Disabilities</a> at the University of Colorado has an open request for proposals (RFP) for Advancing and Promoting <a href="http://www.colemaninstitute.org/declaration"><i>The Declaration on the Rights of People with Cognitive Disabilities to Technology and Information Access.</i></a> The purpose of the RFP, due April 22, 2016, is to further advance the Declaration through five local and statewide implementation grants of up to $10,000.  Specifically, they seek creative and effective approaches to increase awareness and demonstrate effective implementation of the principles outlined in the Declaration. Find more information and apply <a href="http://www.colemaninstitute.org/index.php?option=com_content&view=article&layout=edit&id=384">here.</a>
+An MSW student at the Western Carolina University is creating of a resource directory for professionals and siblings of individuals with special needs by requesting agencies from around the United States to participate in a survey. The purpose of the survey is to learn the types of sibling supports offered at various organizations and determine the barriers to providing support when none is offered. The information obtained will be made available on an online resource directory. Participate in the survey <a href="https://wcu.az1.qualtrics.com/SE/?SID=SV_cBzqRuKG2RciRXT">here.</a>

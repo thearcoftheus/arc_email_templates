@@ -1,10 +1,12 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-headline: "American Association on Health and Disability Accepting Applications for 2016-17 Scholarship"
+headline: "Join the Nation’s Largest Autism Study Ever!"
 date:  2015-08-21 09:09:59
 categories: fusion-resources
-image: http://blog.komen.org/wp-content/uploads/2013/06/AAHD-logo-300x262.jpg
+image: https://sparkforautism.org/static/images/logo1.png
 pageposition: first
 ---
-The American Association on Health and Disability (AAHD) is accepting applications for their 2016&mdash;17 scholarship! Scholarships of up to $1,000 will be awarded to students with documented disabilities who are pursuing higher education in the fields of public health, disability studies, disability research, health promotion, or a field related to disability and health. Application deadline: November 15, 2016. <a href="http://philanthropynewsdigest.org/rfps/rfp6504-american-association-on-health-and-disability-accepting-applications-for-2016-17-scholarship?utm_medium=email&utm_source=pnd&utm_campaign=pndrfp20160325">Learn more and apply here.</a> 
+If you or your child has a professional diagnosis of autism, The Arc invites you to learn more about SPARK, a new online research study sponsored by the Simons Foundation Autism Research Initiative. The mission of SPARK is clear: speed up research and advance understanding of autism by creating the nation’s largest autism study. Joining SPARK is simple—register online and provide a DNA sample via a saliva collection kit in the comfort of your own home. <a href="http://www.SPARKforAutism.org">Visit</a>. Together, we can help spark a better future for all individuals and families affected by autism.<br /><br />
+
+&nbsp;

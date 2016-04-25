@@ -3,7 +3,7 @@ layout: fusion
 title:  "News & Action Items"
 headline: "Celebrate #TaxpayerPride Day on April 15th"
 date:   2015-08-18 09:09:59
-categories: fusion-news
+categories: fusion-news-no
 image: http://www.thearc.org/image/network-nep-logo.png
 ---
 We all pay taxes: income, payroll, sales, and property taxes are just some contributions that we all make for the common good.  Our taxes pay for the vast majority of disability programs. Let’s help protect the funding for the essential supports, services, and benefits for people with disabilities and their families. <a href="http://network-education.org/TaxpayerPride">Make April 15 is a celebration of you #TaxpayerPride:</a> 

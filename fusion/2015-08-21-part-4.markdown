@@ -1,9 +1,14 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Warning: Disability Benefit Phishing"
+headline: "Bigger! Better! More!"
 date:   2015-08-18 09:09:59
 categories: fusion-news
-image: https://oig.ssa.gov/sites/default/files/oig-logo.png
+image: http://www.thearc.org/view.image?Id=1322
 ---
-Social Security Inspector General Patrick P. O'Carroll is warning citizens to be aware of phone calls from unknown people who claim to have information about a citizen's application for disability benefits and offer assistance with the citizen's claim. The Office of the Inspector General received a report from a Maryland citizen who recently received several of these phone calls, even though the citizen had not applied for disability benefits. The callers appear to be "phishing" for personal information--such as Social Security numbers or personal financial information&mdash;from unknowing citizens, who possibly have applied for disability benefits and thus might be inclined to provide information to the caller in furtherance of his or her claim. <a href="https://oig.ssa.gov/newsroom/news-releases/march29-advisory">See the full advisory at the OIG website.</a>
+The Arc’s Silent Auction raises funds to send chapter leaders and staff to Summer Leadership Institute and NCE’s Professional Development Seminar (formerly known as Pre-Convention) for a professional development. Help your fellow colleagues by donating. Items that have been donated include:
+<ul>   
+<li>Two Indy 500 tickets to the racing capital of the world</li>
+<li>A bottle of Jack Daniels engraved with The Arc name, date and location of the national convention—purchased and engraved on-site at Jack Daniel’s distillery in Lynchburg, Tennessee.</li>
+</ul>
+Don’t wait. We need your help to make this year’s Silent Auction Bigger, Better, More! Reach out to your community businesses—anyone can donate, and anyone can bid! 
