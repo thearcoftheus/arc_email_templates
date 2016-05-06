@@ -1,8 +1,11 @@
 ---
 layout: enews
-headline: "The Arc Awarded National Grant to Engage in Martin Luther King Jr. National Service Day Activities"
+headline: "New Supports for Passengers with Autism In Atlanta"
 date:   2015-08-19 09:09:59
 categories: enews-section3
 ---
-The federal agency that leads national Martin Luther King, Jr. Day of Service, the Corporation for National and Community Service (CNCS), has selected The Arc as a grantee to execute volunteer projects. The 2016 MLK Day of Service will take place on January 18 (or surrounding dates), and The Arc, through select chapters, will be involved in service events where people with I/DD will volunteer alongside people without disabilities. The events will be related to access to healthy food. In communities that have seen an increase in unemployment and childhood poverty, food security &mdash; specifically access to healthy food&mdash; is a large concern. Find out how you can help your local community on MLK Day at <a href="http://nationalservice.gov/mlkday">nationalservice.gov/mlkday</a>. 
-
+Earlier this month, The Arc, in partnership with Hartsfield-Jackson Atlanta International Airport (ATL), Delta Air Lines, <a href="https://ga.thearc.org/">The Arc Georgia</a>, <a href="http://arcmidlands.org/">The Arc of the Midlands</a>, the Transportation Security Administration (TSA), and the <a href="http://www.flutiefoundation.org/">Doug Flutie Foundation</a> hosted a <a href="http://www.thearc.org/wings">Wings for Autism&reg;</a> event at ATL airport for the first time. 
+<br><br>
+During the event, Delta and ATL leadership unveiled the airport’s first <a href="http://news.delta.com/delta-launches-calming-room-customers-autism-spectrum">multisensory room for travelers on the autism spectrum</a>. The new room provides a soothing, supportive environment and contains a ball pit, a padded platform, a tactile activity panel and other items that individuals can interact with to help them acclimate to their travel experience.
+<br><br>
+Learn more about this exciting development at ATL on Delta’s <a href="http://news.delta.com/delta-launches-calming-room-customers-autism-spectrum">website</a>. 

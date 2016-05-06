@@ -1,8 +1,0 @@
----
-layout: enews
-title:  "New Edition of State Advocacy Matters"
-link: "http://www.thearc.org/what-we-do/public-policy/state-advocacy-matters"
-headline: ""
-date:   2015-08-21 09:09:59
-categories: enews-hotlinks
----

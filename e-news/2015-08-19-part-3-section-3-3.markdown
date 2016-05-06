@@ -2,7 +2,7 @@
 layout: enews
 headline: "Never too Young to Make an Impact"
 date:   2015-08-19 09:09:59
-categories: enews-section3
+categories: enews-section3-no
 ---
 <a href="http://www.thearc.org/wingsforautism">Wings for Autism</a> has been expanding across the country since last year, and since national expansion began more than 500 families have benefited from this innovative program. While this program obviously appeals to individuals with I/DD and their families who want a test run of what travel on an airplane might be like, this year we were pleasantly surprised when 3 teenagers made it a mission to help fundraise for this exciting program. 
 <br><br>

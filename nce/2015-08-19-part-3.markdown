@@ -1,8 +1,17 @@
 ---
 layout: nce-1
-headline: "NCE Task Groups Open for New Members"
+headline: "Registration Open for the Summer Leadership Institute"
 date:   2015-08-19 09:09:59
 categories: nce-section1
+image: http://www.thearc.org/image/SLI-promo.jpg
 ---
-Sign your chapter up for the <a href="https://www.thearc.org/page.redir?target=http%3a%2f%2fwww.thearc.org%2fnce%2fjoin-now&srcid=37159&srctid=1&erid=7553538&trid=1d3c8c41-17b6-4d86-a3aa-408ab0965125">NCE Gold Membership pass!</a> With this level of membership, all your chapter staff and volunteers will have access to The Arc's comprehensive professional development program, <a href="https://www.thearc.org/page.redir?target=http%3a%2f%2fwww.thearc.org%2fnce&srcid=37159&srctid=1&erid=7553538&trid=1d3c8c41-17b6-4d86-a3aa-408ab0965125">NCE of The Arc Chapter Leadership Program</a>. This program consists of in-person training and networking opportunities, online webinars and discussion forums that serve the needs of your management and program staff. NCE members also have the opportunity to attend Summer Leadership Institute and NCE Pre-Convention at reduced rates. Sign up today!
+Three days, captivating speakers, the ultimate location! Join us in Palm Springs for a luxurious 3-day retreat full of learning, networking, and fun. This year’s theme is Community for All—Our Promise, Our Challenge. At the Summer Leadership Institute, you’ll:
+<ul>
+<li>Engage with disability leaders as they share knowledge and best practices </li>
+<li>Learn how to build more inclusive communities </li>
+<li>Strengthen your leadership skills </li>
+<li>Make invaluable connections with other staff and professionals </li>
+<li>Unwind with golf courses, hot springs, the hotel spa, hiking, biking, and <a href="http://nce-sli.org/?page_id=151">more.</a></li>
+</ul>
 
+<p>Take advantage of our Early Bird Rate while it lasts! <a href="http://nce-sli.org/">Register today</a>.</p>

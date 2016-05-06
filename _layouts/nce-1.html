@@ -39,6 +39,19 @@ color: #EA7125;
   {% if page.categories == 'nce-section1' %}  
 <tr>
 <td style="padding: 5px 10px 10px; font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 14px; line-height: 1.3em;" colspan="2" valign="top">
+<p>
+{% if page.image %}
+<table align="left" style="float: left;">
+<tbody>
+<tr>
+<td>
+<p><img src="{{ page.image }}" width="170" style="padding-right: 10px;"></p>
+</td>
+</tr>
+</tbody>
+</table>
+{% endif %}
+</p>
 <p style="font-family: 'Trebuchet MS', Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 18.200000762939453px;"><span style="color: #44697d; font-weight: bold;">{{ page.headline }}</span></p>
 <p style="font-family: 'Trebuchet MS', Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 18.200000762939453px;">
 {{ page.content }}
@@ -58,6 +71,8 @@ color: #EA7125;
 <tr>
 <td style="padding: 5px 10px 10px; font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 14px; line-height: 1.3em; border-bottom: 1px solid #b2b2b2;" colspan="2" valign="top">
 <p>
+
+{% if page.image %}
 <table align="left" style="float: left;">
 <tbody>
 <tr>
@@ -67,6 +82,8 @@ color: #EA7125;
 </tr>
 </tbody>
 </table>
+{% endif %}
+
 <span style="color: #44697d; font-weight: bold;">{{ page.headline }}</span></p>
 {{ page.content }}
 </td>

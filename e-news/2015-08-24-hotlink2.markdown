@@ -1,8 +1,8 @@
 ---
 layout: enews
-title:  "Donate Your Car to Support The Arc!"
-headline: "New State Advocacy Matters Available"
+title:  "Three days, captivating speakers, the ultimate location!"
+headline: "Three days, captivating speakers, the ultimate location!"
 date:   2015-08-21 09:09:59
 categories: enews-hotlinks
-link: http://www.thearc.org/dont-cut-our-lifeline
+link: http://nce-sli.org/
 ---

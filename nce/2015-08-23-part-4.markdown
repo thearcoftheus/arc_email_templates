@@ -2,7 +2,7 @@
 layout: nce-1
 headline:  "Resources & Opportunities"
 date:   2015-08-22 09:09:59
-categories: nce-section2
+categories: nce-section2-no
 image: https://www.thearc.org/view.image?Id=2952
 ---
 <p style="font-family: 'Trebuchet MS', Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 18.200000762939453px;">

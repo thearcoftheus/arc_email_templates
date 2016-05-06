@@ -1,8 +1,8 @@
 ---
 layout: enews
-title:  "Donate Your Car to Support The Arc!"
+title:  "Build Your Own Plan with The Arc’s Center on Future Planning&trade; "
 headline: ""
 date:   2015-08-21 09:09:59
 categories: enews-hotlinks
-link: http://www.thearc.org/car-donation-form
+link: https://futureplanning.thearc.org/landing
 ---
