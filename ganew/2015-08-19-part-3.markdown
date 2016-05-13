@@ -1,0 +1,12 @@
+---
+layout: ganew
+headline: "NCE Task Groups Open for New Members"
+date:   2015-08-19 09:09:59
+categories: ganew-section1
+hero: http://www.thearc.org/image/prism/prismhero.jpg
+herourl: http://autismnow.org/
+---
+<h2>Mark Your Calendars to Advocate at the Capitol</h2>
+<p>
+Join us on March 10, at the Georgia Capitol to talk with legislators about specific issues, such as addressing the disparity in pay rates between waiver programs for direct support professionals.
+</p>

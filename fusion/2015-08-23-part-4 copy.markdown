@@ -1,0 +1,9 @@
+---
+layout: fusion
+title:  "News & Action Items"
+headline: "Chapter Spotlight: The Arc of Shiawassee County"
+date:   2015-08-18 09:09:59
+categories: fusion-news
+image: http://www.cookfamilyfoundation.org/wp-content/uploads/2015/12/Arc_Shiawassee_Color_Pos_JPG-1024x727.jpg
+---
+Congratulations to The Arc of Shiawassee County on being featured as a capacity building partner by The Cook Family Foundation. Over the last year, the chapter had some major staff and program shifts and The NonProfit Capacity Development Program has helped them develop in the areas of board governance, new policies, and building their fundraising opportunities—<a href="http://www.cookfamilyfoundation.org/capacity-building/meet-our-nonprofit-partners-and-members-in-capacity-building/">and it’s paid off!</a>

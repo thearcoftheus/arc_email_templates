@@ -3,7 +3,7 @@ layout: fusion
 title: "Resources & Opportunities"
 headline: "Can we Predict Quality of Life?"
 date:  2015-08-21 09:09:59
-categories: fusion-resources
+categories: fusion-resources-no
 image: http://www.oscer.ou.edu/images/ou_logo_400x560.jpg
 ---
 A doctoral student in the Department of Educational Psychology at the University of Oklahoma is seeking volunteers (aged 18-64 who have an autism spectrum disorder) to participate in a research study exploring predictors of quality of life for adults with autism spectrum disorders. Participants will be asked to spend 15-20 minutes answering questions in an online survey concerning thoughts about relationships, employment, health, and wellbeing. Questions or concerns can be directed to Eileen Parker by calling 405.325.2914 or emailing briski@ou.edu or Dr. Denise Beesley at <a href="mailto:Melissa.Frey-1@ou.edu">dbeesley@ou.edu</a>. <a href="https://ousurvey.qualtrics.com/SE/?SID=SV_eaK9bK4N48bvLil">Get involved here</a>.

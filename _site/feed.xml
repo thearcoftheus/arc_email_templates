@@ -6,9 +6,22 @@
 </description>
     <link>http://thearcoftheus.github.io/arc_email_templates/</link>
     <atom:link href="http://thearcoftheus.github.io/arc_email_templates/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 May 2016 10:31:39 -0400</pubDate>
-    <lastBuildDate>Fri, 06 May 2016 10:31:39 -0400</lastBuildDate>
+    <pubDate>Fri, 13 May 2016 15:22:18 -0400</pubDate>
+    <lastBuildDate>Fri, 13 May 2016 15:22:18 -0400</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Prism Template</title>
+        <description>
+</description>
+        <pubDate>Mon, 17 Aug 2015 05:09:59 -0400</pubDate>
+        <link>http://thearcoftheus.github.io/arc_email_templates/prism/2015/08/17/part-prism.html</link>
+        <guid isPermaLink="true">http://thearcoftheus.github.io/arc_email_templates/prism/2015/08/17/part-prism.html</guid>
+        
+        
+        <category>prism</category>
+        
+      </item>
     
       <item>
         <title>NCE Template</title>
@@ -33,6 +46,19 @@
         
         
         <category>nccjd</category>
+        
+      </item>
+    
+      <item>
+        <title>GA Template New</title>
+        <description>
+</description>
+        <pubDate>Mon, 17 Aug 2015 05:09:59 -0400</pubDate>
+        <link>http://thearcoftheus.github.io/arc_email_templates/ganew/2015/08/17/part-ganew.html</link>
+        <guid isPermaLink="true">http://thearcoftheus.github.io/arc_email_templates/ganew/2015/08/17/part-ganew.html</guid>
+        
+        
+        <category>ganew</category>
         
       </item>
     

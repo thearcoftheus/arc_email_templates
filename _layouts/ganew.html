@@ -1,0 +1,116 @@
+---
+layout: default
+---
+<html>
+<head>
+<style>
+body {
+margin: 0 auto;
+width: 600px;
+font-family: trebuchet ms, arial;
+background-color: white;
+}
+a {
+color: black;
+font-size: 14px;
+font-family: trebuchet ms, arial;
+}
+p {
+color: black;
+font-size: 14px;
+font-family: trebuchet ms, arial;
+}
+h1 {
+font-size: 18px;
+color: #000;
+}
+h2 {
+font-size: 16px;
+color: #44697d;
+}
+</style>
+</head>
+<body>
+
+<table width="600" style="width: 600px;" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="http://www.thearc.org/image/ganew/Header.jpg"></td>
+<tr>
+<td>
+
+<table width="600" style="width: 600px;" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="http://www.thearc.org/image/ganew/Donate-Button.jpg"></td>
+<td><img src="http://www.thearc.org/image/ganew/Engage-Button.jpg"></td>
+<td><img src="http://www.thearc.org/image/ganew/Facebook-Button.jpg"></td>
+<td><img src="http://www.thearc.org/image/ganew/Twitter.jpg"></td>
+<td><img src="http://www.thearc.org/image/ganew/RSS.jpg"></td>
+</table>
+
+
+</td>
+<tr>
+
+{% for page in site.pages %}
+  {% if page.categories == 'ganew-section1' %}  
+  
+<td>
+<h1>LATEST NEWS</H1>
+
+{{ page.content }}
+
+<a href="{{ page.herourl }}"><img src="{{ page.hero }}"></a>
+
+</td>
+
+  {% endif %}
+{% endfor %}
+
+<tr>
+<td style="padding: 10px;">
+
+{% for page in site.pages %}
+  {% if page.categories == 'ganew-section2' %}  
+  
+{{ page.content }}
+
+  {% endif %}
+{% endfor %}
+
+</td>
+<tr>
+<td style="padding: 10px;">
+
+{% for page in site.pages %}
+  {% if page.categories == 'ganew-section3' %}  
+  
+{{ page.content }}
+
+  {% endif %}
+{% endfor %}
+
+
+</td>
+<tr>
+<td style="padding: 10px;">
+
+{% for page in site.pages %}
+  {% if page.categories == 'ganew-section4' %}  
+  
+{{ page.content }}
+
+  {% endif %}
+{% endfor %}
+
+</td>
+<tr>
+<td>
+<table width="600" style="width: 600px;" cellpadding="0" cellspacing="0">
+<tr>
+<td><a href="https://ga.thearc.org/"><img src="http://www.thearc.org/image/ganew/Footer.jpg"></a></td>
+</table>
+
+</td>
+</table>
+</body>
+</html>

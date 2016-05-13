@@ -3,7 +3,7 @@ layout: fusion
 title: "Resources & Opportunities"
 headline: "Join the Nation’s Largest Autism Study Ever!"
 date:  2015-08-21 09:09:59
-categories: fusion-resources
+categories: fusion-resources-no
 image: https://sparkforautism.org/static/images/logo1.png
 pageposition: first
 ---

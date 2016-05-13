@@ -1,14 +1,9 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Bigger! Better! More!"
+headline: "Learn about the Build Your Plan™ future planning tool!"
 date:   2015-08-18 09:09:59
 categories: fusion-news
-image: http://www.thearc.org/view.image?Id=1322
+image: https://www.thearc.org/image/CFP-Lockup-Color.jpg
 ---
-The Arc’s Silent Auction raises funds to send chapter leaders and staff to Summer Leadership Institute and NCE’s Professional Development Seminar (formerly known as Pre-Convention) for a professional development. Help your fellow colleagues by donating. Items that have been donated include:
-<ul>   
-<li>Two Indy 500 tickets to the racing capital of the world</li>
-<li>A bottle of Jack Daniels engraved with The Arc name, date and location of the national convention—purchased and engraved on-site at Jack Daniel’s distillery in Lynchburg, Tennessee.</li>
-</ul>
-Don’t wait. We need your help to make this year’s Silent Auction Bigger, Better, More! Reach out to your community businesses—anyone can donate, and anyone can bid! 
+The Arc’s Center for Future Planning™ is committed to supporting families and individuals with I/DD to plan for the future. The Center is working to provide chapters of The Arc with information and resources to support (existing and new) program efforts around future planning and family support. The Center recently launched Build Your Plan™, an online tool that enables families to create accounts and begin to build their plans. Check out the <a href="http://bit.ly/23mqARV9">demonstration webinar</a> to learn more about how to navigate Build Your Plan and encourage families to begin creating plans! Visit futureplanning.thearc.org to <a href="https://futureplanning.thearc.org/pages/learn/where-to-start/chapter-staff">access resources</a> to support your future planning efforts. Contact <a href="mailto:Daniel@thearc.org">Max Daniel</a> with questions.

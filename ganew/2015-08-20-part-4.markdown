@@ -1,0 +1,13 @@
+---
+layout: ganew
+headline: "OK THEN"
+date:   2015-08-19 09:09:59
+categories: ganew-section2
+---
+
+
+<h4><a href="https://www.thearc.org/thearcatwork-order-talentscout">TalentScount</a></h4>
+<p>a resource for employers hiring people with autism</p>
+
+<h4><a href="http://www.thearc.org/what-we-do/resources/toolkits/vote">Know Your Right to Vote</a></h4>
+<p>Info on rights for voters with disabilities for Election 2016</p>

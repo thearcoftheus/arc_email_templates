@@ -1,0 +1,12 @@
+---
+layout: ganew
+headline: "OK THEN"
+date:   2015-08-19 09:09:59
+categories: ganew-section3
+---
+<h2>FROM OUR DIRECTOR</h2>
+
+<h5><span style="color: #EA7125">October 27-29</span> | The Arc's National Convention & International Forum | Orlando, Florida</h5>
+<p>
+Registration opens in May for this once a yearincredible opportunity to network and learn with other people with autism and other intellectual and developmental disabilities! This year, we will be partnering with Inclusion International for a global event. Join the conversation as people from all over the world share struggles, successes, and hopes for the future. Learn more and register on Check back at ourthe event website to <a href="http://convention.thearc.org/">register</a> and learn more!
+</p>

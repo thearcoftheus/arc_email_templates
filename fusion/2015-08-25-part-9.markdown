@@ -3,7 +3,7 @@ layout: fusion
 title: "Resources & Opportunities"
 headline: "Online Resource Directory: Give Your Input"
 date:  2015-08-21 09:09:59
-categories: fusion-resources-1
+categories: fusion-resources-no
 image: https://s.graphiq.com/sites/default/files/618/media/images/Western_Carolina_University_NC_3_391338.jpg
 ---
 An MSW student at the Western Carolina University is creating an online resource directory for professionals and siblings of individuals with I/DD. The purpose of the survey is to learn the types of sibling supports offered at various organizations and determine the barriers to providing support when none is offered. <a href="https://wcu.az1.qualtrics.com/SE/?SID=SV_cBzqRuKG2RciRXT">Take the survey here.</a>
