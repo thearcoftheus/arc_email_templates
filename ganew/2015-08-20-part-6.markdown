@@ -4,9 +4,31 @@ headline: "OK THEN"
 date:   2015-08-19 09:09:59
 categories: ganew-section4
 ---
-<h2>UPCOMING EVENTS</h2>
+<h1>UPCOMING EVENTS</h1>
 
-<h5><span style="color: #EA7125">October 27-29</span> | The Arc's National Convention & International Forum | Orlando, Florida</h5>
-<p>
-Registration opens in May for this once a yearincredible opportunity to network and learn with other people with autism and other intellectual and developmental disabilities! This year, we will be partnering with Inclusion International for a global event. Join the conversation as people from all over the world share struggles, successes, and hopes for the future. Learn more and register on Check back at ourthe event website to <a href="http://convention.thearc.org/">register</a> and learn more!
-</p>
+<table>
+<tbody>
+<tr>
+<td width="50">
+<p><img height="50" src="http://www.thearc.org/view.image?Id=5402" width="50" /></p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p class="MsoNormal"><span style="font-size: 10pt;"><a href="http://ga.thearc.org/event/autism-conference-expo-peachtree-city-ga/">Autism Conference &amp; Expo&nbsp;Peachtree City, GA</a><span style="font-family: 'Trebuchet MS';"><br /></span><span style="font-family: 'Trebuchet MS';">April 14 - April 15</span></span><span style="font-size: 10pt; text-decoration: underline;"><br /></span></p>
+</td>
+</tr>
+<tr>
+<td width="50">&nbsp;</td>
+<td>&nbsp;&nbsp;&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td width="50"><img height="50" src="http://www.thearc.org/view.image?Id=5397" width="50" /></td>
+<td>&nbsp;</td>
+<td>
+<p class="MsoNormal"><span style="font-size: 10pt;"><a style="font-family: 'Trebuchet MS', Arial, Verdana, Helvetica, sans-serif; font-size: 14px;" href="http://ga.thearc.org/event/being-the-beloved-community-welcoming-children-of-all-abilities-to-church/"><span style="font-size: 10pt;">Being the Beloved Community: &nbsp;Welcoming Children of All Abilities to Church</span></a><br style="font-family: 'Trebuchet MS', Arial, Verdana, Helvetica, sans-serif; font-size: 14px;" /><span style="font-size: 10pt;"><span style="font-family: 'Trebuchet MS';">May 9 - May 12</span></span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="font-family: 'Trebuchet MS', Arial, Verdana, Helvetica, sans-serif; font-size: 14px; text-align: right;"><a href="http://ga.thearc.org/events/">VIEW MORE</a><span style="text-align: left;">&nbsp;</span></p>

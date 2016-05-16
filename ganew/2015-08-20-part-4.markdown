@@ -5,9 +5,11 @@ date:   2015-08-19 09:09:59
 categories: ganew-section2
 ---
 
-
-<h4><a href="https://www.thearc.org/thearcatwork-order-talentscout">TalentScount</a></h4>
-<p>a resource for employers hiring people with autism</p>
-
-<h4><a href="http://www.thearc.org/what-we-do/resources/toolkits/vote">Know Your Right to Vote</a></h4>
-<p>Info on rights for voters with disabilities for Election 2016</p>
+<table width="590" style="590px;" cellpadding="0" cellspacing="10">
+<tr valign="top">
+<td width="100" style="width: 100px;"><img src="http://www.thearc.org/image/placeholder-100x100.jpg"></td>
+<td width="500" style="width: 500px;"><h2>The Beloved Connections Made at the GWI</h2><p>Georgia Winter Institute is a great collaboration between disability organizations. Labels are pushed aside and the joys and challeges of life are shared. See photos from the latest gathering. READ MORE.</p></td>
+<tr valign="top">
+<td width="100" style="width: 100px; padding-top: 20px;"><img src="http://www.thearc.org/image/placeholder-100x100.jpg"></td>
+<td width="500" style="width: 500px; padding-top: 20px;"><h2>Check out The Arc Georgia Online</h2><p>The Arc Georgia's brand new website is a hub of important information and critical resources. You can also appreciate the photographic artistry of Ryan Johnson who captures so intensely the spirit of local advocates. Stay tuned... your photo may be posted next</p></td>
+</table>

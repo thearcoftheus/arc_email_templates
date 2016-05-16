@@ -4,9 +4,17 @@ headline: "OK THEN"
 date:   2015-08-19 09:09:59
 categories: ganew-section3
 ---
-<h2>FROM OUR DIRECTOR</h2>
+<h1>FROM OUR DIRECTOR</h1>
 
-<h5><span style="color: #EA7125">October 27-29</span> | The Arc's National Convention & International Forum | Orlando, Florida</h5>
-<p>
-Registration opens in May for this once a yearincredible opportunity to network and learn with other people with autism and other intellectual and developmental disabilities! This year, we will be partnering with Inclusion International for a global event. Join the conversation as people from all over the world share struggles, successes, and hopes for the future. Learn more and register on Check back at ourthe event website to <a href="http://convention.thearc.org/">register</a> and learn more!
-</p>
+<table width="590" style="590px;" cellpadding="0" cellspacing="10">
+<tr valign="top">
+<td width="100" style="width: 100px;"><img src="http://www.thearc.org/view.image?Id=5400" width="100" style="width: 100px;"></td>
+<td width="500" style="width: 500px;"><p>Hello, 
+<br><br>
+I joined The Arc Georgia as State Director just a few months ago, and have been on the road getting to know the great advocates at local chapters.  I want to express great appreciation for the warm reception and special invitations to events I’ve attended in the last three months, including: the Albany ARC Awards Banquet, Board meetings with The Arc of Grady Thomas and The Arc Carroll County, a training with The Arc Douglas County, The Arc of Greater Columbus’ involvement at the Georgia Winter Institute, and a lively dance at The Arc Carroll County. Soon I will be delivering a keynote address with The Arc Macon. I’m looking forward to many successful collaborations with the Georgia chapters of The Arc in the months to come. 
+<br><br>
+Sincerely,
+<br><br>
+<img src="http://www.thearc.org/view.image?Id=5380">
+</p></td>
+</table>

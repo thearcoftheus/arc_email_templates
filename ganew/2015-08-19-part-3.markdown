@@ -3,8 +3,8 @@ layout: ganew
 headline: "NCE Task Groups Open for New Members"
 date:   2015-08-19 09:09:59
 categories: ganew-section1
-hero: http://www.thearc.org/image/prism/prismhero.jpg
-herourl: http://autismnow.org/
+hero: http://www.thearc.org/image/capitol.jpg
+herourl: https://ga.thearc.org/
 ---
 <h2>Mark Your Calendars to Advocate at the Capitol</h2>
 <p>
