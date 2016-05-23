@@ -154,6 +154,7 @@ color: #EA7125;
 
 </div>
 </td>
+<tr>
   {% endif %}
 {% endfor %}
 {% for page in site.pages %}
@@ -170,14 +171,18 @@ color: #EA7125;
 
 </div>
 </td>
-    
+    <tr>
   {% endif %}
 {% endfor %}
+
+
+
+
 {% for page in site.pages %}
   {% if page.categories == 'fusion-webinar-3' %}  
-<tr>
 
-<td style="vertical-align: top; text-align: left; border: 3px solid #474747; padding: 10px; background-color: lightyellow; width: 50%;" colspan="2">
+
+<td style="vertical-align: top; text-align: left; border: 3px solid #474747; padding: 10px; background-color: lightyellow; width: 50%;">
 <span style="color: #44697d; font-weight: bold; font-size: 18px;">{{ page.headline }}</span>
 
 <br /><i>{{ page.webdate }}</i><br><br>
@@ -188,7 +193,7 @@ color: #EA7125;
 
 </div>
 </td>
-
+<tr>
   {% endif %}
 {% endfor %}
 

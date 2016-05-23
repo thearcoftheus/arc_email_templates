@@ -1,10 +1,9 @@
 ---
 layout: fusion
 title:  "2 Box Callout"
-headline: "The Attorney Client Relationship: Bridging the Gap Between Attorneys, Clients with I/DD, and Their Families"
-webdate: "Thursday, May 26 from 1:30 &mdash; 3:00 pm EST"
+headline: "Future Planning for People with Dual Diagnoses of I/DD and Mental Health Needs:  Strategies and Challenges"
+webdate: "Tuesday, June 21 at 2:00 pm EDT"
 date:   2015-08-20 09:09:59
 categories: fusion-webinar-1
 ---
-<b>Presenters: Steve Gordo</b>, Parent Advocate, <b>Elizabeth Kelley</b>, Criminal Defense Attorney and Member of the Board of Directors, National Association of Criminal Defense Lawyers, <b>Ashley Brompton</b>, Criminal Justice Fellow, NCCJD   
-Join NCCJD as we help attorneys, clients, and their families understand each other’s needs and obligations during a criminal case, and how they can work together to ensure the best representation possible for people with I/DD. Mr. Gordo will speak about his son, Paul, who has autism and was charged with assault after experiencing sensory overload at a library. Hear how the Gordo family was able to work with their defense attorney to get the charges reduced from a major felony to a misdemeanor. Ms. Kelley will discuss the ethics of representing someone with I/DD and the perspective of the attorney in cases where the client has I/DD. Ashley Brompton will discuss how the worlds of clients/families and attorneys can come together and help each other. <a href="http://bit.ly/26X2H87">Register here.</a>
+Creating a future plan—a guide for a person to lead a good life as independently as possible—is important for all people with I/DD. Please join us for a panel discussion on strategies that people with dual diagnoses of I/DD and mental health needs and their family members can use to create future plans that build on the individual’s strengths, likes, and dislikes. Join our panelists as we identify challenges in planning for people with dual diagnoses and explore how to identify and implement strategies to provide the greatest opportunity for independence and growth for each individual, as well as ways to support people through the grief and loss that comes with transitions. <a href="http://bit.ly/1rWoaOb">Register here.</a>

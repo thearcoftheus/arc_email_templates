@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Bring Technology into the Lives of People with I/DD!"
+headline: "Registration Open: 2016 National Convention & International Forum"
 date:   2015-08-18 09:09:59
 categories: fusion-news
-image: http://www.thearc.org/image/comcast.png
+image: 
 ---
-The Arc is offering sub grants to chapters to host recurring Comcast Learning Labs which will run from July 2016-December 2016.  Chapters are not required to be in Comcast’s service area in order to apply. These events should focus on the use of technology to help individuals with I/DD, with the intention of showcasing its positive impact. The structure of a Learning Lab may vary based on the selected chapters and their resources. <a href="https://docs.google.com/document/d/1RBlZx28f0weKxw1u2HaGc91TefHojw3EMUeZtta2p2o/edit?pref=2&pli=1">Take advantage of this opportunity and apply before May 20th!</a>
+Join us in the happiest place on Earth for our 2016 National Convention & International Forum, in partnership with Inclusion International! <a href="http://convention.thearc.org">Don’t wait—take advantage of the early bird price while it lasts!</a> Our theme, “Shaping the Future”, will explore how we can collaboratively impact the I/DD community globally. This year, we are excited to host the full cast of A&E’s hit docuseries Born This Way as our keynote speakers. Attendees will have the opportunity to mingle with the cast and get autographs at a variety of events. But there’s much more! <a href="http://convention.thearc.org">Check out the convention site</a> to explore the schedule of events and all there is to do in Disney!

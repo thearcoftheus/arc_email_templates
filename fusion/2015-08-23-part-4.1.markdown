@@ -1,0 +1,9 @@
+---
+layout: fusion
+title:  "News & Action Items"
+headline: "Grant Expands Health and Fitness for All "
+date:   2015-08-18 09:09:59
+categories: fusion-news
+image: http://www.healthmattersprogram.org/healthmatters_files/stacks_image_445.png
+---
+Thanks to the generous support of the Amerigroup Foundation, three chapters of <a href="http://www.arc-sa.org/">The Arc—The Arc of San Antonio</a>, <a href="http://www.aogh.org/">The Arc of Greater Houston</a>, and <a href="https://www.thearctn.org/">The Arc of Tennessee</a> —are now implementing the Health and Fitness for All program. Health and Fitness for All utilizes the <a href="http://www.healthmattersprogram.org/healthmatters.html">HealthMatters</a>™ curriculum, which certifies chapters to run a 12-week health and fitness program for individuals with I/DD in their community. <a href="http://blog.thearc.org/2016/04/15/arc-awarded-grant-amerigroup-foundation-health-fitness-project/">Check out our blog</a> to learn more about the Health and Fitness for All program. 

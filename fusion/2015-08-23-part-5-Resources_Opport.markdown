@@ -1,12 +1,10 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-headline: "Join the Nation’s Largest Autism Study Ever!"
+headline: "Is your Chapter Interested in Starting a Planned Giving Program?"
 date:  2015-08-21 09:09:59
-categories: fusion-resources-no
-image: https://sparkforautism.org/static/images/logo1.png
+categories: fusion-resources
+image: 
 pageposition: first
 ---
-If you or your child has a professional diagnosis of autism, The Arc invites you to learn more about SPARK, a new online research study sponsored by the Simons Foundation Autism Research Initiative. The mission of SPARK is clear: speed up research and advance understanding of autism by creating the nation’s largest autism study. Joining SPARK is simple—register online and provide a DNA sample via a saliva collection kit in the comfort of your own home. <a href="http://www.SPARKforAutism.org">Visit</a>. Together, we can help spark a better future for all individuals and families affected by autism.<br /><br />
-
-&nbsp;
+Don’t miss your chance to work collaboratively with chapter peers around the country to grow your organization for the future! The Arc’s National Planned Giving Program currently provides over 35 chapters with training in planned giving, discounted marketing resources, technical assistance and the framework to create a pipeline of gifts. To learn more about how your chapter will benefit from this program, please contact Laura Rahman, Manager Individual Giving, at 202.534.3713 or via email at <a href="mailto:Rahman@thearc.org">Rahman@thearc.org</a>.

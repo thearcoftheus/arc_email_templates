@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "2016 NBCUniversal Tony Coelho Media Scholarship Open for Applicants!"
+headline: "Help Spread the NCE Love!"
 date:   2015-08-18 09:09:59
-categories: fusion-news-no
-image: http://www.aapd.com/wp-content/themes/aapd/markup/images/logo.jpg
+categories: fusion-news
+image: https://www.thearc.org/view.image?Id=1322
 ---
-The American Association of People with Disabilities (AAPD) is offering eight NBCUniversal Tony Coelho Media Scholarships in 2016. The NBCUniversal Tony Coelho Media Scholarship is available to 2nd year associate students; undergraduate sophomores, juniors, and seniors; and graduate students with disabilities who are pursuing communications or media-related degrees. Each recipient will receive $5,625 for tuition and fees at their college or university. Deadline: July 1, 2015 at 5pm ET. Do you know someone who might be interested? Learn more by visiting the <a href="http://www.aapd.com/nbcuniversal-tony-coelho-media-scholarship-program/">AAPD website.</a> 
+<a href="http://convention.thearc.org/sessions/nce-silent-auction/">Donating an item to our Silent Auction</a> will help raise scholarship money so other professionals in The Arc’s network can attend Summer Leadership and Professional Development Seminar and develop their skills. And, it’s easy! Don’t wait. We need your help to make this year’s Silent Auction Bigger, Better, More! Your donations last year gave <strong>eight</strong> professionals the opportunity to develop their skills at this year’s SLI. <a href="http://convention.thearc.org/sessions/nce-silent-auction/">Donate today!</a> Please contact Thuba Nguyen at <a href="mailto:tnguyen@thearc.org">tnguyen@thearc.org</a> if you have questions. 

@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title:  "2 Box Callout"
-headline: "Crisis Services and Community Integration"
-webdate: "Monday, May 9 from 3:30 &mdash; 5:00 pm EDT"
+headline: "Becoming ABLE Ready: Choosing the Right Program for You"
+webdate: "Thursday, May 26, from 2:00 &mdash; 3:30 pm ET"
 date:   2015-08-20 09:09:59
 categories: fusion-webinar-3
 ---
-The Bazelon Center for Mental Health Law presents a new webinar on the requirements of the Americans with Disabilities Act and the Olmstead decision regarding provision of crisis services for people with psychiatric disabilities. <b>Jennifer Mathis</b>, Bazelon's deputy legal director, will provide an overview of the legal framework that governs state obligations. <b>Kappy Madenwald</b> of Madenwald Consulting will describe the essential elements and practices of an effective mental health crisis system. <b>Glenda Wrenn</b>, Director of the Division of Behavioral Health at the Satcher Health Leadership Institute at Morehouse School of Medicine, will discuss an initiative she led to make improvements to crisis services as part of efforts to comply with Georgia's Olmstead settlement with the Justice Department, and her ongoing work in Georgia to bring successful crisis services to scale. Contact Bethany Lilly at <a href="mailto:bethanyl@bazelon.org">bethanyl@bazelon.org</a> with questions. <a href="https://nasmhpd.adobeconnect.com/integration_reg/event/event_info.html">Register here.</a>
+With several state ABLE programs preparing to begin enrollment, the ABLE National Resource Center (ANRC) would like to invite potential ABLE participants, their families, and all other ABLE stakeholders, to attend a free webinar focused on helping you understand how to determine which ABLE program might be best for you and how to best prepare to open your ABLE account. In addition to our presenter and moderator, Michael Morris, the webinar will also feature the perspectives of a diverse group of guest panelists comprised of both potential ABLE beneficiaries and family members. <a href="http://bit.ly/1TEHmWF">Register here.</a>

@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-headline: "Online Resource Directory: Give Your Input"
+headline: "Exploring Connections: Autism Spectrum Disorder"
 date:  2015-08-21 09:09:59
-categories: fusion-resources-no
-image: https://s.graphiq.com/sites/default/files/618/media/images/Western_Carolina_University_NC_3_391338.jpg
+categories: fusion-resources
+image: http://wgac.com/wp-content/uploads/sites/20/2016/01/12507123_10154090053794384_4284277683688288671_n.jpg
 ---
-An MSW student at the Western Carolina University is creating an online resource directory for professionals and siblings of individuals with I/DD. The purpose of the survey is to learn the types of sibling supports offered at various organizations and determine the barriers to providing support when none is offered. <a href="https://wcu.az1.qualtrics.com/SE/?SID=SV_cBzqRuKG2RciRXT">Take the survey here.</a>
+Researchers at Augusta University are exploring connections between behaviors, diagnoses, interactions, and experiences in the lives of adults diagnosed within the spectrum (including Asperger’s). If you are an adult (18 or older) who has been diagnosed with an autism spectrum disorder, you are invited to participate in the study <a href="http://augustastate.co1.qualtrics.com/SE/?SID=SV_cFOKo6jKoobbFGZ">here.</a> Please contact Dr. Melissa Powell-Williams at <a href="mailto:mpwilliams@augusta.edu">mpwilliams@augusta.edu</a> with any questions or concerns. 
