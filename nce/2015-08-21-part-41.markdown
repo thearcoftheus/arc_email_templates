@@ -1,17 +1,10 @@
 ---
 layout: nce-1
-headline: "Nominate Yourself or a Colleague for A NCE Distinguished Professional Award"
+headline: "Eager to donate an item for NCE Silent Auction?  You’re in luck!"
 date:   2015-08-19 09:09:59
 categories: nce-section2
-image: https://www.thearc.org/image/May-NCE-Newsletter-article-4.jpg
+image: https://www.thearc.org/image/Silent-Auction-Photo-2014poc-Convention.jpg
 ---
-We are excited to announce that the NCE Distinguished Professional Awards Application is open until May 15. This year, we are pleased to introduce four new awards:
-
-<ul>
-<li><u>Exemplary Career Leadership:</u> Executive Directors/CEOs retiring during the period of November 1, 2015 and September 30, 2016, who have been part of The Arc movement for at least ten years.</li>
-<li><u>Exemplary Mentor:</u> CEOs/Executive Directors whose mentorship of one or more NCE member(s) has resulted in the mentees’ demonstrated professional growth.</li>
-<li><u>Diversity and Cultural Competency:</u> Executive Directors/CEOs who have successfully leveraged the skills of their staff to provide innovative program(s) that meet the needs of a diverse I/DD community.</li>
-<li><u>Program Innovation:</u> Executive Directors/CEOs whose chapters have successfully designed and implemented an innovative program to meet the needs of people with I/DD in their community.</li>
-</ul>
-
-<a href="https://thearcus.wufoo.com/forms/nce-distinguished-professional-awards/">Nominate yourself or a colleague for an award today!</a> 
+The Silent Auction page is now open for you to submit your items.  Your donation to the Silent Auction provides an invaluable opportunity for chapter leaders and staff who have not previously attended Summer Leadership Institute or Professional Development Seminar (formerly known as Pre-Convention) to come and meet with other chapter leaders while participating in meaningful professional development.  Please go here [hyperlink to Silent Auction page] to donate an item.
+<br><br>
+If you have any questions, contact Thuba Nguyen, Chapter Growth & Affiliate Relations Associate, at <a href="mailto:tnguyen@thearc.org">tnguyen@thearc.org</a>.

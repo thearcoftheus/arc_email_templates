@@ -1,17 +1,14 @@
 ---
 layout: nce-1
-headline: "Registration Open for the Summer Leadership Institute"
+headline: "Come to California: The 2016 Summer Leadership Institute is less than fifty days away"
 date:   2015-08-19 09:09:59
 categories: nce-section1
 image: http://www.thearc.org/image/SLI-promo.jpg
 ---
-Three days, captivating speakers, the ultimate location! Join us in Palm Springs for a luxurious 3-day retreat full of learning, networking, and fun. This year’s theme is Community for All—Our Promise, Our Challenge. At the Summer Leadership Institute, you’ll:
-<ul>
-<li>Engage with disability leaders as they share knowledge and best practices </li>
-<li>Learn how to build more inclusive communities </li>
-<li>Strengthen your leadership skills </li>
-<li>Make invaluable connections with other staff and professionals </li>
-<li>Unwind with golf courses, hot springs, the hotel spa, hiking, biking, and <a href="http://nce-sli.org/?page_id=151">more.</a></li>
-</ul>
-
-<p>Take advantage of our Early Bird Rate while it lasts! <a href="http://nce-sli.org/">Register today</a>.</p>
+<a href="http://nce-sli.org/">The 2016 Summer Leadership Institute</a> is coming to Palm Springs, CA, and has put together a program that combines dialogue on issues facing chapters, service providers and professionals in the I/DD arena across the country.  Come hear chapter leaders from Nebraska, Kansas, Tennessee, and North Carolina share lessons learned from implementing for profit managed care for long term supports & services.  
+<br><br> 
+But it’s not all about work!  The warm summer nights provide the perfect backdrop for your peers from around the country to experience the delights of this desert oasis including a breathtaking journey aboard the world’s largest tram to Mt. San Jacinto State Park. This is an event not to be missed!
+<br><br> 
+SLI is about learning, growth and engagement, and it’s meeting and interacting with your peers that will provide the foundation for your experiences at SLI.  To assist in that endeavor, we match first time attendees with an SLI seasoned “pro” to help them get the most of this amazing experience. 
+<br><br> 
+<a href="https://app.certain.com/profile/form/index.cfm?PKformID=0x2313156d67a">So register today!</a>  We look forward to sharing this time with you!
