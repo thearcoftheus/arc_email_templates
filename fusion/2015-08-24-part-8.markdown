@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-headline: "Save the date!"
+headline: "Don’t miss your chance to join the conversation: Careers in the Arts Online Dialogue"
 date:  2015-08-21 09:09:59
 categories: fusion-resources
-image: http://www.centerforstartservices.org/sites/www.centerforstartservices.org/files/2016conference/nadd_logo.jpg
+image: https://www.epolicyworks.org/epw/wp-content/themes/epw-wordpress-theme/img/epwLogo.gif
 ---
-NADD’s 33rd Annual Conference (An Association for people with developmental disabilities and mental health needs)will be held from November 2 – 4 in Niagara Falls! This year’s theme is Weaving Solutions: Research/Policy/Practice in ID/MI (Intellectual Disability/Mental Illness). <a href="http://thenadd.org/conferences/nadd-conference-calendar/">Stay tuned for more information.</a> <br><br>
+The National Endowment for the Arts (NEA), the National Arts and Disability Center (NADC), and the U.S. Department of Labor’s Office of Disability Employment Policy (ODEP) warmly invite you to participate in their upcoming <b>Careers in the Arts Online Dialogue</b>. Through this virtual conversation, they are gathering insights from artists with disabilities and their allies on the progress that has occurred over the past 10 years for people with disabilities in the arts, and seeking ideas from the community on how best to continue making positive change in the field. The Careers in the Arts Dialogue will take place from June 6 through June 19, 2016.  Please join this important conversation and spread the word to other participants who may be interested. <a href="http://careersinthearts.epolicyworks.org/">Register for the dialogue today!</a><br><br>

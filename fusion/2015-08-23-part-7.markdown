@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-headline: "Need Help Discussing Future Planning in your Chapter?"
+headline: "Small Changes, Lifelong Benefits"
 date:  2015-08-21 09:09:59
 categories: fusion-resources
-image: https://www.thearc.org/image/CFP-Lockup-Color.jpg
+image: http://www.thearc.org/image/HealthMeet-Lockup-Pos.png
 ---
-Discussing future planning with people with I/DD and their families can be challenging. The Arc’s Center for Future Planning™ is here to help. The Center provides chapters of The Arc with information and resources to support existing and new program efforts to support and encourage families to plan for the time when parents or other caregivers are no longer able to provide support. The Center created the <a href="https://futureplanning.thearc.org/users/sign_up?erid=7715051&trid=99a2f503-5ea9-40fb-95f0-8745ebb61132">Build Your Plan™ tool</a>, to provide customized assistance to build, keep, and share future plans. Create an account today to access resources and information that families you serve can use to organize their plans! View a brief webinar explaining how the Build Your Plan™ tool works <a href="https://www.thearc.org/sslpage.aspx?pid=186&bm=582835496">here.</a><br><br>
+Did you know that adults with disabilities have a 58% higher obesity rate than adults without disabilities? See how The Arc is helping people with I/DD exercise more, eat better, and maintain healthy weights and lifestyles in our <a href="http://www.thearc.org/file/Health-and-Fitness-For-All-Fact-Sheet---Final-Copy.pdf">Health and Fitness For All Factsheet.</a><br><br>

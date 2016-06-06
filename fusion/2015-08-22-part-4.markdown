@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Help Spread the NCE Love!"
+headline: "Announcing New Partnership: Tuberous Sclerosis Alliance"
 date:   2015-08-18 09:09:59
 categories: fusion-news
-image: https://www.thearc.org/view.image?Id=1322
+image: http://www.thearc.org/image/TSAlliance2011Logo.jpg
 ---
-<a href="http://convention.thearc.org/sessions/nce-silent-auction/">Donating an item to our Silent Auction</a> will help raise scholarship money so other professionals in The Arc’s network can attend Summer Leadership and Professional Development Seminar and develop their skills. And, it’s easy! Don’t wait. We need your help to make this year’s Silent Auction Bigger, Better, More! Your donations last year gave <strong>eight</strong> professionals the opportunity to develop their skills at this year’s SLI. <a href="http://convention.thearc.org/sessions/nce-silent-auction/">Donate today!</a> Please contact Thuba Nguyen at <a href="mailto:tnguyen@thearc.org">tnguyen@thearc.org</a> if you have questions. 
+The Arc is delighted to announce its new partnership with the <a href="http://www.tsalliance.org/">Tuberous Sclerosis Alliance</a>. Tuberous Sclerosis Complex is a genetic condition that affects about 50,000 people in the U.S., 50% of whom have an intellectual disability or other cognitive and developmental issues. All have medical issues, but others are not cognitively affected. Our new partnership with TSA will help chapters build a stronger movement and expand supports and services to a new group of individuals with I/DD. The Arc will share with TSA members resources and information and connect them to local chapters for services. In the coming months, TSA will host local town hall meetings, so your chapter may be invited to participate to share information about all the great services and supports you provide. This is a wonderful opportunity for our chapters to engage new members with TSC and their families and build local partnerships. For more information, please contact <a href="mailto:tnguyen@thearc.org">Thuba Nguyen</a>.

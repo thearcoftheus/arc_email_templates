@@ -1,7 +1,9 @@
 ---
 layout: fusion
-title:  "Photo and Caption"
-headline: "OK THEN"
-date:   2015-08-25 09:09:59
-categories: fusion
+title: "Resources & Opportunities"
+headline: "Input from Parents of Children with Language Impairment Needed "
+date:  2015-08-21 09:09:59
+categories: fusion-resources
+image: http://hoopniks.com/wp-content/uploads/2010/12/Virginia.jpg
 ---
+Dr. LaVae Hoffman at the University of Virginia is researching the needs and concerns of parents of students who have language disabilities. If you would be willing to share your thoughts with her, please <a href="https://www.surveymonkey.com/r/8JXFJHB">complete a 5 minute survey.</a> Questions? Please contact Dr. Hoffman at <a href="lmh3f@virginia.edu">lmh3f@virginia.edu</a>.

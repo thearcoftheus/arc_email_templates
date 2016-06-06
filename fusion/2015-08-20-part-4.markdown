@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Registration Open: 2016 National Convention & International Forum"
+headline: "Will we see you in Orlando?"
 date:   2015-08-18 09:09:59
 categories: fusion-news
-image: 
+image: http://www.thearc.org/image/National-Conv-Logo-2016-H-full-color.png
 ---
-Join us in the happiest place on Earth for our 2016 National Convention & International Forum, in partnership with Inclusion International! <a href="http://convention.thearc.org">Don’t wait—take advantage of the early bird price while it lasts!</a> Our theme, “Shaping the Future”, will explore how we can collaboratively impact the I/DD community globally. This year, we are excited to host the full cast of A&E’s hit docuseries Born This Way as our keynote speakers. Attendees will have the opportunity to mingle with the cast and get autographs at a variety of events. But there’s much more! <a href="http://convention.thearc.org">Check out the convention site</a> to explore the schedule of events and all there is to do in Disney!
+Join us in Orlando, FL for our 2016 National Convention & International Forum from October 27-29! This event’s invigorating blend of fresh content, expert advice, and cutting-edge information brings the opportunity to start conversations and continue them for months and years to come. Network with old friends and discover new friends from around the world as you uncover the latest trends in the disability community. A provocative lineup of expert speakers, awe-inspiring self-advocates, dozens of innovative sessions, and more, all taking place in the most magical place on Earth. You don’t want to miss it! <a href="http://convention.thearc.org/">Registration is now open.</a>
