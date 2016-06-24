@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Register Now: 2016 Summer Leadership Institute"
+headline: "CLOSING SOON: Catalyst Award Nominations Closing June 24"
 date:   2015-08-18 09:09:59
 categories: fusion-news
-image: http://www.thearc.org/image/SLI-promo.jpg
+image: https://www.thearc.org/image/Catalyst-vertical.png
 ---
-Soak up the sun with us at the 2016 Summer Leadership Institute July 18-20 in Palm Springs, California. You will hear disability professionals and chapter leaders share lessons learned, best practices, ideas for how to improve. Learn about person-centered planning, grassroots advocacy, establishing ABLE accounts, transitioning to integrated employment, and more. But it’s not all about work!  The warm summer nights provide the perfect backdrop for your peers from around the country to experience the delights of this desert oasis. <a href="http://nce-sli.org">Register today!</a>
+The deadline to submit Catalyst nominations is June 24. Help us spark the movement! Last year’s inaugural <a href="http://www.catalystawards.org">Catalyst Awards</a> were an invigorating event that not only inspired our audience but moved them to action. We continue to hear how last year’s event was a highlight of convention for many. <a href="https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=OKNRNCEZ">Help us find this year’s Catalyst!</a> We need nominees that are innovative advocates helping to create an inclusive society for individuals with I/DD. There are individuals and organizations doing amazing things across the country. We need you—our network—to bring to light those that are trailblazing to help fulfill The Arc’s mission. <a href="http://www.catalystawards.org">For inspiration, check out last year’s award winners.</a> Questions? Email <a href="mailto:catalyst@thearc.org.">catalyst@thearc.org</a>.

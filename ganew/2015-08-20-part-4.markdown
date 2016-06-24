@@ -1,15 +1,9 @@
 ---
 layout: ganew
-headline: "OK THEN"
+headline: "Wings for Autism Lands at the World’s Busiest Airport"
 date:   2015-08-19 09:09:59
 categories: ganew-section2
+image: https://www.thearc.org/image/WingsForAutism-100x100.jpg
 ---
+<a href="http://www.thearc.org/wings">Wings for Autism</a>, from The Arc of the United States, came to Atlanta’s Hartsfield-Jackson International Airport during National Autism Awareness month. The event aims to reduce the stress associated with flying by giving travelers the opportunity to rehearse flight check-in and boarding. Parents were moved to tears as their loved one boarded for the first time. <a href="https://ga.thearc.org/2016/06/21/wingsatl">READ MORE</a>
 
-<table width="590" style="590px;" cellpadding="0" cellspacing="10">
-<tr valign="top">
-<td width="100" style="width: 100px;"><img src="http://www.thearc.org/image/placeholder-100x100.jpg"></td>
-<td width="500" style="width: 500px;"><h2>The Beloved Connections Made at the GWI</h2><p>Georgia Winter Institute is a great collaboration between disability organizations. Labels are pushed aside and the joys and challeges of life are shared. See photos from the latest gathering. READ MORE.</p></td>
-<tr valign="top">
-<td width="100" style="width: 100px; padding-top: 20px;"><img src="http://www.thearc.org/image/placeholder-100x100.jpg"></td>
-<td width="500" style="width: 500px; padding-top: 20px;"><h2>Check out The Arc Georgia Online</h2><p>The Arc Georgia's brand new website is a hub of important information and critical resources. You can also appreciate the photographic artistry of Ryan Johnson who captures so intensely the spirit of local advocates. Stay tuned... your photo may be posted next</p></td>
-</table>

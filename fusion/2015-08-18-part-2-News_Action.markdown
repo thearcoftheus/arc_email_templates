@@ -1,10 +1,14 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "The Catalyst Awards: Nomination Deadline Quickly Approaching"
+headline: "Only One Month Until Summer Leadership Institute: Don’t miss it!"
 date:   2015-08-18 09:09:59
 categories: fusion-news
-image: https://www.thearc.org/image/Catalyst-vertical.png
+image: http://www.thearc.org/image/SLI-promo.jpg
 pageposition: first
 ---
-The deadline for The Catalyst Awards nominations is <strong>June 24!</strong> The Awards aim to shine a national spotlight on individuals and organizations that are setting an example of what our communities will look like when the civil rights for people I/DD are fully realized. Last year’s inaugural awards were full of inspiration, celebration, and hope for a more inclusive future. We are very excited for the second year of the Catalyst Awards, but we need you to help us find those who are trailblazing for individuals with I/DD across the country. Visit the brand new <a href="http://catalystawards.org/">Catalyst Awards website</a> and <a href="http://catalystawards.org/">nominate a catalyst for change today!</a>
+The West Coast is calling! Don’t miss your chance to learn from top sector experts and mingle with chapter leaders from across the country—all while relaxing in paradise! Join us in Palm Springs to hear these dynamic speakers: 
+<br>Christopher Metzler will discuss diversity and community-building...
+<br>Nora Baladerian will teach how to reduce risk of abuse in the I/DD community…
+<br>Cathy Ficker Terrill will discuss HCBS implementation…
+<br><br>And more! See the rest of our powerhouse speakers and session topics on the SLI site. <a href="http://nce-sli.org/">Register today!</a>

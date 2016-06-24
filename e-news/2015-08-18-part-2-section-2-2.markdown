@@ -1,10 +1,8 @@
 ---
 layout: enews
-headline: "Finding Justice for Jenna and Countless Others Like Her "
+headline: "Zika – We All Have Skin in This Game"
 date:   2015-08-18 09:09:59
 image: http://placehold.it/125
 categories: enews-section2
 ---
-<a href="http://blog.thearc.org/2016/04/18/will-ever-justice-jenna/">Jenna’s story</a> is one that is all too familiar—a sexual assault survivor with a disability still fighting for her day in court. In Jenna’s case justice may not have been served yet, but her story is a powerful reminder of the need for change in the system. As we mark Sexual Assault Awareness Month, we need to keep in mind why this topic is so significant to individuals with I/DD. 
-<br><br>
-Those outside of the disability community may be surprised to know that people with disabilities are raped or sexually assaulted at <b>four times</b> the rate of those without disabilities. Or that it is more common for people with I/DD to experience multiple victimizations throughout their lives. These facts highlight the need for individuals with I/DD to be fully included in all sexual assault awareness efforts year-round. 
+Some public health crises capture our attention more than others.  A few years back, the phones were ringing off the hook on Capitol Hill about Ebola.  But not so for the Zika virus, we are hearing from Congressional offices. Is this because we think that Zika will only affect women who are pregnant? Or just those who live in southern states? Are we not understanding that this virus could potentially quickly spread in local communities or that people in the south who are at greatest risk right now travel to other parts of the country? Such a false sense of immunity could cost us dearly. <a href="http://blog.thearc.org/2016/06/06/zika-skin-game/">Learn more.</a>

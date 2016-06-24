@@ -1,0 +1,25 @@
+---
+layout: ganew
+headline: "OK THEN"
+date:   2015-08-19 09:09:59
+categories: ganew-section3
+---
+<h1>FROM OUR DIRECTOR</h1>
+
+<table width="590" style="590px;" cellpadding="0" cellspacing="10">
+<tr valign="top">
+<td width="100" style="width: 100px;"><img src="http://www.thearc.org/view.image?Id=5400" width="100" style="width: 100px;"></td>
+<td width="500" style="width: 500px;"><p>
+Transition—a hot topic in the disability community—is coming at me from all sides. I understand the trials of transition, because I live it! One of my sons is beginning college while the other is transferring to a college out of state. My middle son, who struggles with transition, and I just moved from an area we have lived in for more than 20 years to a community just south of Atlanta. Whew!  
+<br><br>
+I often tell my middle son that change is the only thing we can count on in life. We, then, visualize our goals to be sure that these changes continue to support our life. But, what if our transition were to lead to a dead end? What if the next turn is off a cliff into a world of “100-year waiting lists” for services? Sadly, this is the reality for many people with I/DD and their families.  
+<br><br>
+<a href="https://ga.thearc.org/">The Arc Georgia</a> wants to build a bridge at the edge of this cliff. We envision a bridge with many designations to allow for individual choice for an interdependent life in the community. To construct the bridge, The Arc Georgia is working with statewide advocates, agencies, and local chapters to establish an infrastructure through policy and legislation that respond to life-span issues such as: early diagnosis and referrals, cultural competent supports for families before crisis, inclusive education,  people with developmental disabilities at the voting poles, accessible communities, choice in competitive wage employment, life sharing, home ownership, increasing transportation options, aging supports, and helping individuals and families plan for the future.  
+<br><br>
+We NEED your help!  Join us in constructing strong, diverse communities to include people with intellectual or developmental disabilities.
+<br><br>
+Sincerely,
+<br><br>
+<img src="http://www.thearc.org/view.image?Id=5380">
+</p></td>
+</table>

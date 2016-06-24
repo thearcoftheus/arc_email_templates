@@ -2,7 +2,7 @@
 layout: enews
 headline: "New Supports for Passengers with Autism In Atlanta"
 date:   2015-08-19 09:09:59
-categories: enews-section3
+categories: enews-section3-no
 ---
 Earlier this month, The Arc, in partnership with Hartsfield-Jackson Atlanta International Airport (ATL), Delta Air Lines, <a href="https://ga.thearc.org/">The Arc Georgia</a>, <a href="http://arcmidlands.org/">The Arc of the Midlands</a>, the Transportation Security Administration (TSA), and the <a href="http://www.flutiefoundation.org/">Doug Flutie Foundation</a> hosted a <a href="http://www.thearc.org/wings">Wings for Autism&reg;</a> event at ATL airport for the first time. 
 <br><br>

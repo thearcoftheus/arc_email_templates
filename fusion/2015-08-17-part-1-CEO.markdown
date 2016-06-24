@@ -1,12 +1,10 @@
 ---
 layout: fusion
 title:  "Letter from the CEO"
-headline: "Lorem ipsum dolor sit amet, delicata necessitatibus ut duo"
+headline: "Make Sure Your Board Members and Staff Stay in the Loop"
 date:   2015-08-17 09:09:59
 categories: fusion-ceo
 ---
-Lorem ipsum dolor sit amet, delicata necessitatibus ut duo. Quo no sumo liberavisse, no fuisset volumus sapientem qui. Id decore discere atomorum pro, ad ius iriure audire splendide. Te maluisset sententiae duo, maluisset honestatis deterruisset ut eam. No ullum suscipit mel.
+Did you know that all chapter board members and staff are eligible to receive Fusion directly? That’s right! You don’t need to worry about making sure that you forward each issue to the right people in your organization that need to see this item or that. Fusion is the main vehicle we use to communicate with chapters and to share information about opportunities for sub-grants and other important news from your national office. Don’t miss out!
 <br><br>
-His eu diam recteque, deseruisse deterruisset ea eam. Ex diam soleat his. Nulla deserunt sententiae eos an, sint autem intellegam pri ad, vim error vivendum id. Nam ne vidit tibique, clita interesset delicatissimi id nam, per dicat dicam cu.
-<br><br>
-Te vocibus volumus maluisset mea. Ex esse mundi appetere usu. Mea novum debitis et, nonumy impetus vim at, ad pri dolor dicam omittantur. Eos porro fabulas torquatos an.
+Make sure your board president, board members, department heads and other staff are signed up to receive Fusion if they haven’t already. Simply establish an account in <a href="http://www.thearc.org/get-involved/online-community">The Arc’s Online Community</a> and check off the box indicating you are a board volunteer or staff member of a chapter of The Arc. You will receive a confirming email and then be allowed to sign up for Fusion and other “Chapters Only” Subscriptions. If you have any problems, contact Solomon Lissanu, Database Manager, at <a href="mailto:lissanu@thearc.org">lissanu@thearc.org</a>. As always, you can reach me at <a href="mailto:berns@thearc.org">berns@thearc.org</a>.   

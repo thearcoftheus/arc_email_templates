@@ -1,13 +1,12 @@
 ---
 layout: enews
-title:  "The Arc's Heart Breaks for Victims in San Bernardino"
+title:  "Catalyst Awards Nominations Open "
 image: http://placehold.it/250x150
 caption: Caption
 headline: ""
 date:   2015-08-17 09:09:59
 categories: enews-section1
 ---
-#Autismis More than Just a Month!
-True inclusion is much more than just awareness, it is acceptance. For over 65 years, The Arc has worked tirelessly through education, training, and advocacy to spread the message of inclusion. The Arc’s Autism Now&reg; Center and the Wings for Autism&reg; programs are just two of our national initiatives working to accomplish this. The Arc also has <a href="http://www.thearc.org/what-we-do/programs-and-services">numerous other programs</a> paving the way to acceptance throughout the year, not just during April.  
+The deadline for The Catalyst Awards nominations is June 24! The Awards aim to shine a national spotlight on individuals and organizations that are setting an example of what our communities will look like when the civil rights for people I/DD are fully realized. 
 <br><br>
-Follow the conversation and engage with us on social media using the hashtag #Autismis, and stay tuned throughout the rest of the month as we continue to share resources, information, and the stories of people with autism all over the country!
+Last year’s inaugural awards were full of inspiration, celebration, and hope for a more inclusive future. We are very excited for the second year of the Catalyst Awards, but we need you to help us find those who are trailblazing for individuals with I/DD across the country. Visit the brand new <a href="http://catalystawards.org/">Catalyst Awards website</a> and <a href="https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=OKNRNCEZ">nominate a catalyst for change today!</a>

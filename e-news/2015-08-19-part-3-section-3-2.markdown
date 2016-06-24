@@ -1,11 +1,7 @@
 ---
 layout: enews
-headline: "Amerigroup Foundation Supporting Health and Fitness For All&trade; "
+headline: "The Arc of Delaware Reaches Fair Housing Settlement"
 date:   2015-08-19 09:09:59
 categories: enews-section3
 ---
-The Arc has been awarded a $90,000 grant from the Amerigroup Foundation to conduct its Health and Fitness for All&trade; project at three chapters of The Arc in Texas and Tennessee. The Health and Fitness for All project utilizes the HealthMatters&trade; program, which is a training developed by the University of Illinois at Chicago that provides structured information on how to organize and start a tailored physical activity and health education program for people with I/DD. 
-<br><br>
-With Amerigroup Foundation’s support, three of The Arc’s chapters that are certified in the HealthMatters program, <a href="http://www.arc-sa.org/">The Arc San Antonio</a>, <a href="http://www.aogh.org/">The Arc Greater Houston</a>, and <a href="https://www.thearctn.org/">The Arc Tennessee</a>, will implement the 12-week program to help increase participant’s knowledge about the importance of healthy eating and staying active.
-<br><br>
-Learn more about Amerigroup Foundation and HealthMatters on The Arc’s <a href="http://blog.thearc.org/2016/04/15/arc-awarded-grant-amerigroup-foundation-health-fitness-project/">website</a>. 
+The Arc of Delaware and its counsel Relman, Dane & Colfax, The Arc of the United States, and Community Legal Aid Society, Inc. are thrilled to announce the recent settlement of the chapter’s disability discrimination complaint against Sugar Maple Farms Property Owners’ Association, Inc. (SMFPOA). That complaint, filed in March 2015 with the U.S. Department of Housing and Urban Development (HUD) and the Delaware Division of Human Relations (DHR), sought a declaration that SMFPOA violated the Fair Housing Act when it refused to approve The Arc of Delaware’s acquisition of property to house four individuals with I/DD in a single family home integrated within the community. After the state issued a finding of discrimination in March 2016, SMFPOA agreed to settle <a href="http://blog.thearc.org/2016/06/09/arc-delaware-reaches-fair-housing-settlement/">the case</a>. Learn more about <a href="http://blog.thearc.org/2016/06/09/arc-delaware-reaches-fair-housing-settlement/">the case</a>, and about <a href="http://www.thearc.org/what-we-do/public-policy/legal-advocacy">The Arc’s legal advocacy work</a>, where we are actively involved in participating as counsel in disability rights litigation, drafting and signing on to amicus briefs, and criminal justice reform through our National Center on Criminal Justice and Disability.

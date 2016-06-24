@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Will we see you in Orlando?"
+headline: "Big news from The Arc’s Legal Advocacy Program!"
 date:   2015-08-18 09:09:59
 categories: fusion-news
-image: http://www.thearc.org/image/National-Conv-Logo-2016-H-full-color.png
+image: http://www.thearc.org/image/Arc_Delaware_Color_Pos_JPG.jpg
 ---
-Join us in Orlando, FL for our 2016 National Convention & International Forum from October 27-29! This event’s invigorating blend of fresh content, expert advice, and cutting-edge information brings the opportunity to start conversations and continue them for months and years to come. Network with old friends and discover new friends from around the world as you uncover the latest trends in the disability community. A provocative lineup of expert speakers, awe-inspiring self-advocates, dozens of innovative sessions, and more, all taking place in the most magical place on Earth. You don’t want to miss it! <a href="http://convention.thearc.org/">Registration is now open.</a>
+The Arc of Delaware and its counsel Relman, Dane & Colfax, The Arc of the U.S., and Community Legal Aid Society, Inc. <a href="https://blog.thearc.org/2016/06/09/arc-delaware-reaches-fair-housing-settlement/">are thrilled to announce the recent settlement</a> of The Arc of Delaware’s disability discrimination complaint against Sugar Maple Farms Property Owners’ Association. The settlement is a major victory for the right of individuals with I/DD. Shira Wakschlag, Staff Attorney with The Arc, noted: “For more than 65 years, The Arc has sought to enforce and protect the human and civil rights of individuals with I/DD by working to ensure those with disabilities are able to live in the community free from discrimination and institutional settings. Without the vigorous enforcement of state and federal disability rights laws, this fundamental right would be eroded.” If you believe your chapter or members of your chapters have experienced disability discrimination and may want to pursue legal action, please contact <a href="mailto:wakschlag@thearc.org">Shira Wakschlag.</a> 

@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Announcing New Partnership: Tuberous Sclerosis Alliance"
+headline: "Bigger, Better, More!"
 date:   2015-08-18 09:09:59
 categories: fusion-news
-image: http://www.thearc.org/image/TSAlliance2011Logo.jpg
+image: https://www.thearc.org/view.image?Id=1322
 ---
-The Arc is delighted to announce its new partnership with the <a href="http://www.tsalliance.org/">Tuberous Sclerosis Alliance</a>. Tuberous Sclerosis Complex is a genetic condition that affects about 50,000 people in the U.S., 50% of whom have an intellectual disability or other cognitive and developmental issues. All have medical issues, but others are not cognitively affected. Our new partnership with TSA will help chapters build a stronger movement and expand supports and services to a new group of individuals with I/DD. The Arc will share with TSA members resources and information and connect them to local chapters for services. In the coming months, TSA will host local town hall meetings, so your chapter may be invited to participate to share information about all the great services and supports you provide. This is a wonderful opportunity for our chapters to engage new members with TSC and their families and build local partnerships. For more information, please contact <a href="mailto:tnguyen@thearc.org">Thuba Nguyen</a>.
+Contribute an item for Silent Auction! Your donation to the Silent Auction provides an invaluable opportunity for chapter leaders and staff who have not previously attended Summer Leadership Institute or Professional Development Seminar to come and meet with other chapter leaders while participating in meaningful professional development.  Donate an item <a href="http://convention.thearc.org/sessions/nce-silent-auction/">here</a>. If you have any questions, contact <a href="mailto:tnguyen@thearc.org">Thuba Nguyen</a>, Chapter Growth & Affiliate Relations Associate. 

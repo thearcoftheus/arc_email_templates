@@ -1,20 +1,8 @@
 ---
 layout: ganew
-headline: "OK THEN"
+headline: "Are You Engaged in Advocacy? Sign Up with The Arc Georgia"
 date:   2015-08-19 09:09:59
-categories: ganew-section3
+categories: ganew-section2
+image: https://www.thearc.org/image/Georgia-Capitol-100x100.jpg
 ---
-<h1>FROM OUR DIRECTOR</h1>
-
-<table width="590" style="590px;" cellpadding="0" cellspacing="10">
-<tr valign="top">
-<td width="100" style="width: 100px;"><img src="http://www.thearc.org/view.image?Id=5400" width="100" style="width: 100px;"></td>
-<td width="500" style="width: 500px;"><p>Hello, 
-<br><br>
-I joined The Arc Georgia as State Director just a few months ago, and have been on the road getting to know the great advocates at local chapters.  I want to express great appreciation for the warm reception and special invitations to events I’ve attended in the last three months, including: the Albany ARC Awards Banquet, Board meetings with The Arc of Grady Thomas and The Arc Carroll County, a training with The Arc Douglas County, The Arc of Greater Columbus’ involvement at the Georgia Winter Institute, and a lively dance at The Arc Carroll County. Soon I will be delivering a keynote address with The Arc Macon. I’m looking forward to many successful collaborations with the Georgia chapters of The Arc in the months to come. 
-<br><br>
-Sincerely,
-<br><br>
-<img src="http://www.thearc.org/view.image?Id=5380">
-</p></td>
-</table>
+The future for people with intellectual and developmental disabilities will be built on the foundation of how their services and supports are structured and funded. Sign up for our Disability Advocacy Engagement email list <a href="https://ga.thearc.org/">The Arc Georgia</a>, and stay connected with federal public policy issues and the issues that matter to you. <a href="https://ga.thearc.org/2016/06/21/engagesignup">READ MORE</a>

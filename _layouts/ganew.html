@@ -29,6 +29,9 @@ h2 {
 font-size: 16px;
 color: #44697d;
 }
+img {
+border-radius: 5px; overflow: hidden;
+}
 </style>
 </head>
 <body>
@@ -74,7 +77,13 @@ color: #44697d;
 {% for page in site.pages %}
   {% if page.categories == 'ganew-section2' %}  
   
-{{ page.content }}
+<table width="590" style="590px;" cellpadding="0" cellspacing="10">
+<tr valign="top">
+<td width="100" style="width: 100px; padding-top: 20px;"><img src="{{ page.image }}"></td>
+<td width="500" style="width: 500px; padding-top: 20px;"><h2>{{ page.headline }}</h2><p>{{ page.content }}</p></td>
+</table>
+
+
 
   {% endif %}
 {% endfor %}
@@ -111,6 +120,17 @@ color: #44697d;
 <tr>
 <td><a href="https://ga.thearc.org/"><img src="http://www.thearc.org/image/ganew/Footer.jpg"></a></td>
 </table>
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-top: 1px solid #b2b2b2; background-color: transparent; width: 100%; color: #000000; font-size: 14px;">
+<tbody>
+<tr>
+<td style="padding: 12px 20px 20px; font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif; color: #000000;" colspan="2" align="center"><span style="font-family: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif; font-size: 14px; text-align: center;">If you do not want to receive The Arc of Georgia email from The Arc, please&nbsp;</span><a style="color: #000000;" href="mailto:feedback@thearc.org?subject=Unsubscribe%20from%20GA%20Email" target="_blank">e-mail us</a><span style="font-family: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif; font-size: 14px; text-align: center;">&nbsp;with the words "Unsubscribe from Georgia Email" in the subject line. If you want to opt-out of all future emails from The Arc, please&nbsp;</span><a style="color: #000000;" href="mailto:feedback@thearc.org?subject=Opt-Out" target="_blank">e-mail us</a><span style="font-family: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif; font-size: 14px; text-align: center;">&nbsp;with the words "Opt-Out" in the subject line. To review our privacy policy click&nbsp;</span><a style="color: #000000;" href="target=&amp;pid=2679&amp;did=0&amp;tab=0">here</a><span style="font-family: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif; font-size: 14px; text-align: center;">. To view this in a web browser click&nbsp;</span><a style="color: #000000;" href="target=&amp;pid=0&amp;did=0&amp;tab=0&amp;splid=1">here</a><span style="font-family: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif; font-size: 14px; text-align: center;">. To manage your subscription click&nbsp;</span><a style="color: #000000;" href="target=&amp;pid=2264&amp;did=0&amp;tab=0">here</a><span style="font-family: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif; font-size: 14px; text-align: center;">.</span></td>
+</tr>
+</tbody>
+</table>
+
 
 </td>
 </table>
