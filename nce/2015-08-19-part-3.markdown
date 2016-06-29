@@ -1,14 +1,14 @@
 ---
 layout: nce-1
-headline: "Come to California: The 2016 Summer Leadership Institute is less than fifty days away"
+headline: "It’s not too late: Summer Leadership Institute"
 date:   2015-08-19 09:09:59
 categories: nce-section1
 image: http://www.thearc.org/image/SLI-promo.jpg
 ---
-<a href="http://nce-sli.org/">The 2016 Summer Leadership Institute</a> is coming to Palm Springs, CA, and has put together a program that combines dialogue on issues facing chapters, service providers and professionals in the I/DD arena across the country.  Come hear chapter leaders from Nebraska, Kansas, Tennessee, and North Carolina share lessons learned from implementing for profit managed care for long term supports & services.  
-<br><br> 
-But it’s not all about work!  The warm summer nights provide the perfect backdrop for your peers from around the country to experience the delights of this desert oasis including a breathtaking journey aboard the world’s largest tram to Mt. San Jacinto State Park. This is an event not to be missed!
-<br><br> 
-SLI is about learning, growth and engagement, and it’s meeting and interacting with your peers that will provide the foundation for your experiences at SLI.  To assist in that endeavor, we match first time attendees with an SLI seasoned “pro” to help them get the most of this amazing experience. 
-<br><br> 
-<a href="https://app.certain.com/profile/form/index.cfm?PKformID=0x2313156d67a">So register today!</a>  We look forward to sharing this time with you!
+This year’s Summer Leadership Institute is only two weeks away, but it’s not too late to register! Attendees can register on-site at the event. All you have to do is show up! Join us to hear these dynamic speakers:
+<br><ul>
+<li>Christopher Metzler will discuss diversity and community-building...</li>
+<li>Nora Baladerian will teach how to reduce risk of abuse in the I/DD community...</li>
+<li>Cathy Ficker Terrill will discuss HCBS implementation...</li>
+</ul>
+And more! See the rest of our powerhouse speakers and session topics on the SLI site. <a href="http://www.nce-sli.org">Register today!</a>

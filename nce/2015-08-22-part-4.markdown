@@ -3,7 +3,7 @@ layout: nce-1
 title:  "Text with Caption"
 headline: "Nominations Open: 2016 Catalyst Awards"
 date:   2015-08-19 09:09:59
-categories: nce-section2
+categories: nce-section20-no
 image: https://www.thearc.org/image/Adonis-Reddick-Tribute-Pic.jpg
 ---
 <a href="https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=OKNRNCEZ">Nominations are open</a> for The Arc’s 2016 Catalyst Awards! Last year’s inaugural awards were full of inspiration, celebration, and hope for a more inclusive future. We are very excited for the second year of the Catalyst Awards, but we need you to help us find those who are trailblazing for individuals with I/DD across the country. <br><br>Visit the brand new Catalyst Awards website and <a href="https://www.thearc.org/page.redir?target=http%3a%2f%2fcatalystawards.org%2f&srcid=38778&srctid=1&erid=8169735&trid=d32ff914-ddd2-4070-999a-210021c9bcbb">nominate a catalyst for change today!</a> And, <a href="https://www.thearc.org/page.redir?target=http%3a%2f%2fconvention.thearc.org%2f&srcid=38778&srctid=1&erid=8169735&trid=d32ff914-ddd2-4070-999a-210021c9bcbb">save the date</a> for our 2016 National Convention & International Forum where the Catalyst Awards will be presented. If you have any questions about the Catalyst Awards email <a href="mailto:catalyst@thearc.org">catalyst@thearc.org</a>.

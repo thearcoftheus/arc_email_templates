@@ -1,14 +1,15 @@
 ---
 layout: nce-1
-headline: "NCE Professional Development Seminar"
+headline: "The Disney Approach to Excellence!"
 date:   2015-08-19 09:09:59
 categories: nce-section2
-image: https://www.thearc.org/image/Professional-Developmdent-Seminar-Photo.jpg
+image: http://35womv3auwnx8edmw2vdwn2j.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/DI_horz_color.jpg
 ---
-Kick off your National Convention experience with the Professional Development Seminar at the Hilton Orlando Lake Buena Vista. Join your peers on October 28 — 29 as we examine issues encompassing leadership, organizational effectiveness, and the competencies and programming needed for a diverse I/DD community in the 21st century through the lens of “Disney’s Approach to Leadership Excellence.”
-<br><br>
-October 28: This half day program provided by the world renowned Disney Institute, will bring time-tested insights to how leadership and communication can be enhanced within our organizations. 
-<br><br>
-October 29: The second half day will bring attendees together to strategize on using the Disney methods in their own organizations, and work with their peers to find solutions to common leadership challenges. 
-<br><br>
-Whether you are an Executive Director, staff in the fields of advocacy, finance, programs, human resources, a board member for a state or local chapter, or a member of the disability community, this program will speak to your work. NCE members save $100 on registration! <a href="http://www.thearc.org/nce">Interested in joining NCE?</a> Reach out to Ilyse Kramer at kramer@thearc.org or 202.534.3707.
+NCE is proud to bring you the Disney Institute’s Approach to Leadership Excellence as this year’s NCE Professional Development Seminar in Orlando, FL. On the first half day, Disney will share it expertise in leadership in the areas of:
+<ul>
+<li>Reconciling organizational tension</li>
+<li>Intention vs. behaviors</li>
+<li>The importance of teams</li>
+<li>Measuring values against performance</li>
+</ul>
+On the second half day, we will put our new knowledge to use by forming action plans around case studies that relate to the topics above. This is where we need your help: we want the second half day to be meaningful and to address the challenges that you are facing in your daily work. If there is a specific challenge/issue you are facing, please send a brief synopsis of the situation to <a href="mailto:cguiden@thearctn.org">cguiden@thearctn.org</a> by close of business on Friday, July 8. Please also indicate which of the four topics above it best relates to. We will develop case studies based on the examples we receive. Thank you in advance for helping us making this year’s NCE Professional Development Seminar the best one yet!
