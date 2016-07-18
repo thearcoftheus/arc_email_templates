@@ -1,5 +1,5 @@
 ---
-layout: fusion
+layout: fusion1
 title:  "News & Action Items"
 headline: "Bigger, Better, More!"
 date:   2015-08-18 09:09:59

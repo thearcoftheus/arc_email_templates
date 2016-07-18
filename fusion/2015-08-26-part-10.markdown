@@ -1,5 +1,5 @@
 ---
-layout: fusion
+layout: fusion1
 title: "Resources & Opportunities"
 headline: "JOB ANNOUNCEMENT:  Director of Public Policy and Advocacy – Children and Families, The Arc Maryland"
 date:  2015-08-21 09:09:59

@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Big news from The Arc’s Legal Advocacy Program!"
+headline: "Brand Implementation Tip: Show off your Style with your Annual Report"
 date:   2015-08-18 09:09:59
 categories: fusion-news
-image: http://www.thearc.org/image/Arc_Delaware_Color_Pos_JPG.jpg
+image: 
 ---
-The Arc of Delaware and its counsel Relman, Dane & Colfax, The Arc of the U.S., and Community Legal Aid Society, Inc. <a href="https://blog.thearc.org/2016/06/09/arc-delaware-reaches-fair-housing-settlement/">are thrilled to announce the recent settlement</a> of The Arc of Delaware’s disability discrimination complaint against Sugar Maple Farms Property Owners’ Association. The settlement is a major victory for the right of individuals with I/DD. Shira Wakschlag, Staff Attorney with The Arc, noted: “For more than 65 years, The Arc has sought to enforce and protect the human and civil rights of individuals with I/DD by working to ensure those with disabilities are able to live in the community free from discrimination and institutional settings. Without the vigorous enforcement of state and federal disability rights laws, this fundamental right would be eroded.” If you believe your chapter or members of your chapters have experienced disability discrimination and may want to pursue legal action, please contact <a href="mailto:wakschlag@thearc.org">Shira Wakschlag.</a> 
+Your chapter’s annual report is a great opportunity to show off not only your accomplishments, but your modern style! Annual reports are an excellent chance to show the public how professional and put together your organization is, and is worth putting some extra TLC into. Need inspiration? Check out our <a href="http://www.thearc.org/file/16-066-The-Annual-Report_web.pdf">2015 Annual Report</a>! Congratulations to our superstar Graphic Designer and Brand Coordinator Bethany Glaze on creating it. Questions? Contact <a href="mailto:glaze@thearc.org">Bethany</a>. We’re always happy to help!

@@ -1,5 +1,5 @@
 ---
-layout: fusion
+layout: fusion1
 title:  "2 Box Callout"
 headline: "Can I get a Lyft? Disability Rights Laws and the Sharing Economy"
 webdate: "July 14 from 1:00 – 2:30 PM EDT"

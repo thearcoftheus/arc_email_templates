@@ -1,5 +1,5 @@
 ---
-layout: fusion
+layout: fusion1
 title:  "2 Box Callout"
 headline: "The Attorney Client Relationship: Bridging the Gap Between Attorneys, Clients with I/DD, and Their Families"
 webdate: "Thursday, May 26 from 1:30 &mdash; 3:00 pm EST"

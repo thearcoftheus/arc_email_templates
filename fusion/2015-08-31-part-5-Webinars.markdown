@@ -1,5 +1,5 @@
 ---
-layout: fusion
+layout: fusion1
 title:  "2 Box Callout"
 headline: "AUCD Webinar: Ethnic Disparities for Adults with ID/DD"
 webdate: "Tuesday, June 21 12:00 – 2:00 pm EDT"
