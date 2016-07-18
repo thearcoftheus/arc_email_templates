@@ -1,9 +1,11 @@
 ---
-layout: fusion1
+layout: fusion
 title: "Resources & Opportunities"
-headline: "2016 Coleman Conference"
+headline: "Mental Health Courts and Individuals with I/DD: A Criminal Justice Solution?"
 date:  2015-08-21 09:09:59
 categories: fusion-resources
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Colorado_Buffs_alternate_logo.png/220px-Colorado_Buffs_alternate_logo.png
+image: 
 ---
-The Coleman Institute for Cognitive Disabilities will host its 16th Annual Conference on Cognitive Disabilities and Technology in Broomfield, CO on October 6, 2016. Join innovators engaged in working with Cognitive Disabilities and Technology in a Conference designed to inform about recent advances in the field and stimulate conversations about future developments. There is no cost to attend the conference, but space is limited, and attendees must pre-register. Find more information about the conference, including registration and hotel accommodations, <a href="http://www.colemaninstitute.org">here.</a> 
+<i>Thursday, July 28 from 1:30 – 3:00 pm EDT</i>
+<br><br>
+Mental health courts were created to divert offenders from prison into long-term community based treatment. These courts rely on assessments, treatment plans, and ongoing behavior monitoring to address both the mental health needs of offenders, as well as safety needs of the community. But, are they appropriate for people with I/DD? NCCJD will discuss the results of a recent survey of mental health courts serving people with I/DD. A historical perspective of mental health courts will be provided, and their role and purpose in the criminal justice system defined. We will discuss how the Mental Health and Developmental Disabilities Court specifically addresses the needs of individuals with I/DD and the benefits of serving them. Negatives of mental health courts and whether they are adequate to serve those with I/DD will also be addressed. <a href="http://bit.ly/21kWFcs">Register here</a>.
