@@ -1,8 +1,16 @@
 ---
 layout: nce-1
-headline: "Help us Build A Special Education Advocacy Vision"
+headline: "Save the Date for the NCE Award Ceremony and Luncheon"
 date:   2015-08-19 09:09:59
 categories: nce-section2
-image: https://www.thearc.org/image/The-Arc--School-Lockup-01.jpg
+image: https://www.thearc.org/image/august-newsletter-image-5.jpg
 ---
-The Arc@School, The Arc’s new Center for Special Education Advocacy, wants your help determining our goals and activities! We are collecting information from chapters about the special education advocacy that you are currently providing to students with I/DD and their families. This information will help build the capacity of chapters of The Arc to provide individual special education advocacy. Please provide contact information in case we need to follow up with you to get more information about your advocacy services. Any information shared from this survey outside The Arc’s national office will be in aggregate form only, so as not to identify any specific individuals or chapters. <a href="https://www.surveymonkey.com/r/N5FS2BC">The survey should take less than 15 minutes to complete.</a><b> Deadline: Friday, July 29.</b> Please contact <a href="mailto:Ullman@thearc.org">Shawn Ullman</a>,Director of The Arc@School or by phone at 202.617.3276 if you have any questions. Thank you for helping us build a vision for The Arc@School!
+The NCE Distinguished Professional Awards Ceremony will take place during the National Convention on October 27th 12:30-2:00pm at the Hilton Orlando Lake Buena Vista. Please join us as we spotlight the professionals who have fulfilled the values, mission, and position statements of The Arc. 
+<br><br>
+This year, we have expanded the categories of awards offered to create new opportunities to celebrate NCE members’ achievements. Come, and join us as we acknowledge the inaugural recipients of the:
+<ul>
+<li><b>Diversity and Cultural Competency Award</b>, for CEOs who have established innovative program(s) that meet the needs of a diverse I/DD community</li>
+<li><b>Exemplary Career Leadership Award</b>, for retiring CEOs</li>
+<li><b>Exemplary Mentor Award</b>, for CEOs who have mentored NCE members</li>
+<li><b>Program Innovation Award</b>, CEOs who have implemented innovative programs	</li>
+</ul>

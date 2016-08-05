@@ -1,10 +1,10 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "An International Perspective"
+headline: "Inclusion International Expresses Sympathies to the Victims of Japan Attack"
 date:   2015-08-18 09:09:59
-categories: fusion-news
-image: http://www.thearc.org/image/National-Conv-Logo-2016-H-full-color.png
+image: http://inclusion-international.org/wp-content/uploads/2013/05/copy-ii-logo.png
 pageposition: first
+categories: fusion-news
 ---
-At our 2016 National Convention & International Forum, you will find camaraderie, ideas, and encouragement with attendees from countries all over the world as we partner once again with Inclusion International. One attendee said: “I attended the previous event partnered with Inclusion International; it was not to be missed. Networking with people from all over the world was particular[ly] rewarding.” See old friends and discover new ones from around the world as you uncover the latest trends in the disability community. <a href="http://convention.thearc.org">Register today!</a>
+Last week, 19 people were killed during a vicious attack on a residential care facility in Sagamihara, Japan. We join with our friends and colleagues at Inclusion International and Inclusion Japan to mourn the loss of those who were taken from this world too soon and wish those who are injured a full recovery. To show the families of the victims that we mourn their loss and that the lives of people with I/DD matter, <a href="http://inclusion-international.org/japan-attack/">Inclusion International</a> is inviting people to share messages of condolences either on their <a href="https://www.facebook.com/inclusioninternational/">Facebook page</a> or <a href="https://twitter.com/InclusionIntl">Twitter.</a> They will collect and share these messages with Inclusion Japan and the families of the victims.   

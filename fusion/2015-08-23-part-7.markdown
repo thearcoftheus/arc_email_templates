@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-headline: "Help us Build A Special Education Advocacy Vision"
+headline: "Accessible Transportation Grant Available "
 date:  2015-08-21 09:09:59
+image: http://www.nadtc.org/wp-content/uploads/nadtc-color-logo-2.3.16-e1461785571427.jpg
 categories: fusion-resources
-image: https://www.thearc.org/image/The-Arc--School-Lockup-01.jpg
 ---
-The Arc@School, The Arc’s new Center for Special Education Advocacy, wants your help determining our goals and activities! We are collecting information from chapters about the special education advocacy that you are currently providing to students with I/DD and their families. This information will help build the capacity of chapters of The Arc to provide individual special education advocacy. Please provide contact information in case we need to follow up with you to get more information about your advocacy services. Any information shared from this survey outside The Arc’s national office will be in aggregate form only, so as not to identify any specific individuals or chapters. <a href="https://www.surveymonkey.com/r/N5FS2BC">The survey should take less than 15 minutes to complete</a>. Deadline: Friday, July 29. Please contact <a href="Ullman@thearc.org">Shawn Ullman</a>, Director of The Arc@School or by phone at 202.617.3276 if you have any questions. Thank you for helping us build a vision for TheArc@School
+<a href="http://www.nadtc.org/">The National Aging and Disability Transportation Center</a> seeks applications that increase accessible transportation options for older adults and people with disabilities. Grants of up to $50,000 each will be awarded to as many as six communities for a 12-month period. Applications are due August 26, 2016. <a href="http://www.nadtc.org/grants-funding/nadtc-grant-opportunities/current-nadtc-funding-opportunities">Apply today!</a> 

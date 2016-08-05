@@ -1,8 +1,10 @@
 ---
 layout: nce-1
-headline: "Employment Research Brief"
+headline: "It’s Never Too Late to Donate to the NCE Silent Auction"
 date:   2015-08-19 09:09:59
 categories: nce-section2
-image: https://pbs.twimg.com/profile_images/603918799247519744/xqQVp2RF_400x400.png
+image: 
 ---
-At last summer’s NCE Summer Leadership Institute in Providence, RI, a forum titled “Town hall: Mapping the Future of Employment Services” was facilitated by Jonathan Lucus, Managing Director of The Arc@Work, and Cindy Thomas, Associate Director of the Institute for Community Inclusion at UMass-Boston. <a href="http://www.thinkwork.org/sites/thinkwork.org/files/files/RRTC_keyfindings6_F.PDF">The forum led to the creation of a brief</a>, co-authored by Amie Lulinski, Director of Research and Evaluation at The Arc, to share chapter experiences with transformation from sheltered workshops to community-based employment. In addition, emerging research findings from a Delphi process are shared. <a href="http://www.thinkwork.org/sites/thinkwork.org/files/files/RRTC_keyfindings6_F.PDF">Check it out!</a>
+Thank you to those who contributed an item to our Silent Auction campaign <i>Bigger! Better! More!</i> at this year’s Summer Leadership Institute. We have a couple of months before the NCE Silent Auction at The Arc’s Convention in Orlando, FL, so you still have a chance to contribute an item that will help send our chapter leaders and staff who have never attended SLI or the Professional Development Seminar to these events.  
+<br><br>
+Complete our online <a href="http://convention.thearc.org/sessions/nce-silent-auction/">form</a> to donate an item. If you have any questions, contact Laura Rahman, Director of Individual Philanthropy, at <a href="mailto:rahman@thearc.org">rahman@thearc.org</a>.

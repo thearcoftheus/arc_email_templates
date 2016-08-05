@@ -1,7 +1,7 @@
 ---
-layout: fusion1
+layout: fusion
 title:  "Photo and Caption"
 headline: "OK THEN"
 date:   2015-08-25 09:09:59
-categories: fusion
+categories: fusion-no
 ---
