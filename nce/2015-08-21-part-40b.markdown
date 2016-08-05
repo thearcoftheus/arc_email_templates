@@ -3,7 +3,7 @@ layout: nce-1
 headline: "Apply for a Professional Development Seminar Scholarship!"
 date:   2015-08-19 09:09:59
 categories: nce-section2
-image: 
+image: http://www.thearc.org/image/SLI-Session-National-Staff.jpg
 ---
 This year, we are pleased to offer two types of scholarships for the <b>NCE Professional Development Seminar</b>, scheduled for October 26-27th at the Hilton Orlando Lake Buena Vista during The Arc's National Convention.  <br><br>
 The first is for first time attending Chapter Executive Directors/CEOs. The second is for our first time attending "Next Generation Leaders," who have been in the IDD field for at least three years. Scholarships will cover:

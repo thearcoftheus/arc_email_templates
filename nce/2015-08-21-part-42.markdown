@@ -3,7 +3,7 @@ layout: nce-1
 headline: "It’s Never Too Late to Donate to the NCE Silent Auction"
 date:   2015-08-19 09:09:59
 categories: nce-section2
-image: 
+image: http://www.thearc.org/image/silent-auction-article2.jpg
 ---
 Thank you to those who contributed an item to our Silent Auction campaign <i>Bigger! Better! More!</i> at this year’s Summer Leadership Institute. We have a couple of months before the NCE Silent Auction at The Arc’s Convention in Orlando, FL, so you still have a chance to contribute an item that will help send our chapter leaders and staff who have never attended SLI or the Professional Development Seminar to these events.  
 <br><br>
