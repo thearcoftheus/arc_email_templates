@@ -4,7 +4,7 @@ title:  "2 Box Callout"
 headline: "Caring for Myself”: A Health Promotion Program for Family Caregivers of Persons with I/DD"
 webdate: "Wednesday, September 14, 2016 from 2:00 – 3:00 pm Eastern Time"
 date:   2015-08-20 09:09:59
-categories: fusion-webinar
+categories: fusion-webinar-1
 ---
 The majority of children and adults with I/DD live with their families. This is especially true for people with I/DD from Latino and other minority households. The primary caregivers in these households, who are usually mothers, face significant challenges with their own emotional and physical health. Furthermore, research suggests that lifelong caregiving exacerbates already existing health disparities that Latina women face. Effective practical interventions that promote healthy lifestyle behaviors and well-being among caregiving mothers are needed. 
 
