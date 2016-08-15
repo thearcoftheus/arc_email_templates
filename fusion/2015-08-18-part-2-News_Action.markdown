@@ -1,10 +1,10 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Inclusion International Expresses Sympathies to the Victims of Japan Attack"
+headline: "The Place to Be this Fall!"
 date:   2015-08-18 09:09:59
-image: http://inclusion-international.org/wp-content/uploads/2013/05/copy-ii-logo.png
+image: http://www.thearc.org/image/National-Conv-Logo-2016-H-full-color.png
 pageposition: first
 categories: fusion-news
 ---
-Last week, 19 people were killed during a vicious attack on a residential care facility in Sagamihara, Japan. We join with our friends and colleagues at Inclusion International and Inclusion Japan to mourn the loss of those who were taken from this world too soon and wish those who are injured a full recovery. To show the families of the victims that we mourn their loss and that the lives of people with I/DD matter, <a href="http://inclusion-international.org/japan-attack/">Inclusion International</a> is inviting people to share messages of condolences either on their <a href="https://www.facebook.com/inclusioninternational/">Facebook page</a> or <a href="https://twitter.com/InclusionIntl">Twitter.</a> They will collect and share these messages with Inclusion Japan and the families of the victims.   
+The Arc and Inclusion International’s National Convention & International Forum is the place to be this fall! We are excited to be playing host to the full cast of A&E’s hit series <a href="http://www.aetv.com/shows/born-this-way">Born This Way</a> as well as Walt and Owen Suskind stars of the new documentary, <a href="http://www.lifeanimateddoc.com/">Life Animated</a>. You can also look forward to an exciting schedule packed with dozens of valuable sessions to choose from. Hot topics being covered this year include, but are not limited to: <a href="http://convention.thearc.org/sessions/update-on-able-act-federal-activity-and-state-implementation/">an update on state implementation of the ABLE ACT</a>, <a href="http://convention.thearc.org/sessions/department-of-labor-overtime-rule-implications-and-how-to-comply/">Department of Labor Overtime Rule Implications and How to Comply</a>, a <a href="http://convention.thearc.org/sessions/self-advocate-symposium/">Global Self-Advocacy Leadership Summit</a>, <a href="http://convention.thearc.org/sessions/employment-first-shaping-the-future-of-workshops-and-community-employment/">Employment First</a>, and <a href="http://convention.thearc.org/sessions/access-to-justice/">an international session about access to justice</a>. A full list of sessions can be found on the event website. <a href="http://convention.thearc.org">Register today!</a>

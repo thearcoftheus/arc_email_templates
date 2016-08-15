@@ -1,11 +1,16 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-headline: "Save the Date: NADD 33rd Annual Conference "
+headline: "Do you Have Employment and Disability Stories?"
 date:  2015-08-21 09:09:59
 categories: fusion-resources
 image: http://www.centerforstartservices.org/sites/www.centerforstartservices.org/files/2016conference/nadd_logo.jpg
 ---
-<i>Thursday, July 28 from 1:30 – 3:00 pm EDT</i>
-<br><br>
-NADD’s 33rd Annual Conference (an association for people with developmental disabilities and mental health needs) will be held from November 2 – 4 in Niagara Falls! This year’s theme is Weaving Solutions: Research/Policy/Practice in ID/MI (Intellectual Disability/Mental Illness). See a list of keynote speakers, sessions, and registration information <a href="http://thenadd.org/33rd/">here.</a> 
+The Arc is seeking stories to add to a report making recommendations on disability employment policy for The Century Foundation. We are seeking stories that include but are not limited to the following issues related to people with disabilities in the workforce:
+<ul>
+<li>Have you lost your job and faced discrimination in hiring?</li>
+<li>Do you feel that you fell through the cracks when you aged out of IDEA services?</li>
+<li>Have you had success with competitive, integrated employment?</li>
+<li>Do you receive SSI and work but are having difficulty taking advantage of the work-incentive programs allowing you to retain Medicaid?</li>
+</ul>
+Please send any stories to <a href="mailto:murphy@TheArc.org">Katherine Murphy</a> by <b>August 26</b>. 

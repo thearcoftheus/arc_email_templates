@@ -1,9 +1,8 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Learn with Advocates from Around the Globe"
+headline: "Brand Implementation Tip: Font Yeah!"
 date:   2015-08-18 09:09:59
-image: http://www.thearc.org/image/National-Conv-Logo-2016-H-full-color.png
-categories: fusion-news-no
+categories: fusion-news
 ---
-Shaping a more inclusive future requires bold and collaborative action. Around the world, there is still discrimination against individuals with disabilities when it comes to even the most basic civil rights any citizen deserves. We need drastic system changes and sweeping reform across the globe, and we need it now. <a href="http://convention.thearc.org">Join us at the 2016 National Convention & International Forum</a> as collective international movement to shape the future. You will find camaraderie, ideas, and encouragement with over 1,000 attendees from over 40 countries. Network with old friends and discover new friends from around the world as you uncover the latest trends in the disability community. <a href="http://convention.thearc.org">Register today!</a>
+Did you know The Arc has a corporate font? Our primary font is ITC Stone Sans Medium. This should always be the default font used if you’re a branded chapter! If you don’t have access to ITC Stone Sans (we can help you), please use Trebuchet is the alternative. Happy typing! Questions? Contact The Arc’s Brand Coordinator, <a href="mailto:glaze@thearc.org">Bethany Glaze</a>. We’re always happy to help!
