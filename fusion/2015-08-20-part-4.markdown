@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Chapter Spotlight: The Arc of Hudson County Honored"
+headline: "The Arc’s CEO on Civic Engagement and the Disability Vote"
 date:   2015-08-18 09:09:59
-image: http://www.thearc.org/view.image?Id=2879
+image: http://comcastnewsmakers.com/wp-content/themes/comcastnewsmakers/images/MainLogo.png 
 categories: fusion-news
 ---
-The Arc of Hudson County in Union City, NJ is pleased to announce it has received the coveted <a href="https://awards.citybeatnews.com/ARC-OF-NEW-JERSEY-HUDSON-CNTY-UNION-CITY-NJ">2016 Spectrum Award For Excellence in Customer Service</a>. Presented by the City Beat News team, an independent research and publishing firm headquartered in Lapeer, Michigan, this distinction recognizes small business who offers outstanding service to their clientele. In bestowing this honor, CBN spotlights the often overlooked small businesses which are the bedrock of their local communities. Congratulations, The Arc of Hudson County! 
+Last month, Peter Berns was featured on Comcast Newsmakers to discuss civic engagement, voting, and the disability movement. He talked about the importance of the disability vote, including knowing and fighting for rights to cast a ballot. The voting resources he mentioned are <a href="http://www.thearc.org/what-we-do/resources/toolkits/vote">available here</a>. Watch the video and stay informed on issues affecting the disability community by <a href="http://disabilityadvocacynetwork.org/thearc/home">joining the Disability Advocacy Network here</a>. This segment is available on Demand until November 8. 

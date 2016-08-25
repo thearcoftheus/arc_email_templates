@@ -1,8 +1,9 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Brand Implementation Tip: Font Yeah!"
+headline: "The Arc Commends Department of Justice’s Report on Investigation of the Baltimore City Police Department"
+image: http://bit.ly/2bLsVn1
 date:   2015-08-18 09:09:59
 categories: fusion-news
 ---
-Did you know The Arc has a corporate font? Our primary font is ITC Stone Sans Medium. This should always be the default font used if you’re a branded chapter! If you don’t have access to ITC Stone Sans (we can help you), please use Trebuchet is the alternative. Happy typing! Questions? Contact The Arc’s Brand Coordinator, <a href="mailto:glaze@thearc.org">Bethany Glaze</a>. We’re always happy to help!
+Last week, the Department of Justice’s (DOJ) Civil Rights Division <a href="https://www.justice.gov/opa/file/883366/download">released a report</a> following an investigation into the past conduct of the Baltimore City Police Department (BPD). DOJ concluded that there is “reasonable cause to believe that BPD engaged in a pattern or practice of conduct that violates the Constitution or federal law.” Among these troubling findings, The Arc noted that the treatment of individuals with disabilities by law enforcement was included in the report, which featured a full section on the use of unreasonable force against individuals with I/DD and mental illness highlighting that “BPD officers repeatedly fail to make reasonable modifications necessary to avoid discrimination in violation of Title II of the Americans with Disabilities Act of 1990 (ADA).” Read <a href="https://blog.thearc.org/2016/08/19/arc-commends-department-justices-report-investigation-baltimore-city-police-department/">The Arc’s response to the DOJ report here</a>. 

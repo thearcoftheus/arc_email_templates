@@ -1,16 +1,9 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-headline: "Do you Have Employment and Disability Stories?"
+headline: "Save money and find more donors to support your chapter!"
 date:  2015-08-21 09:09:59
 categories: fusion-resources
-image: http://www.centerforstartservices.org/sites/www.centerforstartservices.org/files/2016conference/nadd_logo.jpg
+image: http://www.wealthengine.com/sites/default/themes/wealthengine/logo.png
 ---
-The Arc is seeking stories to add to a report making recommendations on disability employment policy for The Century Foundation. We are seeking stories that include but are not limited to the following issues related to people with disabilities in the workforce:
-<ul>
-<li>Have you lost your job and faced discrimination in hiring?</li>
-<li>Do you feel that you fell through the cracks when you aged out of IDEA services?</li>
-<li>Have you had success with competitive, integrated employment?</li>
-<li>Do you receive SSI and work but are having difficulty taking advantage of the work-incentive programs allowing you to retain Medicaid?</li>
-</ul>
-Please send any stories to <a href="mailto:murphy@TheArc.org">Katherine Murphy</a> by <b>August 26</b>. 
+Find those donors by using Wealth Engine to help focus your attention on donors who have the wealth to give at higher levels. Learn how The Arc’s discounted price of Wealth Engine may be able to help you and your chapter save money (and make money) with their service, contact <a href="mailto:Rahman@thearc.org">Laura Rahman</a> or <a href="mailto:hayes@thearc.org">Sydney Hayes</a>. 
