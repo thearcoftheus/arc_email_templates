@@ -1,7 +1,7 @@
 ---
 layout: fusion
 title:  "2 Box Callout"
-headline: ""Caring for Myself": A Health Promotion Program for Family Caregivers of Persons with I/DD"
+headline: "Caring for Myself": A Health Promotion Program for Family Caregivers of Persons with I/DD"
 webdate: "Wednesday, September 14 from 2:00 – 3:00 pm Eastern Time"
 date:   2015-08-20 09:09:59
 categories: fusion-webinar-1
