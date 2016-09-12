@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-headline: "Save money and find more donors to support your chapter!"
+headline: "Have you Read the Diversity Strategic Action Plan Yet?"
 date:  2015-08-21 09:09:59
 categories: fusion-resources
-image: http://www.wealthengine.com/sites/default/themes/wealthengine/logo.png
+image: http://www.thearc.org/image/diversity/Diversity-Action-Plan-Thumbnail.jpg
 ---
-Find those donors by using Wealth Engine to help focus your attention on donors who have the wealth to give at higher levels. Learn how The Arc’s discounted price of Wealth Engine may be able to help you and your chapter save money (and make money) with their service, contact <a href="mailto:Rahman@thearc.org">Laura Rahman</a> or <a href="mailto:hayes@thearc.org">Sydney Hayes</a>. 
+Becoming an even more powerful advocate for people with I/DD calls for increased awareness and participation by The Arc in diverse communities and attracting people of all ethnic and cultural backgrounds. The Arc’s new Diversity Strategic Action Plan speaks to achieving greater diversity and cultural competence at the national level, while also providing resources and supports for chapters to do so at the state and local level as well. Read the full plan <a href="http://bit.ly/2bG4A5l">here</a>, and stay tuned for more information and resources!

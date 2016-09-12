@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title:  "2 Box Callout"
-headline: "The Attorney Client Relationship: Bridging the Gap Between Attorneys, Clients with I/DD, and Their Families"
-webdate: "Thursday, May 26 from 1:30 &mdash; 3:00 pm EST"
+headline: "Supporting People with I/DD to Identify Appropriate Housing"
+webdate: "Thursday, October 6 from 2:00 – 3:00pm ET"
 date:   2015-08-20 09:09:59
-categories: fusion-webinar-3-no
+categories: fusion-webinar-4
 ---
-<b>Presenters: Steve Gordo</b>, Parent Advocate, <b>Elizabeth Kelley</b>, Criminal Defense Attorney and Member of the Board of Directors, National Association of Criminal Defense Lawyers, <b>Ashley Brompton</b>, Criminal Justice Fellow, NCCJD   Join NCCJD as we help attorneys, clients, and their families understand each other’s needs and obligations during a criminal case, and how they can work together to ensure the best representation possible for people with I/DD. Mr. Gordo will speak about his son, Paul, who has autism and was charged with assault after experiencing sensory overload at a library. Hear how the Gordo family was able to work with their defense attorney to get the charges reduced from a major felony to a misdemeanor. Ms. Kelley will discuss the ethics of representing someone with I/DD and the perspective of the attorney in cases where the client has I/DD. Ashley Brompton will discuss how the worlds of clients/families and attorneys can come together and help each other. <a href="https://www.thearc.org/page.redir?target=http%3a%2f%2fbit.ly%2f26X2H87&srcid=38778&srctid=1&erid=8170827&trid=12b155c1-376b-4e4d-a735-6383fab9c655">Register here</a>.
+There are many options for where adults with I/DD could live. Some people with I/DD may live independently, with other family members after they leave their parents’ home, or in a community-based setting with support. It is important to balance the wishes of the person with I/DD and the level of support needed when identifying housing options available in your community. We will focus on how to explore housing options with an adult with I/DD. We will provide tips on important questions to ask the person with I/DD about where he or she wants to live when determining housing options. We will also provide guidance on how the family can work with the person with I/DD to determine supports needed to and housing preferences. Register for this session <a href="https://thearc.webex.com/thearc/k2/j.php?MTID=te516420688fce7967728edeec88e35a4">here</a>.

@@ -1,8 +1,10 @@
 ---
 layout: fusion
 title:  "Peter’s Perspective"
-headline: "The Arc Baton Rouge hold"
+headline: "Help us grow The Arc"
 date:   2015-08-17 09:09:59
 categories: fusion-ceo
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris feugiat mi vitae viverra fringilla. Nunc ultrices tortor sit amet eros vestibulum imperdiet. Phasellus vel augue malesuada, faucibus odio non, vestibulum dolor. Integer posuere vulputate mauris, sed malesuada arcu blandit pharetra. Nam vulputate turpis ante, vitae rutrum ligula vestibulum vitae. Cras nec erat tempus, auctor ligula facilisis, luctus leo. Nullam sed diam nec ex posuere scelerisque vitae vel nisl. Morbi condimentum est eget molestie blandit. Nullam viverra nibh erat, id fermentum tortor eleifend ut. Aliquam feugiat enim libero, vel placerat sapien euismod vel. Curabitur eget est bibendum nunc tristique lacinia eu et justo. Suspendisse ac diam tincidunt, sollicitudin tellus ac, tincidunt lacus. Cras urna ante, placerat eget est nec, sodales pulvinar lorem. Maecenas luctus pellentesque diam at ultricies. Vivamus et finibus enim, id elementum magna. Sed sed libero ornare risus faucibus sodales sit amet a sem. Aenean finibus ligula ut risus. <a href="www.arcbatonrouge.org">www.arcbatonrouge.org</a>
+Do you know a nonprofit in your state that would be a good fit to become a chapter of The Arc? Currently, The Arc has 657 chapters in 48 states and DC, but there could be more. There are 14 states that have 3 or fewer local chapters, including 8 states where there is no state chapter at all.
+
+Please share with us any suggestions you have about organizations we should recruit to affiliate. Send your suggestions to me at <a href="mailto:berns@thearc.org">berns@thearc.org</a> and we will follow up with you.

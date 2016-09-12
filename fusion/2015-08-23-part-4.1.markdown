@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Entrepreneur Alley Deadline: July 1"
+headline: "Stakeholders Endorse Lawsuit Challenging Georgia’s GNETS Program and Hail it as the Brown vs. Board of Education for Students with Disabilities"
 date:   2015-08-18 09:09:59
-image: http://www.healthmattersprogram.org/healthmatters_files/stacks_image_445.png
-categories: fusion-news-no
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Seal_of_the_United_States_Department_of_Justice.svg/2000px-Seal_of_the_United_States_Department_of_Justice.svg.png
+categories: fusion-news
 ---
-Only two weeks left to take advantage of our early bird price! Every year, this Convention favorite draws talented self-advocates with diverse skills from around the country who have built small businesses, as well as those employed in a business run by their local chapter of The Arc. The experience is a valuable and profitable opportunity to network with over 1,000 attendees from around the world. Know someone who’d like to show off their skills? <a href="http://convention.thearc.org/sessions/entrepreneur-alley/">Sign up today to be an Entrepreneur Alley vendor.</a> Questions? Contact <a href="mailto:skennedy@thearc.org">Sarah Kennedy.</a>
+On August 23, 2016, The U.S. Department of Justice filed a lawsuit against the state of Georgia alleging that its treatment and segregation of students with disabilities in the Georgia Network for Educational and Therapeutic Support Program violates the Americans with Disabilities Act. For years, the Georgia Coalition for Educational Equity has been working vigorously to protect the right of students with disabilities to receive an equal education alongside their non-disabled peers. As members of the Coalition, The Arc of Georgia and The Arc of the United States strongly support this lawsuit. Read more <a href="http://bit.ly/2c4hDZM">in the Coalition’s press release</a>.

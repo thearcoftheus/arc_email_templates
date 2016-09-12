@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Bigger, Better, More!"
+headline: "The Arc’s Annual Business Meeting – NEW FORMAT!"
 date:   2015-08-18 09:09:59
-categories: fusion-news-no
-image: https://www.thearc.org/view.image?Id=1322
+categories: fusion-news
+image: https://www.thearc.org/image/_content-images/TheArcLogo_Color_Pos_JPG.jpg
 ---
-Contribute an item for Silent Auction! Your donation to the Silent Auction provides an invaluable opportunity for chapter leaders and staff who have not previously attended Summer Leadership Institute or Professional Development Seminar to come and meet with other chapter leaders while participating in meaningful professional development.  Donate an item <a href="http://convention.thearc.org/sessions/nce-silent-auction/">here</a>. If you have any questions, contact <a href="mailto:tnguyen@thearc.org">Thuba Nguyen</a>, Chapter Growth & Affiliate Relations Associate. 
+The Arc's 2016 Annual Business Meeting is scheduled to take place in conjunction with this year's National Convention and International Forum on Friday, October 28. In addition to voting on position statements, electing officers and hearing leadership reports, the Business Meeting will feature a listening session about The Arc’s 2017-2018 Public Policy Agenda. We encourage you to come share your ideas about The Arc’s policy priorities in the years ahead. As a reminder, the meeting is open to everyone. Learn more about credentialing your chapter votes and download documents related to the meeting <a href="http://convention.thearc.org/sessions/the-arcs-annual-business-meeting/">here</a>. Questions, please contact <a href="mailto:turner@thearc.org">CT Turner</a>. 

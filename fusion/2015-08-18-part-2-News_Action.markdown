@@ -1,10 +1,10 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Another Star Added to the Convention Roster!"
+headline: "Meet us in Orlando: Early Bird Deadline THIS FRIDAY!"
 date:   2015-08-18 09:09:59
-image: http://www.thearc.org/image/National-Conv-Logo-2016-H-full-color.png
+image: http://www.thearc.org/image/National-Conv-Logo-2016-H-full-color.png 
 pageposition: first
 categories: fusion-news
 ---
-At this year’s National Convention & International Forum, you can already expect to be dazzled by the full cast of <a href="http://www.aetv.com/shows/born-this-way">A&E’s Born this Way</a>. Now, we’ve added even more star power! At our national convention in New Orleans in 2014, you may remember Ron Suskind, who gave a thrilling keynote address about his New York Times bestseller: Life, Animated. Now, his book has been made into a movie! <a href="http://www.lifeanimateddoc.com/">LIFE, ANIMATED</a> is the story of Owen Suskind, who as a a young toddler, lost his ability to speak until he and his family discovered a unique way to communicate by immersing themselves in the world of classic Disney animated films. Join us at convention and hear Owen and his brother Walt who will be headlining our closing plenary. <a href="http://convention.thearc.org">Register today to see these amazing speakers and more</a>!
+Meet us in Orlando! If you haven’t registered yet, there are only five days left to do so at a discounted price. After Friday, rates will rise! Don’t miss this chance to take your advocacy global as we once again partner with Inclusion International. In addition to our opening and closing speakers—the full cast of A&E’s Born this Way and Owen and Walt Suskind of Life, Animated—we have a <a href="http://convention.thearc.org/schedule/">schedule</a> full of hot-topic sessions, thought-provoking speakers, and plenty of time to mingle with advocates from all over the world. Don’t wait—<a href="http://convention.thearc.org">register today</a>!

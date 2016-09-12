@@ -4,7 +4,7 @@ title:  "2 Box Callout"
 headline: ""
 webdate: ""
 date:   2015-08-20 09:09:59
-categories: fusion-ad-no
+categories: fusion-ad
 image: http://www.thearc.org/image/16-006-Convention-Fusion-Banner.jpg
 link: http://convention.thearc.org/
 

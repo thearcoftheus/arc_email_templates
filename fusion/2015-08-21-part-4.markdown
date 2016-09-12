@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "The Arc Commends Department of Justice’s Report on Investigation of the Baltimore City Police Department"
-image: http://bit.ly/2bLsVn1
+headline: "Bigger! Better! More! Have you contributed to the NCE Silent Auction yet?"
+image: https://www.thearc.org/view.image?Id=1322
 date:   2015-08-18 09:09:59
 categories: fusion-news
 ---
-Last week, the Department of Justice’s (DOJ) Civil Rights Division <a href="https://www.justice.gov/opa/file/883366/download">released a report</a> following an investigation into the past conduct of the Baltimore City Police Department (BPD). DOJ concluded that there is “reasonable cause to believe that BPD engaged in a pattern or practice of conduct that violates the Constitution or federal law.” Among these troubling findings, The Arc noted that the treatment of individuals with disabilities by law enforcement was included in the report, which featured a full section on the use of unreasonable force against individuals with I/DD and mental illness highlighting that “BPD officers repeatedly fail to make reasonable modifications necessary to avoid discrimination in violation of Title II of the Americans with Disabilities Act of 1990 (ADA).” Read <a href="https://blog.thearc.org/2016/08/19/arc-commends-department-justices-report-investigation-baltimore-city-police-department/">The Arc’s response to the DOJ report here</a>. 
+Proceeds from the Silent Auction provide scholarships to chapter leaders to attend the NCE Summer Leadership Institute and the NCE Professional Development Seminar. We need items to auction!  Please check your closets, your attic, and your network! <a href="http://convention.thearc.org/sessions/nce-silent-auction/">Complete our online form</a> to donate an item. If you have any questions, contact <a href="mailto:Rahman@thearc.org">Laura Rahman</a>, Director of Individual Philanthropy. 
