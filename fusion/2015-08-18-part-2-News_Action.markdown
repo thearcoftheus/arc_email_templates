@@ -1,10 +1,22 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Meet us in Orlando: Early Bird Deadline THIS FRIDAY!"
+headline: "Announcing our 2016 Catalyst Award Winners!"
 date:   2015-08-18 09:09:59
 image: http://www.thearc.org/image/National-Conv-Logo-2016-H-full-color.png 
 pageposition: first
 categories: fusion-news
 ---
-Meet us in Orlando! If you haven’t registered yet, there are only five days left to do so at a discounted price. After Friday, rates will rise! Don’t miss this chance to take your advocacy global as we once again partner with Inclusion International. In addition to our opening and closing speakers—the full cast of A&E’s Born this Way and Owen and Walt Suskind of Life, Animated—we have a <a href="http://convention.thearc.org/schedule/">schedule</a> full of hot-topic sessions, thought-provoking speakers, and plenty of time to mingle with advocates from all over the world. Don’t wait—<a href="http://convention.thearc.org">register today</a>!
+Next month, The Arc will present the prestigious Catalyst Awards to these nine honorees, all of whom have made extraordinary contributions in the lives of people with intellectual and developmental disabilities: 
+
+Author of the Year: Steve Silberman
+Community Advocate of the Year: Patti Saylor and Erica Wheeler
+Corporate Advocate of the Year: Nike
+Corporate Foundation Philanthropist of the Year: Google.org
+Educator of the Year: Pablo Juarez 
+Foundation Philanthropist of the Year: The Ruderman Family Foundation 
+Regional Business Employer of the Year: Giant Eagle, Inc
+Self-Advocate of the Year: Connor Long 
+Television Show of the Year: Born This Way (A&E and Bunim/Murray)
+
+Learn more about each winner on <a href="http://bit.ly/1hbvUGI">the Catalyst Awards site</a>, and see them accept their awards LIVE at our National Convention in October—<a href="http://convention.thearc.org">it’s not too late to register</a>!

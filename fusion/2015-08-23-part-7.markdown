@@ -4,6 +4,6 @@ title: "Resources & Opportunities"
 headline: "New State Advocacy Matters Available"
 date:  2015-08-21 09:09:59
 image: http://www.thearc.org/image/public-policy/SPM-April-2015.png
-categories: fusion-resources
+categories: fusion-resources-no
 ---
 Check out the latest issue of State Advocacy Matters <a href="http://www.thearc.org/file/State_Advocacy_Matters-Summer_2016.pdf">here</a>. Stay tuned on our upcoming State Advocacy Matters blog (coming soon!) with real-time updates from our chapter network on accomplishments in advocacy.

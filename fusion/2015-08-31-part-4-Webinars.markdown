@@ -1,11 +1,9 @@
 ---
 layout: fusion
 title:  "2 Box Callout"
-headline: "Caring for Myself": A Health Promotion Program for Family Caregivers of Persons with I/DD"
-webdate: "Wednesday, September 14 from 2:00 – 3:00 pm ET"
+headline: "Supporting People with I/DD to Identify Appropriate Housing"
+webdate: "Thursday, October 6 from 2:00 – 3:00pm ET"
 date:   2015-08-20 09:09:59
 categories: fusion-webinar-1
 ---
-The majority of children and adults with I/DD live with their families. This is especially true for people with I/DD from Latino and other minority households. The primary caregivers in these households, usually mothers, face significant challenges with their own emotional and physical health. Research suggests that lifelong caregiving exacerbates preexisting health disparities that Latina women face. Effective practical interventions promoting healthy lifestyle behaviors and well-being among caregiving mothers are needed. In this webinar, Sandy Magaña, Miguel Morales, and Judith Rocha will present information about an evidenced-based intervention, “By Caring for Myself, I Can Care Better for My Family.” This intervention engages community health workers who are also family caregivers of persons with I/DD to deliver the curriculum. They will discuss cultural aspects and other components of the intervention, how to set up a similar project in your area, and how to adapt it to other cultural groups. <a href="http://bit.ly/2bfkv5B">Register here</a>.
-
-This event is sponsored by the Family Support Research and Training Center at the University of Illinois at Chicago.
+There are many options for where adults with I/DD could live. Some people with I/DD may live independently, with other family members after they leave their parents’ home, or in a community-based setting with support. It is important to balance the wishes of the person with I/DD and the level of support needed when identifying housing options available in your community. We will focus on how to explore housing options with an adult with I/DD. We will provide tips on important questions to ask the person with I/DD about where he or she wants to live when determining housing options. We will also provide guidance on how the family can work with the person with I/DD to determine supports needed to and housing preferences. <a href="https://thearc.webex.com/thearc/k2/j.php?MTID=te516420688fce7967728edeec88e35a4">Register for this session here</a>.

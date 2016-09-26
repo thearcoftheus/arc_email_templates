@@ -4,6 +4,6 @@ title:  "2 Box Callout"
 headline: "Exploring the Competency Dilemma Facing People with I/DD in the Criminal Justice System"
 webdate: "Thursday, September 22 from 1:00 – 3:00pm ET"
 date:   2015-08-20 09:09:59
-categories: fusion-webinar-2
+categories: fusion-webinar-2-no
 ---
 Join The National Center on Criminal Justice and Disability for our next webinar as we unravel complex issues regarding competency and individuals with I/DD in the criminal justice system. Competency is a critical issue in nearly every stage of a criminal case — from the investigation to initial charges, through sentencing and even, in some cases, for decades after incarceration. This webinar will educate advocates and attorneys alike about the unique implications for defendants with I/DD. Topics addressed include the competency to stand trial process, the differences between competency and the insanity defense, using death penalty standards as a basis for competency determinations, competency evaluation wait times, and the impact that guardianship and supported decision making have on competency in criminal cases. Register for the webinar <a href="https://thearc2.webex.com/thearc2/onstage/g.php?MTID=e451005e7bc1f100340ac1c6bdfbf5c65">here</a>.

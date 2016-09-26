@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Bigger! Better! More! Have you contributed to the NCE Silent Auction yet?"
-image: https://www.thearc.org/view.image?Id=1322
+headline: "LAST CHANCE: Chapter Input Needed on The Arc’s Federal Public Policy Agenda"
+image: https://www.thearc.org/image/_content-images/TheArcLogo_Color_Pos_JPG.jpg
 date:   2015-08-18 09:09:59
 categories: fusion-news
 ---
-Proceeds from the Silent Auction provide scholarships to chapter leaders to attend the NCE Summer Leadership Institute and the NCE Professional Development Seminar. We need items to auction!  Please check your closets, your attic, and your network! <a href="http://convention.thearc.org/sessions/nce-silent-auction/">Complete our online form</a> to donate an item. If you have any questions, contact <a href="mailto:Rahman@thearc.org">Laura Rahman</a>, Director of Individual Philanthropy. 
+Our Public Policy Agenda guides our public policy and advocacy efforts and is due to be updated. With the First Session of the 115th Congress beginning in January 2017, we again look to you for direction and input. Your input will help determine what changes we make to <a href="http://www.thearc.org/what-we-do/public-policy/legislative-agenda-full">our current Policy Agenda</a>. Please complete <a href="https://www.surveymonkey.com/r/25DNGVC">this brief survey</a> by October 3. 

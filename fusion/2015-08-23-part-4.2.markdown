@@ -4,6 +4,6 @@ title:  "News & Action Items"
 headline: "The Arc Signs on to U.S. Supreme Court Amicus Brief"
 date:   2015-08-18 09:09:59
 image: https://upload.wikimedia.org/wikipedia/commons/d/d8/USSupremeCourtWestFacade.JPG
-categories: fusion-news
+categories: fusion-news-no
 ---
 The Arc recently signed on to an amicus brief in support of petitioners before the U.S. Supreme Court in Ivy v. Morath. The brief argues that state and local governments may not evade Americans with Disabilities Act Title II obligations by enlisting private entities to perform their services, programs, and activities. States and other public entities routinely rely on private entities to provide services, programs, or activities, such as operating schools, providing employment training, providing community and long-term housing and care services to people with disabilities, operating prisons, providing transportation, and more. <a href="http://www.thearc.org/file/Ivy-v-Morath-Amicus-_-8-31-16.pdf">The full brief can be found here</a>.

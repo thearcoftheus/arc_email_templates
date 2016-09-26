@@ -3,7 +3,7 @@ layout: fusion
 title: "Resources & Opportunities"
 headline: "AAPD: Calling all Leaders and Interns!"
 date:  2015-08-21 09:09:59
-categories: fusion-resources
+categories: fusion-resources-no
 image: http://www.aapd.com/wp-content/themes/aapd/markup/images/logo.jpg
 ---
 Applications for the AAPD 2017 Summer Internship Program as well as the 2017 AAPD Paul G. Hearne Leadership Awards are open! The deadline to apply for the Leadership Awards is September 30, 2016, and the deadline for the internship program is November 7, 2016. Learn more about the internship <a href="http://www.aapd.com/summer-internship-program/">here</a> and the Awards <a href="http://www.aapd.com/aapd-paul-g-hearne-leadership-awards/">here</a>.
