@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-headline: "Have you Read the Diversity Strategic Action Plan Yet?"
+headline: "NADD 33rd Annual Conference: Register Today!"
 date:  2015-08-21 09:09:59
-categories: fusion-resources-no
-image: http://www.thearc.org/image/diversity/Diversity-Action-Plan-Thumbnail.jpg
+categories: fusion-resources
+image: http://www.centerforstartservices.org/sites/www.centerforstartservices.org/files/2016conference/nadd_logo.jpg 
 ---
-Becoming an even more powerful advocate for people with I/DD calls for increased awareness and participation by The Arc in diverse communities and attracting people of all ethnic and cultural backgrounds. The Arc’s new Diversity Strategic Action Plan speaks to achieving greater diversity and cultural competence at the national level, while also providing resources and supports for chapters to do so at the state and local level as well. Read the full plan <a href="http://bit.ly/2bG4A5l">here</a>, and stay tuned for more information and resources!
+NADD’s 33rd Annual Conference (an association for people with developmental disabilities and mental health needs) will be held from November 2 – 4 in Niagara Falls! This year’s theme is Weaving Solutions: Research/Policy/Practice in ID/MI (Intellectual Disability/Mental Illness). See a list of keynote speakers, sessions, and registration information <a href="http://www.thearc.org/page.redir?target=http%3a%2f%2fthenadd.org%2f33rd%2f&srcid=39628&srctid=1&erid=8387286&trid=119cbca4-0ea6-4b05-bc30-34c3c2661e56">here</a>.

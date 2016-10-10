@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "The Arc’s Annual Business Meeting – NEW FORMAT!"
+headline: "Using Telehealth to Improve Health Outcomes   "
 date:   2015-08-18 09:09:59
 image: https://www.thearc.org/image/_content-images/TheArcLogo_Color_Pos_JPG.jpg
 categories: fusion-news
 ---
-The Arc's 2016 Annual Business Meeting is scheduled to take place in conjunction with this year's National Convention and International Forum on Friday, October 28. In addition to voting on position statements, electing officers and hearing leadership reports, the Business Meeting will feature a listening session about The Arc’s 2017-2018 Public Policy Agenda. We encourage you to come share your ideas about The Arc’s policy priorities in the years ahead. As a reminder, the meeting is open to everyone. Learn more about credentialing your chapter votes and download documents related to the meeting <a href="http://convention.thearc.org/sessions/the-arcs-annual-business-meeting/">here</a>. Questions, please contact <a href="mailto:turner@thearc.org">CT Turner</a>. 
+Through a grant from the Verizon Foundation two chapters of The Arc, <a href="http://www.arcmacon.org/">The Arc Macon</a> and <a href="http://www.thearcgloucester.org/">The Arc Gloucester</a>, have been utilizing a VGo robotic device to provide telehealth care and health education to individuals with intellectual and developmental disabilities within their community. Chapters have placed the VGo in various day and residential programs to allow their chapter nurses to closely monitor and address new and chronic health concerns. Through this technology chapter nurses were able to provide more frequent and timely care to help improve health outcomes of the individuals they serve. VGo will be making an appearance at The Arc’s National Convention in Orlando, so be on the lookout for it to learn more about this exciting project!

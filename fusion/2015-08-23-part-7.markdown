@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-headline: "New State Advocacy Matters Available"
+headline: "Are you Prepared for the Mobile App Learning Revolution?"
 date:  2015-08-21 09:09:59
-image: http://www.thearc.org/image/public-policy/SPM-April-2015.png
-categories: fusion-resources-no
+image: https://www.reliaslearning.com/hubfs/reliaslearning-April2016/logo.png?t=1475687916026
+categories: fusion-resources
 ---
-Check out the latest issue of State Advocacy Matters <a href="http://www.thearc.org/file/State_Advocacy_Matters-Summer_2016.pdf">here</a>. Stay tuned on our upcoming State Advocacy Matters blog (coming soon!) with real-time updates from our chapter network on accomplishments in advocacy.
+With mobile devices as our preferred way to access and consume content today, it’s no wonder that e-learning on a mobile device is revolutionizing employee training and development. Introducing Relias' three new mobile learning products! The Relias Learning Mobile App allows you to access assigned training courses and engage in social learning. BrainSparks delivers multiple choice questions via the mobile app and is designed to boost learning retention. Finally, Pro on the Go delivers 5-minute or less micro learning sessions via the mobile app to learn or refresh a skill and improve the quality of care delivery. <a href="http://bit.ly/2cU6mLH">Learn how</a> you can prepare your organization for the 21st century with mobile learning! 

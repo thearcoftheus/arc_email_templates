@@ -1,11 +1,9 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "What does ‘Achievement’ Mean to You?"
+headline: "Branding Victory: Maryland Chapters Setting an Example!"
 date:   2015-08-18 09:09:59
 categories: fusion-news
-image: https://www.thearc.org/image/_content-images/TheArcLogo_Color_Pos_JPG.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Maryland.svg/2000px-Flag_of_Maryland.svg.png
 ---
-The Arc’s tagline “Achieve with Us” means different things to everyone. Does achievement mean being employed? Having your own house? Equal rights? You tell us! 
-We want to hear what achievement means to you and your supporters. Your story may be nationally showcased in our national end of year campaign.  If you’d like to share a short story or even a few words, please send them to <a href="mailto:rahman@thearc.org">Laura Rahman</a>.
-
+It’s official—ALL chapters in Maryland are now fully rebranded! Congrats to the state and local chapters for a thoroughly amazing job strengthening both their local and the national brand. 

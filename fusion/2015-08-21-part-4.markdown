@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "LAST CHANCE: Chapter Input Needed on The Arc’s Federal Public Policy Agenda"
+headline: "Brand Implementation Tip: Don’t Reinvent the Wheel "
 image: https://www.thearc.org/image/_content-images/TheArcLogo_Color_Pos_JPG.jpg
 date:   2015-08-18 09:09:59
 categories: fusion-news
 ---
-Our Public Policy Agenda guides our public policy and advocacy efforts and is due to be updated. With the First Session of the 115th Congress beginning in January 2017, we again look to you for direction and input. Your input will help determine what changes we make to <a href="http://www.thearc.org/what-we-do/public-policy/legislative-agenda-full">our current Policy Agenda</a>. Please complete <a href="https://www.surveymonkey.com/r/25DNGVC">this brief survey</a> by October 3. 
+Did you know we have a treasure trove of templates for you to use on our site? They range from Powerpoints and letterheads to business cards, postcards, flyers, brochures, and more! They’re an easy way to make your materials look sharp and professional with way less work. Don’t start from scratch – take advantage of something already created! Questions? Contact The Arc’s Marketing Associate, Graphic Design and Branding, <a href="mailto:glaze@thearc.org">Bethany Glaze</a>. We’re always happy to help!
