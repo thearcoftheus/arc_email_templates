@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-headline: "NADD 33rd Annual Conference: Register Today!"
+headline: "GRANT OPPORTUNITY: 2017 Autistic Scholars Fellowship Opportunity with ASAN"
 date:  2015-08-21 09:09:59
 categories: fusion-resources
-image: http://www.centerforstartservices.org/sites/www.centerforstartservices.org/files/2016conference/nadd_logo.jpg 
+image: http://static.tumblr.com/2e7152e40064cbae428446fd803ba9cf/xwlmlbe/2LMmkk8ch/tumblr_static_asan_final_vertical.gif
 ---
-NADD’s 33rd Annual Conference (an association for people with developmental disabilities and mental health needs) will be held from November 2 – 4 in Niagara Falls! This year’s theme is Weaving Solutions: Research/Policy/Practice in ID/MI (Intellectual Disability/Mental Illness). See a list of keynote speakers, sessions, and registration information <a href="http://www.thearc.org/page.redir?target=http%3a%2f%2fthenadd.org%2f33rd%2f&srcid=39628&srctid=1&erid=8387286&trid=119cbca4-0ea6-4b05-bc30-34c3c2661e56">here</a>.
+Know a trailblazing student with autism? The Autistic Self Advocacy Network (ASAN) is offering a $5,000 scholarship through their <a href="http://autisticadvocacy.org/home/projects/autistic-scholars/">2017 Autistic Scholars Fellowship</a>,  to students who have autism and an investment in creating positive change for students with disabilities on their campuses. <a href="http://autisticadvocacy.org/2016/07/asan-announces-2017-autistic-scholars-fellowship/">The application can be found here</a>. The deadline to apply is Sunday, October 30.

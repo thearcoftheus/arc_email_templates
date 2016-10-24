@@ -1,10 +1,10 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-headline: "State Advocacy Matters Blog Launched"
+headline: "Save Money and Find More Donors to Support your Chapter!"
 date:  2015-08-21 09:09:59
 categories: fusion-resources
-image: http://www.thearc.org/image/public-policy/SPM-April-2015.png
+image: https://www.thearc.org/image/WE_logo.png
 pageposition: first
 ---
-In addition to the quarterly publication of the State Advocacy Matters newsletter, we have <a href="http://www.stateadvocacymatters.org/">launched a blog</a> to post more regular updates on the advocacy work our state chapters are engaging in. The blog posts are tagged by category, subcategory, state, and date, making them easily searchable for a variety of purposes. You can sign up to receive email updates whenever there is a new post on the blog. State chapters, we want to hear from you! Please make sure to share your updates with <a href="mailto:Wakschlag@thearc.org">Shira Wakschlag</a> on an ongoing basis. 
+Find those donors by using Wealth Engine to help focus your attention on donors who have the wealth to give at higher levels. The Arc has a discounted price (33% off!) available for Wealth Engine—but only if we get 25 chapters on board! To find out how Wealth Engine may be able to help you and your chapter save money (and make money) with their service, contact <a href="mailto:hayes@thearc.org">Sydney Hayes</a>. The deadline to sign on is October 31! 

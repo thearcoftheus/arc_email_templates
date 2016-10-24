@@ -1,11 +1,9 @@
 ---
 layout: fusion
 title:  "2 Box Callout"
-headline: "Promoting Collaboration between Hospice and Palliative Care Providers and Adult Day Services for Individuals with Intellectual and Developmental Disabilities"
-webdate: "Thursday, October 20 from 3:00 – 4:00 pm ET"
+headline: "Building Skills to Live Safely in the Community: Developing Positive Relationships"
+webdate: "Tuesday, November 15 at 2:00 pm ET"
 date:   2015-08-20 09:09:59
 categories: fusion-webinar-1
 ---
-While end-of-life issues are increasingly gaining more attention, people with I/DD continue to receive significantly less consideration in research, education, and clinical practice compared with the general population. This is a growing concern, with the number of persons aging with I/DD expected to double by 2030. As policies continue shifting to reflect a preference for home and community-based services as an alternative to institutionalization, adult day services (ADS) have the potential of becoming ideal settings for receipt of end-of-life care for individuals with I/DD. However, end-of-life care and advance planning most commonly occur in long-term care settings, for the general population, and have historically been less of a priority in ADS and residential services for people with I/DD. This presentation discusses findings from a study around the attitudes of, and collaboration between, ADS and end-of-life providers for aging adults including persons with I/DD. We will also explore how ADS may be a great pathway for delivering end-of-life care to the I/DD population and provide guiding recommendations. Presenters: <a href="mailto:corina@uic.edu">Corina R. Ronneberg, MS</a> and <a href="mailto:lpeters@easterseals.com">Lisa Peters-Beumer, MPH</a> <a href="http://bit.ly/2cTBs64">Register here</a>.
-
-Rehabilitation Research and Training Center on Developmental Disabilities and Health (RRTCDD) 2016 – 2017 Health and Wellness Series
+Fear that bad things could happen to people with I/DD can create a barrier that stops families from planning for full and independent lives in the community.  Building skills that promote safety can help families overcome this barrier and move forward to create a robust future plan. Speakers Theresa Fears and Leigh Ann Davis will provide strategies that help people with I/DD develop the skills to understand and fully participate in healthy relationships. The speakers will also describe how to build skills to recognize when a relationship is unhealthy, exploitative, or abusive and provide concrete steps to take in those situations. <a hef="https://thearc.webex.com/thearc/k2/j.php?MTID=t2bc7783c9e0b50d190cb7a960144ddc5">Register here</a>.

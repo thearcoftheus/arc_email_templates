@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-headline: "Autism in Higher Education Conference"
+headline: "GRANT OPPORTUNITY: Knight Cities Challenge"
 date:  2015-08-21 09:09:59
 categories: fusion-resources
-image: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgqLCIFgVhvrzkz28x2VK5hw8V9CHTSvcE51eP6fvfTsQO-xsgTzDp6w
+image: http://www.knightfoundation.org/media/uploads/media_images/knight-cities-challenge-logo.jpg
 ---
-The Mercyhurst Conference on Autism in Higher Education will be held on November 1 – 2, 2016 at the Bayfront Convention Center on the campus of <a href="http://www.mercyhurst.edu">Mercyhurst University</a> in Erie, Pennsylvania. Join advocates and national leaders in the field of autism, higher education and vocational readiness where you can learn about the issues and explore solutions that support people on the spectrum obtain meaningful work in their communities. <a href="www.mercyhurst.edu/autism-conference">Register today</a>!
+If your chapter works with volunteer engagement, financial literacy, outreach to aging caregivers, or employment, this grant may be of interest! This is an open call for new ideas from innovators who will take hold of the future of our cities. The Knight Foundation is inviting applicants from across the nation to tell them their ideas for making the 26 cities where Knight invests more vibrant places to live and work. The application period is until November 3 at 12pm EST. More info can be found <a href="http://knightcities.org">here</a>.
