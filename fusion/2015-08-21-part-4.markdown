@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "The Arc Signs on to Amicus Brief Supporting the Rights of a Mother with Intellectual Disability"
-image: https://www.thearc.org/image/_content-images/TheArcLogo_Color_Pos_JPG.jpg
+headline: "In Re Elijah C."
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Connecticut_Supreme_Court,_Hartford_CT.jpg/238px-Connecticut_Supreme_Court,_Hartford_CT.jpg
 date:   2015-08-18 09:09:59
 categories: fusion-news
 ---
-In September 2016, The Arc submitted an amicus brief before the Supreme Court of Michigan in support of the appellee, a mother with intellectual disability, requesting that the court deny leave to appeal where the Court of Appeals correctly found that the state failed in its statutory duty to make reasonable efforts to reunify the family unit because the case service plan never included reasonable accommodations to provide her with a meaningful opportunity to benefit as required by the Americans with Disabilities Act. <a href="http://www.thearc.org/file/Hicks-Brown-Motion-for-leave-to-file-Amicus-brief.pdf">The full brief can be found here</a>.
+In October, The Arc filed an amicus brief before the Supreme Court of Connecticut in support of a mother with intellectual disability and schizophrenia whose parental rights were terminated by the Department of Children and Families (DCF) despite DCF failing to provide necessary accommodations to the mother throughout the process, as required by the Americans with Disabilities Act. The brief argued that termination of parental rights and neglect proceedings are “programs, services, and activities” that must comply with Title II of the Americans with Disabilities Act. The brief was joined by the national ACLU and the ACLU of Connecticut. Shira Wakschlag, The Arc's Staff Attorney, was one of the attorneys of record on the brief. The full brief can be found <a href="http://www.thearc.org/file/documents_initiatives_nccjd/SC-19695-Amicus-Curiae-Combined-BriefAppendix.pdf">here</a>.

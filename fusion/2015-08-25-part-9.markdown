@@ -3,7 +3,7 @@ layout: fusion
 title: "Resources & Opportunities"
 headline: "GRANT OPPORTUNITY: Knight Cities Challenge"
 date:  2015-08-21 09:09:59
-categories: fusion-resources
+categories: fusion-resources-no
 image: http://www.knightfoundation.org/media/uploads/media_images/knight-cities-challenge-logo.jpg
 ---
 If your chapter works with volunteer engagement, financial literacy, outreach to aging caregivers, or employment, this grant may be of interest! This is an open call for new ideas from innovators who will take hold of the future of our cities. The Knight Foundation is inviting applicants from across the nation to tell them their ideas for making the 26 cities where Knight invests more vibrant places to live and work. The application period is until November 3 at 12pm EST. More info can be found <a href="http://knightcities.org">here</a>.

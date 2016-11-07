@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Branding Victory: Maryland Chapters Setting an Example!"
+headline: "Chapter Spotlight: The Arc of Prince George’s County"
 date:   2015-08-18 09:09:59
-categories: fusion-news-no
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Maryland.svg/2000px-Flag_of_Maryland.svg.png
+categories: fusion-news
+image: http://3.bp.blogspot.com/-3M2bwCn0tXc/VDmMGqcp04I/AAAAAAAAF8k/ewJHCbYcRDw/s1600/ArcofPG.png
 ---
-It’s official—ALL chapters in Maryland are now fully rebranded! Congrats to the state and local chapters for a thoroughly amazing job strengthening both their local and the national brand. 
+Through The Arc’s partnership with Comcast NBCUniversal, chapters across the country are hosting “Learning Labs” to foster digital literacy skills in their constituents. The classes’ content varies between chapters based on individual needs. The Arc of Prince George’s County in Maryland was recently featured by Comcast for their work! Congratulations to the chapter on their hard work, successful labs, and exceeding their yearly placement goal in only the first four months! See Comcast’s feature on their work <a href="https://www.youtube.com/watch?v=_JghjzYp5cA&feature=youtu.be">here</a>.
