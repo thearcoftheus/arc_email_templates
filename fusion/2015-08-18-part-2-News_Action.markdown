@@ -1,10 +1,11 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Election Day is TOMORROW! Get Real-time Help with The Arc’s Voter Support Service"
+headline: "We Want to Hear from You!"
 date:   2015-08-18 09:09:59
-image: https://www.thearc.org/image/general-e-newsletter/vote-here.jpg 
+image: http://www.thearc.org/image/National-Conv-Logo-2016-H-full-color.png 
 pageposition: first
 categories: fusion-news
 ---
-In 2012, one in five voters with disabilities experienced a barrier at the polls. To help resolve problems in real-time this year, The Arc has launched a <a href="https://vote.thearc.org">new Voter Support Service</a>! Working with Election Protection’s national support network, we are aiming to make it easier for people to report problems and get help as quickly as possible. This site is a simple, mobile-friendly way for people with disabilities to ensure that their opinion is heard. The service is also available in the <a href="https://itunes.apple.com/us/app/voter-support-service/id1168078931?mt=8">Apple App Store</a> and <a href="https://play.google.com/store/apps/details?id=org.vote.thearc.app">Google Play</a>. We need your help! This is a critical election; every vote counts! Check out vote.thearc.org and spread the word in your chapter and community. For more information, contact <a href="mailto:mckiernan@thearc.org">Kristen McKiernan</a>, Senior Executive Officer, Communications at 202.534.3712, or <a href="mailto:rafi@thearc.org">Abe Rafi</a>, Director, Digital and Online Services, 202.534.3729.
+Thank you again to everyone who attended the 2016 National Convention & International Forum in Orlando last month.  Our event wouldn’t have been a success without your participation. We need your help to improve our future events! Please take a moment to complete <a href="https://www.surveymonkey.com/r/NCIF16">this survey</a> and provide feedback on all aspects of our event. We know you are passionate about our shared mission and we don’t just welcome your ideas, we value them. New ideas, ways to better serve attendees, suggestions for speakers, or even what you liked about the hotel – any feedback you have, we want! Please be sure to share your contact information at the end of the survey to be entered in a drawing for one of 5 complimentary registrations to The Arc’s 2017 National Convention! The five lucky winners will be notified on December 15th. 
+NOTE: We have posted a number of presentations to the <a href="http://convention.thearc.org/">official event website</a>. Go to "<a href="http://convention.thearc.org/schedule/">Schedule</a>" and navigate to the session you are interested in.  If we have a presentation for that particular session, there will be a link under the speaker bios.   

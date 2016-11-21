@@ -1,11 +1,11 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-headline: "This National Family Caregivers Month, Improve Family Support in Your State!"
+headline: "Be Informed and Ready to Act"
 date:  2015-08-21 09:09:59
 categories: fusion-resources
-image: https://pbs.twimg.com/profile_images/619560029813899264/Yj2I1Agv.jpg
+image: https://www.thearc.org/view.image?Id=3111
 pageposition: first
 ---
 
-Each November, we commemorate National Family Caregivers Month. This month celebrates family caregivers and raises awareness about issues impacting family caregivers and support that family caregivers need. One of the biggest ways to support family caregivers is by working together with groups that support ALL families to improve the quality of support available for families around the country. For the third year, The Arc is partnering with the Family Support Research and Training Center (FSRTC) at <a href="http://ahs.uic.edu/dhd/">the University of Illinois at Chicago</a> to organize coalitions that seek to improve support to families in their state. The Arc is offering $4,000 grants to state and local chapters of The Arc to organize state coalitions. See what the grant entails <a href="http://www.thearc.org/file/documents_board_family-support-ps/Year-3-RRTC-Family-Support-RFP--FINAL.docx">here</a>. Requests for proposals are due December 15, 2016. <a href="http://www.thearc.org/file/documents_board_family-support-ps/Year-3-RRTC-Family-Support-RFP--FINAL.docx">Apply today</a>!
+Change is coming to Washington. How will it impact people with intellectual and developmental disabilities their families? <a href="http://disabilityadvocacynetwork.org/">Join The Arc’s Disability Advocacy Network</a> to stay informed and ready to act with public policy updates and action alerts. We need you!

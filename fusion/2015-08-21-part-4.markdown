@@ -4,6 +4,6 @@ title:  "News & Action Items"
 headline: "In Re Elijah C."
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Connecticut_Supreme_Court,_Hartford_CT.jpg/238px-Connecticut_Supreme_Court,_Hartford_CT.jpg
 date:   2015-08-18 09:09:59
-categories: fusion-news
+categories: fusion-news-no
 ---
 In October, The Arc filed an amicus brief before the Supreme Court of Connecticut in support of a mother with intellectual disability and schizophrenia whose parental rights were terminated by the Department of Children and Families (DCF) despite DCF failing to provide necessary accommodations to the mother throughout the process, as required by the Americans with Disabilities Act. The brief argued that termination of parental rights and neglect proceedings are “programs, services, and activities” that must comply with Title II of the Americans with Disabilities Act. The brief was joined by the national ACLU and the ACLU of Connecticut. Shira Wakschlag, The Arc's Staff Attorney, was one of the attorneys of record on the brief. The full brief can be found <a href="http://www.thearc.org/file/documents_initiatives_nccjd/SC-19695-Amicus-Curiae-Combined-BriefAppendix.pdf">here</a>.

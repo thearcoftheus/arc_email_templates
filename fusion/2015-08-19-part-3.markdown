@@ -1,9 +1,10 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Announcing the Robert Perske Fund for Criminal Justice and Disability"
+headline: "Lifeline Program Includes Broadband Internet Starting December 2"
 date:   2015-08-18 09:09:59
-image: http://www.robertperske.com/RP%20Drawing.jpg
+image: http://www.lifelinesupport.org/_res/images/logo-2016.png
 categories: fusion-news
 ---
-Robert (Bob) Perske was a great friend of The Arc and all those we serve. He was beloved in the disability community. While Bob served as a Chaplin at an institution for people with I/DD, became an Executive Director for a chapter of The Arc, and authored ground-breaking books on creating circles of support for people with disabilities; the passion that he carried through the end of his life was his advocacy to support and educate people with I/DD coerced into giving false confessions and facing the death penalty. Bob’s family and leaders of The Arc want to make sure that his legacy doesn’t end with his passing, and created the Robert Perske Fund for Criminal Justice and Disability to keep Bob’s spirit alive. <a href="https://www.thearc.org/perskefund">Help us by making a gift today</a>, and promote this fund so his work on behalf of people with disabilities caught up in the criminal justice system can and will go on.
+The federal <a href="http://www.lifelinesupport.org/ls/">Lifeline Program</a> has provided a discount on phone service for low-income consumers for many years. Now, Lifeline has expanded to provide discounted broadband internet service—a welcome benefit that will help some of the more than 60 million people without a connection to the internet. Changes are also occurring in verifying eligibility for Lifeline that service providers and other advocates should know about.
+Lifeline provides a discount of $9.25 per month to eligible low-income subscribers. Consumers are eligible if they are enrolled in any of a number of programs including Medicaid, Supplemental Security Income (SSI), and Federal Public Housing Assistance and/or are low income (at or below 135% of the federal poverty guidelines). <a href="http://www.lifelinesupport.org/ls/">Learn more here</a>. 
