@@ -1,10 +1,9 @@
 ---
 layout: fusion
 title:  "2 Box Callout"
-headline: "Family Support Coalitions: Strengthening Support to ALL Families"
-webdate: "Tuesday, November 29 from 2:00 – 3:00 pm ET"
+headline: "Including People with Disabilities: Public Health Workforce Competencies"
+webdate: "Tuesday, January 24 from 3:00 — 4:00 pm ET"
 date:   2015-08-20 09:09:59
 categories: fusion-webinar-1
 ---
-Join state chapter executive directors Jon Meyers, Tony Anderson, and Stella Beard to learn about their efforts to improve support to families by creating statewide coalitions of organizations advocating for people with disabilities, seniors, and caregivers. In 2016, The Arc of Arizona and The Arc of California convened organizations to identify challenges in their state family support system and develop an action plan to address them. The Arc of Kentucky reconvened the coalition it created in 2015 to review accomplishments and challenges and plan for the year ahead. These coalitions were created through the Family Support Research and Training Center (FSRTC) at the University of Illinois at Chicago. The FSRTC explores supports needed by families of people with disabilities and seniors and promising practices in family support around the country. <a href="http://bit.ly/2ghyiPK">Register here</a>. 
-This event is sponsored by the Family Support Research and Training Center at the University of Illinois at Chicago.
+One in five Americans — over 54 million — have a disability, yet many public health programs do not include them in their program design. People with disabilities are more likely to experience chronic conditions such as asthma, diabetes and heart disease as compared to people without disabilities. There is a clear need for public health efforts to reduce health disparities among people with disabilities. The Including People with Disabilities: Public Health Workforce Competencies were created for the public health workforce to provide basic knowledge on the relationship between disability and public health programs, and increase the capacity of public health practitioners to include people with disabilities in their public health efforts. This presentation will provide an overview of the Competencies and examples for implementation. We will also discuss how the material has been adapted to educate public health professionals about adults with ID and how to include them in planning and health promotion. <a href="http://www.aucd.org/template/event.cfm?event_id=7922">Register here</a>.

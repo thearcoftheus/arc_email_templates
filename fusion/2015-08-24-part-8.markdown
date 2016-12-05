@@ -1,10 +1,9 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-headline: "Help a Family Plan for the Future: Link to The Center for Future Planning®!"
+headline: "New Resources from HealthMeet"
 date:  2015-08-21 09:09:59
 categories: fusion-resources
 image: https://pbs.twimg.com/profile_images/619560029813899264/Yj2I1Agv.jpg
 ---
-More than ever, people with I/DD and their families should begin planning for the future as early as possible. One way for chapters of The Arc to support and encourage families to begin to plan is by including The Center for Future Planning as a resource on your chapter website. The Center offers information to help families navigate the process. Families can utilize the Build Your Plan® tool to create a future plan. Planning for the future is challenging—but it is also necessary and possible. <a href="https://futureplanning.thearc.org">Here is a link</a> to the Center for Future Planning® that you can add to your website’s resources, and a description: 
-<a href="https://futureplanning.thearc.org">The Center for Future Planning®</a> aims to support and encourage adults with intellectual and developmental disabilities (I/DD) and their families to plan for the future.
+Check out our new resources from HealthMeet, our program which works to reduce health disparities and increase the longevity and quality of life for people with I/DD through free health screenings, referrals, and training and education! They include a <a href="https://www.thearc.org/page.redir?target=http%3a%2f%2fwww.thearc.org%2ffile%2fdocuments_programs_healthmeet%2fHealthMatters-Factsheet-FINAL-10.25.16.pdf&srcid=40765&srctid=1&erid=8755899&trid=efc07c23-e649-4c6c-a637-45419eb4056f">HealthMatters® Fact Sheet</a> and <a href="https://www.thearc.org/page.redir?target=http%3a%2f%2fwww.thearc.org%2ffile%2fdocuments_programs_healthmeet%2fThe-Arc-of-Alameda-Success-Stories-FINAL-10.25.16.pdf&srcid=40765&srctid=1&erid=8755899&trid=efc07c23-e649-4c6c-a637-45419eb4056f">success stories from The Arc of Alameda</a>, who implemented the program with resounding success.

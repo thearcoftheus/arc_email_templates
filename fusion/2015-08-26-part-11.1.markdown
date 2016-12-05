@@ -1,0 +1,9 @@
+---
+layout: fusion
+title: "Resources & Opportunities"
+headline: "Seeking Caregivers for Research Study"
+date:  2015-08-21 09:09:59
+categories: fusion-resources
+image: http://publications.cua.edu/res/images/cua-shield-4c.gif
+---
+Researchers at Catholic University of America (CUA) are seeking first or second generation Arabs who are living in the US, raising a child aged 2-17 with autism/developmental disability, and are proficient in English to participate in research exploring the experiences of Arab caregivers raising children with developmental disabilities. Individuals can participate by completing an online questionnaire (30-40 minutes). Participants who complete the survey can receive a $20 gift card. <a href="https://bit.ly/ArabCaregiverExperience">Participate in this research here</a>. This study is in partial fulfillment of requirements for a Ph.D. in Clinical Psychology at CUA.

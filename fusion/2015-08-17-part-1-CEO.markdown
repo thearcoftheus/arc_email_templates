@@ -1,8 +1,8 @@
 ---
 layout: fusion
 title:  "Peter’s Perspective"
-headline: "Happy thanksgiving message + giving thanks video from Peter/Laura"
+headline: "Counting down to the New Year!"
 date:   2015-08-17 09:09:59
 categories: fusion-ceo
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis ligula imperdiet, malesuada eros dictum, aliquet nisi. Etiam mattis orci eu lacus dictum aliquet. Fusce et nibh quam. Morbi at mauris convallis, tincidunt dolor sit amet, tempor tellus. Nam eros nisl, sodales non erat nec, luctus viverra diam. Sed aliquet porttitor ex vel lobortis. Integer et blandit ante. Sed sagittis diam dignissim sem efficitur, at aliquet nisl finibus. Nullam nec nisl dapibus, varius lectus vitae, tempor risus. Vivamus efficitur quis eros non auctor. Aenean elementum est sed egestas mollis. Proin imperdiet mauris vel finibus porttitor. Maecenas nibh leo, dapibus vitae tortor ut, iaculis ultricies erat. Nulla ac faucibus purus, sed semper massa. Morbi quis condimentum tortor. Curabitur condimentum bibendum lorem, ut posuere lorem condimentum nec. Nulla et faucibus elit. Nunc cursus turpis neque, a scelerisque.
+It’s 27 days until 2017. As I work on our budget, program, and staffing plan for 2017, I’m thinking a lot about what we can do next year that will make a difference for your chapter of The Arc and the people you serve. We gather your input all year long and just received a lot of valuable feedback and ideas at the listening sessions and business meeting at the National Convention. But it’s not too late. So please email me at <a href="mailtoberns@thearc.org">berns@thearc.org</a> with your suggestions for what should be The Arc’s New Year’s resolutions in 2017.  
