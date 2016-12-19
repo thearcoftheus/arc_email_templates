@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "In Re Elijah C."
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Connecticut_Supreme_Court,_Hartford_CT.jpg/238px-Connecticut_Supreme_Court,_Hartford_CT.jpg
+headline: "Comcast Cares Day"
+image: http://corporate.comcast.com/images/Comcast_Stack_M_COLOR_BLK.png
 date:   2015-08-18 09:09:59
-categories: fusion-news-no
+categories: fusion-news
 ---
-In October, The Arc filed an amicus brief before the Supreme Court of Connecticut in support of a mother with intellectual disability and schizophrenia whose parental rights were terminated by the Department of Children and Families (DCF) despite DCF failing to provide necessary accommodations to the mother throughout the process, as required by the Americans with Disabilities Act. The brief argued that termination of parental rights and neglect proceedings are “programs, services, and activities” that must comply with Title II of the Americans with Disabilities Act. The brief was joined by the national ACLU and the ACLU of Connecticut. Shira Wakschlag, The Arc's Staff Attorney, was one of the attorneys of record on the brief. The full brief can be found <a href="http://www.thearc.org/file/documents_initiatives_nccjd/SC-19695-Amicus-Curiae-Combined-BriefAppendix.pdf">here</a>.
+Comcast NBCUniversal has invited chapters of The Arc to get involved and become local partners on their special corporate day of giving. Comcast Cares Day brings their employees, their friends, and families together with their nonprofit partners to make change happen in local communities from coast to coast, and abroad. Comcast NBCUniversal has planning underway for Comcast Cares Day, which takes place on April 22, 2017. This is a great opportunity to foster a relationship with Comcast NBCUniversal at the local level, and build on our relationship as a national partner. During Comcast Cares Day, volunteers from Comcast NBCUniversal work within your community to help make impactful improvements. This could be with schools, agencies, parks, or your chapter! Projects may vary across chapters. If you are interested in working with Comcast NBCUniversal to collaborate on a Comcast Cares Day, please contact <a href="mailto:Lernihan@thearc.org">Katy Lernihan Schmid</a>. Decisions on sites will be made before the end of January!

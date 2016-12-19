@@ -1,11 +1,10 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Brand Implementation Tip: The Proof is in the “THE”"
+headline: "What Was Your Voting Experience?"
 date:   2015-08-18 09:09:59
-image: https://sidekicks.com/wp-content/uploads/2016/11/logo1-min.png
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Seal_of_the_United_States_Election_Assistance_Commission.svg/180px-Seal_of_the_United_States_Election_Assistance_Commission.svg.png
 categories: fusion-news
 ---
-<a href="http://www.thearc.org/who-we-are/history/name-change">The Arc’s name has had some major evolutionary changes over the years</a>, which is why it’s so important to display it correctly. “Arc” as a standalone returns us to the days of it being an acronym and the association with the “R” word. If we all use “The Arc” consistenly in all references to our name, and think of it as a title or a phrase (as in over The Arc of a lifetime) we will give our name meaning and it will be easier for our name to gain awareness and resonance.
+The US Election Assistance Commission (EAC) is <a href="https://www.eac.gov/blogs/we_want_to_hear_from_voters_with_disabilities/">gathering feedback from voters with disabilities</a> about their experience voting. Please email them at: <a href="mailto:listen@eac.gov">listen@eac.gov</a> to share your story. Good or bad, all feedback is welcome and encouraged. Sharing your experience will help the EAC take stock of the 2016 election, determine what went well, and identify areas for continued improvement to ensure that all people with disabilities are able to vote privately and independently!
 
-*Note – this is especially important that your name includes the “The” in all Twitter handles, Facebook names, and all other references—both print and digital. Including the word is also part of branding guidelines included in your chapter’s licensing agreement! Questions? Contact Pam Katz (<a href="katz@thearc.org">katz@thearc.org</a>). We’re always happy to help!

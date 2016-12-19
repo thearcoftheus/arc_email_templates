@@ -1,9 +1,8 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-headline: "LEGAL INTERNSHIP OPPORTUNITY: The Arc"
+headline: "Department of Education Invites FY2017 Applications for Community Parent Resource Centers"
 date:  2015-08-21 09:09:59
-image: https://pbs.twimg.com/profile_images/619560029813899264/Yj2I1Agv.jpg
-categories: fusion-resources
+image: http://www.ed.gov/profiles/ed_main/themes/ed3/logo.png
 ---
-The Arc is seeking legal interns to work at our Washington, D.C. office for a 10-week period during summer 2017. The legal interns would work on a wide variety of projects concerning national disability rights law and policy which would involve legal research and writing, participation in disability rights impact litigation, performing intakes and training for The Arc’s National Center on Criminal Justice and Disability, and working with chapters of The Arc on state-based disability advocacy. <a href="http://www.thearc.org/get-involved/job-board?postid14610=1261&jbs14610=5">See more information and apply here</a>.
+The US Department of Education is seeking to fund seven new Community Parent Resource Centers (CPRCs) in 2017. CPRCs are designed to meet the specific needs of youth with disabilities and the parents of children with disabilities who experience significant isolation from available sources of information and support in the geographically defined communities served by the centers. Clients can include, for example, youth or parents living in low-income households, youth or parents with limited English proficiency, and parents with disabilities. Eligible applicants must be “local parent organizations” whose mission is to serve families of children with disabilities ages birth through 26 who have the full range of disabilities described in the IDEA. Chapters of The Arc may be eligible for these grants or can consider collaborating with organizations that could serve the lead role.  Estimated awards are $100,000.  Applications are due February 6, 2017.  For more details on applying, view the notice published in the <a href="https://www.gpo.gov/fdsys/pkg/FR-2016-12-07/pdf/2016-29370.pdf">Federal Register</a>.

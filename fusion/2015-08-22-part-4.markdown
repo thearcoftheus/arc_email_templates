@@ -1,9 +1,15 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Chapter Spotlight: The Arc of Prince George’s County"
+headline: "Save the Date: 2017 Events"
 date:   2015-08-18 09:09:59
-categories: fusion-news-no
+categories: fusion-news
 image: http://3.bp.blogspot.com/-3M2bwCn0tXc/VDmMGqcp04I/AAAAAAAAF8k/ewJHCbYcRDw/s1600/ArcofPG.png
 ---
-Through The Arc’s partnership with Comcast NBCUniversal, chapters across the country are hosting “Learning Labs” to foster digital literacy skills in their constituents. The classes’ content varies between chapters based on individual needs. The Arc of Prince George’s County in Maryland was recently featured by Comcast for their work! Congratulations to the chapter on their hard work, successful labs, and exceeding their yearly placement goal in only the first four months! See Comcast’s feature on their work <a href="https://www.youtube.com/watch?v=_JghjzYp5cA&feature=youtu.be">here</a>.
+As we ring in the New Year, make your resolution to attend one of our 2017 events! 
+Disability Policy Seminar: March 20 – 22, 2017
+<ul><li>The Renaissance Washington, DC Downtown Hotel</ul></li>
+NCE Summer Leadership Institute: July 24 – 26, 2017 
+<ul><li>The Ritz Carlton, St. Louis, MO </ul></li>
+The Arc's National Convention: November 1 – 4, 2017 
+<ul><li>Sheraton San Diego Hotel & Marina, San Diego, CA</ul></li>

@@ -3,7 +3,7 @@ layout: fusion
 title: "Resources & Opportunities"
 headline: "FELLOWSHIP OPPORTUNITY: Open Society Foundation"
 date:  2015-08-21 09:09:59
-categories: fusion-resources
+categories: fusion-resources-no
 image: https://pbs.twimg.com/profile_images/2577163591/52e66q9yto9nzywaxt33_400x400.png
 ---
 <a href="https://www.opensocietyfoundations.org/grants/open-society-community-youth-fellowships-20161123">The Open Society Foundation is seeking US activists ages 18—25 who have a project idea about advancing human rights in underserved communities</a>. They have a particular fellowship for people with intellectual disabilities– regardless of their support need. The deadline to apply is January 10, 2017. <a href="https://www.opensocietyfoundations.org/sites/default/files/part-1-about-the-youth-fellowships-20161123.pdf">About the Fellowship</a>. <a href="https://www.opensocietyfoundations.org/sites/default/files/part-2-how-to-apply-and-what-happens-next-20161123.pdf">How to Apply</a>.
