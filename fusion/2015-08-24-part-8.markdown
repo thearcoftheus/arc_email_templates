@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-headline: "New Resources from HealthMeet"
+headline: "National Academy of Social Insurance Conference: Opportunities and Challenges Facing the New Leadership and the American People"
 date:  2015-08-21 09:09:59
-categories: fusion-resources-no
-image: https://pbs.twimg.com/profile_images/619560029813899264/Yj2I1Agv.jpg
+categories: fusion-resources
+image: https://www.nasi.org/sites/all/themes/nasi2/images/header_logo@2x.png
 ---
-Check out our new resources from HealthMeet, our program which works to reduce health disparities and increase the longevity and quality of life for people with I/DD through free health screenings, referrals, and training and education! They include a <a href="https://www.thearc.org/page.redir?target=http%3a%2f%2fwww.thearc.org%2ffile%2fdocuments_programs_healthmeet%2fHealthMatters-Factsheet-FINAL-10.25.16.pdf&srcid=40765&srctid=1&erid=8755899&trid=efc07c23-e649-4c6c-a637-45419eb4056f">HealthMatters® Fact Sheet</a> and <a href="https://www.thearc.org/page.redir?target=http%3a%2f%2fwww.thearc.org%2ffile%2fdocuments_programs_healthmeet%2fThe-Arc-of-Alameda-Success-Stories-FINAL-10.25.16.pdf&srcid=40765&srctid=1&erid=8755899&trid=efc07c23-e649-4c6c-a637-45419eb4056f">success stories from The Arc of Alameda</a>, who implemented the program with resounding success.
+Register now for The National Academy of Social Insurance 2017 conference on Jan. 25-26 in Washington DC! The conference will be the beginning of a year-long initiative to brief the new leadership on the economic security challenges facing the American people and opportunities to address these through social insurance. These opportunities will include both strengthening and/or modernizing existing programs – Social Security and Supplemental Security Income, Medicare and Medicaid, and Unemployment Insurance – and addressing significant risks not currently covered by our social insurance infrastructure – caregiving, long-term care and contingent work. <a href="http://bit.ly/2iaoi8C">Register here</a>. 

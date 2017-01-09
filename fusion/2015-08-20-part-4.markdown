@@ -4,7 +4,7 @@ title:  "News & Action Items"
 headline: "What Was Your Voting Experience?"
 date:   2015-08-18 09:09:59
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Seal_of_the_United_States_Election_Assistance_Commission.svg/180px-Seal_of_the_United_States_Election_Assistance_Commission.svg.png
-categories: fusion-news
+categories: fusion-news-no
 ---
 The US Election Assistance Commission (EAC) is <a href="https://www.eac.gov/blogs/we_want_to_hear_from_voters_with_disabilities/">gathering feedback from voters with disabilities</a> about their experience voting. Please email them at: <a href="mailto:listen@eac.gov">listen@eac.gov</a> to share your story. Good or bad, all feedback is welcome and encouraged. Sharing your experience will help the EAC take stock of the 2016 election, determine what went well, and identify areas for continued improvement to ensure that all people with disabilities are able to vote privately and independently!
 
