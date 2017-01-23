@@ -1,10 +1,12 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Ring in the New Year with Renewed Advocacy Strength"
+headline: "Register Now: 2017 Disability Policy Seminar"
 date:   2015-08-18 09:09:59
 image: http://arcdps.wpengine.com/wp-content/uploads/2016/12/Disability-Policy-Seminar-Logo-for-website.jpg
 pageposition: first
 categories: fusion-news
 ---
-<a href="http://disabilitypolicyseminar.org">Registration is officially open for 2017 Disability Policy Seminar</a>! We hope you are renewed and ready to rally to ensure that our lifeline programs and civil rights are protected. Join us in the nation’s capital from March 20 – 22, as passionate advocates, self-advocates, experts, and professionals in the field convene in the heart of Downtown DC to learn about key issues, network, and speak directly to representatives. The first 100 days of any new Administration and Congress are key to setting the agenda—and this year, more than ever, we need you in Washington, DC to advocate for the lifeline programs. The Disability Policy Seminar is your chance to make an impact. <a href="http://disabilitypolicyseminar.org/register">Register today</a>!
+<em>March 20-22, 2017</em>
+<p>The disability community has proven time and time again that when we join together, amazing things happen! Join fellow advocates in Washington, D.C. for the 2017 Disability Policy Seminar to strengthen your grassroots advocacy and connect with your representatives on the issue that matter most to you.</p>
+<p>The event is packed with informative sessions from experts in the field, and opportunities to discuss key issues with others from your state. Join us to get informed, connected, and ready to protect the things that matter most. <a href="http://disabilitypolicyseminar.org/register">Register today</a>!</p>

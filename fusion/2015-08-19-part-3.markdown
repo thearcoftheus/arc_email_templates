@@ -1,9 +1,11 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "Help us Open the “Gateway to Change”!"
+headline: "The FINDS Survey is Here!"
 date:   2015-08-18 09:09:59
-image: https://pbs.twimg.com/profile_images/497063779952099328/kwXnsWCE.jpeg
+image: https://www.thearc.org/view.image?Id=2654
 categories: fusion-news
 ---
-The Call for Proposals for the 2017 NCE Summer Leadership Institute is now open! Submit a proposal and join chapter executives of The Arc and other professionals in the I/DD field for 2 ½ invaluable days of dialogue, sharing and camaraderie from July 24-26 in St. Louis, MO. The submission deadline is February 17, 2017. <a href="http://nce-sli.org/speakers-2/">Learn more about our submission guidelines here</a>. We look forward to reading your proposals!
+<p>We need your input and help disseminating this crucial survey! The Research and Training Center on Community Living at the University of Minnesota in collaboration with The Arc, is seeking survey caregivers to share their perceptions on a range of life-span issues impacting individuals with I/DD. We are inviting people aged 18 years or older who provide frequent primary support to a person with an I/DD to participate.</p>
+<p>The results of the 2010 Survey provided unique insight into the growing gaps in education, employment, and other life-span activities that exist between persons with disabilities and their non-disabled peers, which has informed further dialogue and policy changes at the Federal and State levels.</p>
+<p><a href="http://thearc.org/FINDS">Take the survey and share it widely in your networks</a>! <strong>The deadline is March 30.</strong></p>

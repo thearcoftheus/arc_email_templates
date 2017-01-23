@@ -3,7 +3,7 @@ layout: fusion
 title: "Resources & Opportunities"
 headline: "Near DC? Make February 2 an Advocacy Day!"
 date:  2015-08-21 09:09:59
-categories: fusion-resources
+categories: fusion-resources-no
 image: https://pbs.twimg.com/profile_images/796834358912921600/IkLdcMyE_400x400.jpg
 ---
 The Jewish Disability Network, in partnership with The Arc, looks forward to your participation in Jewish Disability Advocacy Day on February 2, 2017 on Capitol Hill. <a href="http://www.jewishfederations.org/JDAD2017">Register here</a>.

@@ -1,9 +1,9 @@
 ---
 layout: fusion
-title: "SCHOLARSHIP OPPORTUNITY: Wells Fargo"
+title: "Free FASD CEUs Extended through October 2017!"
 headline: "New Resources from HealthMeet®"
 date:  2015-08-21 09:09:59
 image: https://scholarsapply.org/pwdscholarship/images/header-logos/wfpwd-logo.png
 categories: fusion-resources
 ---
-Wells Fargo & Company is seeking applicants for a special scholarship program to help people with disabilities obtain the education or training necessary to succeed in the career path of their choice. Applicants must have an identified disability, have a minimum GPA of 3.0 on a 4.0 scale or its equivalent, and be a high school senior or graduate who plans to enroll/is already enrolled in full-time or half-time undergraduate study at an accredited university in the US for the entire 2017-2018 academic year. If selected, the student will receive a $2,500 award for full-time study or a $1,250 award for half-time study. <a href="https://scholarsapply.org/pwdscholarship/">Learn more and apply here</a>.
+<p>Physicians and nurses will now be able to receive FREE CEU credits for completing the on-line <a href="http://www.arhp.org/modules/webinars/Preventing-Fetal-Alcohol-Spectrum-Disorders/64">FASD Prevention course</a> through October 31, 2017. Help spread the word to physicians and nurses in your area about the importance of informing all women who are pregnant or trying to become pregnant that no amount of alcohol is safe during pregnancy.</p>

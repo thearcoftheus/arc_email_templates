@@ -1,9 +1,13 @@
 ---
 layout: fusion
 title:  "2 Box Callout"
-headline: "Organizational Transformation: From Workshops to Community Employment"
-webdate: "Thursday, January 5 at 3:00 PM ET"
+headline: "The Sibling Leadership Network Presents: How to Start a State Sibling Chapter"
+webdate: "Wednesday, February 15 from 12:00 pm – 1:00 pm EST"
 date:   2015-08-20 09:09:59
-categories: fusion-webinar-3-no
+categories: fusion-webinar-3
 ---
-Provider agencies across the country are transitioning from segregated “sheltered” workshop options to supporting integrated community careers for people with disabilities. This process of organizational transformation can be both exciting and challenging. In this webinar, researcher Jaimie Timmons from the Institute for Community Inclusion will share findings from her project, the RRTC on Advancing Employment for People with Intellectual and Developmental Disabilities. Wally Tablit will co-present. Wally is a leader in the field of supported employment, with over 18 years of experience working with people with disabilities. <a href="https://umb-ici.adobeconnect.com/rrtc44jan2017/event/event_info.html">Register here</a>.
+<p>The Sibling Leadership Network (SLN) is a national nonprofit dedicated to providing support and information to siblings of people with disabilities across the lifespan. Currently there are 22 state chapters of the SLN with the vision to have a chapter in every state in the country. Chapters are the grassroots of the organization and where personal contact with siblings happens. Each chapter has its own feel and flavor. If you are interested in starting a chapter in a state that does not currently have one, please join this webinar to learn the process for creating and developing a sibling chapter of the SLN.</p>
+<p>As a project partner for the Family Support Research and Training Center (FSRTC), the SLN has developed A Guide for Sibling Chapters. This webinar will provide foundational information on how to start a sibling chapter in your state. <a href="http://bit.ly/2k7KMM4">Register for this session here</a>.</p>
+
+<p>This event will be recorded and captioned.<br />
+This event is sponsored by the Family Support Research and Training Center at the University of Illinois at Chicago.</p>

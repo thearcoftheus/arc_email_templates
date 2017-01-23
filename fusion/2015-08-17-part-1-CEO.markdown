@@ -1,10 +1,28 @@
 ---
 layout: fusion
 title:  "Peter’s Perspective"
-headline: "Welcoming 2017!"
+headline: "Get involved! Would you like to Serve on a Standing Committee or Advisory Council of The Arc?"
 date:   2015-08-17 09:09:59
 categories: fusion-ceo
 ---
-It’s a New Year.  Watch your mailbox – physical, not electronic – for the annual letter I send every year commenting on the year past and the road ahead. It will arrive along with your chapter’s 2017 affiliate dues invoice, and we thank you in advance for your chapter’s support.  
-
-Along, with the cover letter and invoice you will find a one-page statement of The Arc’s “strategic objectives” for the year, which should give you a sense of what we will be focusing on during the year. Please share the cover letter and strategic objectives with your board and key staff, as its chock full of information. And don’t hesitate to let me know what you think via email at <a href="mailtoberns@thearc.org">berns@thearc.org</a>.
+<p>On behalf of Elise McMillan, President of the Board of Directors of The Arc, we are happy to invite you to apply to serve on one of The Arc’s committees. Both volunteers and staff leaders of chapters of The Arc and other stakeholders and constituents are eligible to serve. Members are needed for the following committees and advisory councils:</p>
+<ul>
+	<li>Board Development Committee</li>
+	<li>Budget Finance & Audit Committee</li>
+	<li>Policy and Positions Committee</li>
+	<li>Legal Advocacy Subcommittee</li>
+	<li>Resource Development Committee</li>
+	<li>National Council of Self-Advocates
+		<ul>
+			<li>Council Members</li>
+			<li>Steering Committee Members</li>
+		</ul>
+	</li>
+	<li>National Siblings Council
+		<ul>
+			<li>Council Members</li>
+			<li>Steering Committee Members</li>
+		</ul>
+	</li>
+</ul>
+<p>You can read [DESCRIPTIONS] of the roles and responsibilities of each committee, and then fill out the <a href="http://bit.ly/TheArc_Committee_Application">application form</a>. A limited number of committee assignments are available. Committee appointments are for a two year term (2017-2018). The deadline to apply is Tuesday, February 7, 2017. We look forward to your participation in The Arc during 2017-2018.</p>
