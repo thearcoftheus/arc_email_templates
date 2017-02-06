@@ -1,9 +1,16 @@
 ---
 layout: fusion
+<<<<<<< HEAD
 title: "Resources & Opportunities"
 headline: "Apply for a Scholarship to Attend an NCE Professional Development Event!"
+=======
+title: "Free FASD CEUs Extended through October 2017!"
+headline: "New Resources from HealthMeet®"
+>>>>>>> origin/gh-pages
 date:  2015-08-21 09:09:59
+image: https://scholarsapply.org/pwdscholarship/images/header-logos/wfpwd-logo.png
 categories: fusion-resources
+<<<<<<< HEAD
 image: https://www.thearc.org/view.image?Id=1322
 ---
 NCE is offering an exciting opportunity for attending one of our professional development events:
@@ -13,3 +20,7 @@ NCE is offering an exciting opportunity for attending one of our professional de
 2017 Professional Development Seminar, San Diego, CA – November 1-2, 2017
 
 If you work for a chapter of The Arc and have never attended one of our events, you are eligible to win a scholarship. Scholarships cover the registration fee and attendance at a social event. Visit the <a href="https://fs16.formsite.com/u024508129ncearc/form261/index.html?1484843450553">2017 NCE Scholarship Application</a> to learn more and apply! Deadline: March 3, 2017.
+=======
+---
+<p>Physicians and nurses will now be able to receive FREE CEU credits for completing the on-line <a href="http://www.arhp.org/modules/webinars/Preventing-Fetal-Alcohol-Spectrum-Disorders/64">FASD Prevention course</a> through October 31, 2017. Help spread the word to physicians and nurses in your area about the importance of informing all women who are pregnant or trying to become pregnant that no amount of alcohol is safe during pregnancy.</p>
+>>>>>>> origin/gh-pages

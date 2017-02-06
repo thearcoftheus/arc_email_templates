@@ -1,7 +1,9 @@
 ---
-layout: fusion1
-title:  "Photo and Caption"
-headline: "OK THEN"
-date:   2015-08-25 09:09:59
-categories: fusion
+layout: fusion
+title: "Resources & Opportunities"
+headline: "LEGAL INTERNSHIP OPPORTUNITY: The Washington Lawyers’ Committee for Civil Rights and Urban Affairs"
+date:  2015-08-21 09:09:59
+categories: fusion-resources-no
+image: https://pbs.twimg.com/profile_images/1750323540/twitterlogo_400x400.JPG
 ---
+The Washington Lawyers’ Committee for Civil Rights and Urban Affairs, a non-profit law firm, is seeking talented law students who are committed to social justice and interested in learning about civil rights litigation for internships for summer 2017. Interns should have a demonstrated commitment to public interest work and strong written, communication and organizational skills. 2Ls and 3Ls are preferred, but 1Ls with outstanding qualifications will be considered. Students must be able to commit to at least ten weeks. Hiring will be conducted on a rolling basis. Learn more here.

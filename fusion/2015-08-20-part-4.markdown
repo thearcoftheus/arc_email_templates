@@ -1,9 +1,17 @@
 ---
 layout: fusion
 title:  "News & Action Items"
+<<<<<<< HEAD
 headline: "Act with The Arc on #WeActWednesday"
+=======
+headline: "The Arc on Commutation for Death Row Inmate Abelardo Arboleda Ortiz"
+>>>>>>> origin/gh-pages
 date:   2015-08-18 09:09:59
+image: https://upload.wikimedia.org/wikipedia/commons/f/f3/Seal_of_the_United_States_Supreme_Court.svg
 categories: fusion-news
-image: https://www.thearc.org/image/fusion/16-066-The-Annual-Report_web_Page_01.jpg
 ---
+<<<<<<< HEAD
 Critical programs to people with I/DD are under threat in Washington—the Affordable Care Act, Medicaid, Supplemental Security Income, and civil rights protections. To harness the power of The Arc’s network and engage more online, we have started posting calls to action on The Arc’s <a href="https://www.facebook.com/thearcus/?ref=aymt_homepage_panel">Facebook</a> and <a href="https://twitter.com/TheArcUS">Twitter</a> on Wednesdays using the hashtag #WeActWednesday. We need our chapters to take up this effort with us—in social media, volume matters. Help us show our power by using the hashtag, and getting your networks to act on the weekly call to action. Follow The Arc on <a href="https://www.facebook.com/thearcus/?ref=aymt_homepage_panel">Facebook</a> and <a href="https://twitter.com/TheArcUS">Twitter</a>, and share our messages via your chapter’s social media and your personal networks. Need help setting up social media for your chapter? Contact <a href="mailto:katz@thearc.org">Pam Katz</a>.
+=======
+<p>The Arc commends President Obama for commuting Abelardo Arboleda Ortiz’s sentence from death to life in prison without the possibility of parole. Mr. Ortiz’s diagnosis of intellectual disability should have ruled out the death penalty per a 2002 Supreme Court ruling, Atkins v. Virginia. The Arc has been involved in this case for years, having filed two amicus briefs in support of Mr. Ortiz and in December 2016, submitted a clemency letter to President Obama requesting the commutation of Mr. Ortiz’s sentence. <a href="https://blog.thearc.org/2017/01/18/justice-abelardo-arboleda-ortiz-final-days-presidency/">Read more here</a>.</p>
+>>>>>>> origin/gh-pages
