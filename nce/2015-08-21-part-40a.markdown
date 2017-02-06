@@ -1,0 +1,8 @@
+---
+layout: nce-1
+headline: "DEADLINE TODAY: NCE Awards"
+date:   2015-08-19 09:09:59
+categories: nce-section2
+image: https://www.thearc.org/view.image?Id=2624
+---
+Make sure your colleagues are recognized for the year-round hard work they do, and the advances they continue to make for people with I/DD. <a href="https://thearcus.wufoo.com/forms/nce-distinguished-professional-awards/">Nominate someone you know today!</a> If you have any questions, contact Ilyse Kramer by <a href="mailto:kramer@thearc.org">email</a> or at 202.534.3707.

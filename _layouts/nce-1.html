@@ -1,0 +1,157 @@
+---
+layout: default
+---
+<html>
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+<style>
+a {
+color: #EA7125;
+}
+</style>
+</head>
+<body>
+
+{% for page in site.pages %}
+  {% if page.categories == 'nce-header' %}  
+  
+<table border="0" cellpadding="0" cellspacing="0" style="border: 1px solid #b2b2b2; text-align: left; width: 540px; font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 14px;">
+<tbody>
+<tr>
+<td style="text-align: center; font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif; color: #000000; line-height: 1.5em; font-size: 13px;" colspan="2"><a style="color: #ea7125;" href="target=&amp;pid=0&amp;did=0&amp;tab=0&amp;splid=1"><span style="color: #ea7125;">View this email in your browser</span></a></td>
+</tr>
+<tr>
+<td style="background-color: #ffffff;" colspan="2" valign="bottom"><img alt="NCE Newsletter" height="180" src="https://www.thearc.org/view.image?Id=4214" width="540" /></td>
+</tr>
+<tr>
+<td style="padding: 5px 30px; font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif; font-size: 16px; color: #ea7125; text-align: right;" colspan="2">{{ page.actualdate }}</td>
+</tr>
+</tbody>
+</table>
+
+  {% endif %}
+{% endfor %}
+
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-left: 1px solid #b2b2b2; border-right: 1px solid #b2b2b2; border-bottom: 1px solid #b2b2b2; border-collapse: collapse; text-align: left; width: 542px; font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 14px;">
+<tbody>
+{% for page in site.pages %}
+  {% if page.categories == 'nce-section1' %}  
+<tr>
+<td style="padding: 5px 10px 10px; font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 14px; line-height: 1.3em;" colspan="2" valign="top">
+<p>
+{% if page.image %}
+<table align="left" style="float: left;">
+<tbody>
+<tr>
+<td>
+<p><img src="{{ page.image }}" width="170" style="padding-right: 10px;"></p>
+</td>
+</tr>
+</tbody>
+</table>
+{% endif %}
+</p>
+<p style="font-family: 'Trebuchet MS', Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 18.200000762939453px;"><span style="color: #44697d; font-weight: bold;">{{ page.headline }}</span></p>
+<p style="font-family: 'Trebuchet MS', Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 18.200000762939453px;">
+{{ page.content }}
+</p>
+</td>
+</tr>
+  {% endif %}
+{% endfor %}
+</tbody>
+</table>
+
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-left: 1px solid #b2b2b2; border-right: 1px solid #b2b2b2; border-collapse: collapse; text-align: left; width: 542px; font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 14px;">
+<tbody>
+{% for page in site.pages %}
+  {% if page.categories == 'nce-section2' %}  
+<tr>
+<td style="padding: 5px 10px 10px; font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 14px; line-height: 1.3em; border-bottom: 1px solid #b2b2b2;" colspan="2" valign="top">
+<p>
+
+{% if page.image %}
+<table align="left" style="float: left;">
+<tbody>
+<tr>
+<td>
+<p><img src="{{ page.image }}" width="170" style="padding-right: 10px;"></p>
+</td>
+</tr>
+</tbody>
+</table>
+{% endif %}
+
+<span style="color: #44697d; font-weight: bold;">{{ page.headline }}</span></p>
+{{ page.content }}
+</td>
+</tr>
+  {% endif %}
+{% endfor %}
+</tbody>
+</table>
+
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-left: 1px solid #b2b2b2; border-right: 1px solid #b2b2b2; border-bottom: 1px solid #b2b2b2; border-collapse: collapse; text-align: left; width: 542px; font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 14px;">
+<tbody>
+<tr>
+<td style="border-right: 0px solid #b2b2b2;">
+<table>
+<tbody>
+<tr>
+<td style="width: 52px;" width="52">&nbsp;</td>
+<td><img align="middle" alt="NTEN logo" height="92" src="https://www.thearc.org/view.image?Id=2124" style="display: block; margin-left: auto; margin-right: auto; vertical-align: middle;" width="234" /></td>
+<td style="width: 53px;" width="53">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding: 5px 10px 10px; font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 14px; line-height: 1.3em; border-right: 1px solid #b2b2b2;" valign="top">
+<p><span style="color: #44697d; font-weight: bold;">NTEN</span><br />Interested in learning about NCE and The Arc's partnership with NTEN? <a style="color: #ea7125;" href="target=&amp;pid=3140&amp;did=0&amp;tab=0">Read more.</a> NCE members, you and your staff members are eligible for NTEN membership! Log in to learn more!</p>
+</td>
+</tr>
+<tr>
+<td style="border-right: 0px solid #b2b2b2;">
+<p><img alt="Find-us-on-Facebook" height="82" src="https://www.thearc.org/view.image?Id=5195" style="display: block; margin-left: auto; margin-right: auto;" width="247" /></p>
+</td>
+<td style="padding: 5px 10px 10px; font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 14px; line-height: 1.3em; border-right: 1px solid #b2b2b2;" valign="top">
+<p><span style="color: #44697d; font-weight: bold;">Follow Us On Facebook</span><br />Join <a style="color: #ea7125;" href="http://www.facebook.com/groups/106612289377804/">NCE's private Facebook group</a>.</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<table border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; width: 100%; color: #000000; font-size: 11px;">
+<tbody>
+<tr>
+<td style="padding: 12px 20px 20px; font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif; color: #000000; border-bottom: 1px solid #b2b2b2; border-top: 1px solid #b2b2b2;" colspan="4" align="center"><strong style="font-size: 12px;">The Arc</strong> 1825 K Street, NW, Suite 1200, Washington, DC 20006<br /> Phone: 800.433.5255&nbsp;&nbsp;|&nbsp;&nbsp;<a style="color: #000000;" href="mailto:info@thearc.org">Contact Us</a></td>
+</tr>
+<tr>
+<td style="padding: 10px 20px 10px; font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif;" colspan="2"><a style="color: #000000;" href="target=_blank&amp;pid=2679&amp;did=0&amp;tab=0">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="color: #000000;" href="target=&amp;pid=2264&amp;did=0&amp;tab=0">Email Preferences</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="color: #EA7125;" href="https://www.thearc.org/donate">Donate</a></td>
+<td style="padding: 10px 20px 10px; font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif; color: #000000;" align="right">&copy; 2016 The Arc</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; width: 100%; color: #000000; font-size: 11px;">
+<tbody>
+<tr>
+<td style="padding: 12px 20px 20px; font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif; color: #000000; border-top: 1px solid #b2b2b2;" colspan="4" align="center">If you do not want to receive future NCE newsletters, please <a style="color: #000000;" href="mailto:feedback@thearc.org?subject=Unsubscribe%20from%20NCE%20Emails">e-mail us</a> with the words "Unsubscribe from NCE Emails" in the subject line. If you want to opt-out from all future emails from The Arc, please <a style="color: #000000;" href="mailto:feedback@thearc.org?subject=Opt-Out">e-mail us</a> with the words "Opt-Out" in the subject line.</td>
+</tr>
+<tr>
+<td style="padding-top: 10px; text-align: center; width: 25%; border-top: 1px solid #b2b2b2;" valign="top"><a style="color: #ea7125;" href="http://charityreports.bbb.org/public/seal.aspx?ID=15522842010" target="_blank"><img height="106" src="https://www.thearc.org/view.image?Id=2342" style="border: 0pt none;" width="60" /></a></td>
+<td style="padding-top: 10px; text-align: center; width: 25%; border-top: 1px solid #b2b2b2;" valign="top"><a style="color: #ea7125;" href="http://www.guidestar.org/organizations/13-5642032/arc-us.aspx"><img alt="GuideStar Exchange Gold Participant" height="73" src="https://www.thearc.org/view.image?Id=3893" width="100" /></a></td>
+<td style="padding-top: 10px; text-align: center; width: 25%; border-top: 1px solid #b2b2b2;" valign="top"><a style="color: #ea7125;" href="http://www.myphilanthropedia.org/top-nonprofits/national/people-with-disabilities/2013/the-arc"><img alt="Philanthropedia 2013 Top Non-Profit" height="118" src="https://www.thearc.org/view.image?Id=3854" style="height: 118px; width: 100px;" width="100" /></a></td>
+<td style="padding-top: 10px; text-align: center; width: 25%; border-top: 1px solid #b2b2b2;" valign="top"><img alt="Standards for Excellence Replication Partner" height="67" src="https://www.thearc.org/view.image?Id=2202" width="115" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+</body>
+</html>
+

@@ -1,0 +1,10 @@
+---
+layout: nce-1
+headline:  "Resources & Opportunities"
+date:   2015-08-22 09:09:59
+categories: nce-section2-no
+image: https://www.thearc.org/view.image?Id=2952
+---
+<p style="font-family: 'Trebuchet MS', Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 18.200000762939453px;">
+With social media being a critical element of today's communications with the public and engaging millennials, your chapter may have greater reach by implementing a social media policy that addresses your needs and outlines goals for using social media. The Standards for Excellence guidelines <a href="https://www.thearc.org/page.redir?target=http%3a%2f%2fwww.thearc.org%2ffile%2f20-Administrative-Policies-7-15-2015-with-attachment-k.pdf&srcid=37159&srctid=1&erid=7553538&trid=1d3c8c41-17b6-4d86-a3aa-408ab0965125">Administrative Policies</a> has sample policies that helps you promote news and activities and set employee rules for engaging in social media.
+</p>

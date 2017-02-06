@@ -1,0 +1,8 @@
+---
+layout: nce-1
+headline: "Employment Research Brief"
+date:   2015-08-19 09:09:59
+categories: nce-section2
+image: https://pbs.twimg.com/profile_images/603918799247519744/xqQVp2RF_400x400.png
+---
+At last summer’s NCE Summer Leadership Institute in Providence, RI, a forum titled “Town hall: Mapping the Future of Employment Services” was facilitated by Jonathan Lucus, Managing Director of The Arc@Work, and Cindy Thomas, Associate Director of the Institute for Community Inclusion at UMass-Boston. <a href="http://www.thinkwork.org/sites/thinkwork.org/files/files/RRTC_keyfindings6_F.PDF">The forum led to the creation of a brief</a>, co-authored by Amie Lulinski, Director of Research and Evaluation at The Arc, to share chapter experiences with transformation from sheltered workshops to community-based employment. In addition, emerging research findings from a Delphi process are shared. <a href="http://www.thinkwork.org/sites/thinkwork.org/files/files/RRTC_keyfindings6_F.PDF">Check it out!</a>

@@ -1,0 +1,8 @@
+---
+layout: enews
+title:  "Get State Advocacy Matters – June Issue Coming Soon! "
+headline: "Get State Advocacy Matters – June Issue Coming Soon! "
+date:   2015-08-21 09:09:59
+categories: enews-hotlinks
+link: http://www.thearc.org/what-we-do/public-policy/state-advocacy-matters 
+---

@@ -1,0 +1,7 @@
+---
+layout: enews
+headline: "The Arc of Delaware Reaches Fair Housing Settlement"
+date:   2015-08-19 09:09:59
+categories: enews-section3
+---
+The Arc of Delaware and its counsel Relman, Dane & Colfax, The Arc of the United States, and Community Legal Aid Society, Inc. are thrilled to announce the recent settlement of the chapter’s disability discrimination complaint against Sugar Maple Farms Property Owners’ Association, Inc. (SMFPOA). That complaint, filed in March 2015 with the U.S. Department of Housing and Urban Development (HUD) and the Delaware Division of Human Relations (DHR), sought a declaration that SMFPOA violated the Fair Housing Act when it refused to approve The Arc of Delaware’s acquisition of property to house four individuals with I/DD in a single family home integrated within the community. After the state issued a finding of discrimination in March 2016, SMFPOA agreed to settle <a href="http://blog.thearc.org/2016/06/09/arc-delaware-reaches-fair-housing-settlement/">the case</a>. Learn more about <a href="http://blog.thearc.org/2016/06/09/arc-delaware-reaches-fair-housing-settlement/">the case</a>, and about <a href="http://www.thearc.org/what-we-do/public-policy/legal-advocacy">The Arc’s legal advocacy work</a>, where we are actively involved in participating as counsel in disability rights litigation, drafting and signing on to amicus briefs, and criminal justice reform through our National Center on Criminal Justice and Disability.

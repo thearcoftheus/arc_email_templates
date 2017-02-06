@@ -1,0 +1,8 @@
+---
+layout: ganew
+headline: "Are You Engaged in Advocacy? Sign Up with The Arc Georgia"
+date:   2015-08-19 09:09:59
+categories: ganew-section2
+image: https://www.thearc.org/image/Georgia-Capitol-100x100.jpg
+---
+The future for people with intellectual and developmental disabilities will be built on the foundation of how their services and supports are structured and funded. Sign up for our Disability Advocacy Engagement email list <a href="https://ga.thearc.org/">The Arc Georgia</a>, and stay connected with federal public policy issues and the issues that matter to you. <a href="https://ga.thearc.org/2016/06/21/engagesignup">READ MORE</a>

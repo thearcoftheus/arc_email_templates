@@ -1,0 +1,117 @@
+---
+layout: default
+---
+<html>
+<head>
+<style>
+body {
+margin: 0 auto;
+width: 600px;
+font-family: trebuchet ms, arial;
+background-color: white;
+}
+a {
+color: black;
+font-size: 14px;
+font-family: trebuchet ms, arial;
+}
+p {
+color: black;
+font-size: 14px;
+font-family: trebuchet ms, arial;
+}
+</style>
+</head>
+<body>
+
+<table width="600" style="width: 600px;" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="http://www.thearc.org/image/prism/prismheader.jpg"></td>
+<tr>
+<td>
+
+<table width="600" style="width: 600px;" cellpadding="0" cellspacing="0">
+<tr>
+{% for page in site.pages %}
+  {% if page.categories == 'prism-header' %}  
+  
+<td><a href="{{ page.url }}"><strong>{{ page.link }}</strong></a></td>
+<td width="225" style="width: 225px;"><a href="https://www.thearc.org/donateAutism"><img src="http://www.thearc.org/image/prism/prismdonate.jpg"></a></td>
+
+  {% endif %}
+{% endfor %}
+
+</table>
+
+</td>
+<tr>
+{% for page in site.pages %}
+  {% if page.categories == 'prism-section1' %}  
+  
+<td><a href="{{ page.herourl }}"><img src="{{ page.hero }}"></a></td>
+
+  {% endif %}
+{% endfor %}
+
+<tr>
+<td style="padding: 10px;">
+
+{% for page in site.pages %}
+  {% if page.categories == 'prism-section1' %}  
+  
+{{ page.content }}
+
+  {% endif %}
+{% endfor %}
+</table>
+</td>
+<tr>
+<td><a href="http://us2.forward-to-friend.com/forward?u=553c237d32a74efd0a8cab5ff&id=fd7df30a97&e=23094820394"><img src="http://www.thearc.org/image/prism/prismfriend.jpg"></a></td>
+<tr>
+<td><img src="http://www.thearc.org/image/prism/prismresources.jpg"></td>
+<tr>
+<td style="padding: 10px;">
+
+{% for page in site.pages %}
+  {% if page.categories == 'prism-section2' %}  
+  
+{{ page.content }}
+
+  {% endif %}
+{% endfor %}
+
+
+</td>
+<tr>
+<td><img src="http://www.thearc.org/image/prism/prismevents.jpg"></td>
+<tr>
+<td style="padding: 10px;">
+
+{% for page in site.pages %}
+  {% if page.categories == 'prism-section3' %}  
+  
+{{ page.content }}
+
+  {% endif %}
+{% endfor %}
+
+</td>
+<tr>
+<td>
+<table width="600" style="width: 600px;" cellpadding="0" cellspacing="0">
+<tr>
+<td width="329" style="width: 329px;"><a href="http://autismnow.org/"><img src="http://www.thearc.org/image/prism/prismfooter.jpg"></a></td>
+<td style="padding: 10px;">
+<p style="padding-left: 30px;">
+<a href="https://www.facebook.com/AutismNowCenter">LIKE US ON FACEBOOK </a><br><br>
+<a href="https://twitter.com/AutismNowCenter">FOLLOW US ON TWITTER </a><br><br>
+<a href="http://us2.forward-to-friend1.com/forward?u=553c237d32a74efd0a8cab5ff&id=9d51deb138&e=20349889475394">FORWARD TO A FRIEND </a>
+</p>
+
+</td>
+</table>
+
+</td>
+</table>
+</body>
+</html>

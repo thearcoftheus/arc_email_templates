@@ -1,0 +1,8 @@
+---
+layout: fusion
+title:  "Letter from the CEO"
+headline: "Peter’s Perspective"
+date:   2015-08-17 09:09:59
+categories: fusion-ceo
+---
+Story ask for ACA/DAN/Paid leave/etc

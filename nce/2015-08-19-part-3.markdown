@@ -1,0 +1,14 @@
+---
+layout: nce-1
+headline: "It’s not too late: Summer Leadership Institute"
+date:   2015-08-19 09:09:59
+categories: nce-section1
+image: http://www.thearc.org/image/SLI-promo.jpg
+---
+This year’s Summer Leadership Institute is only two weeks away, but it’s not too late to register! Attendees can register on-site at the event. All you have to do is show up! Join us to hear these dynamic speakers:
+<br><ul>
+<li>Christopher Metzler will discuss diversity and community-building...</li>
+<li>Nora Baladerian will teach how to reduce risk of abuse in the I/DD community...</li>
+<li>Cathy Ficker Terrill will discuss HCBS implementation...</li>
+</ul>
+And more! See the rest of our powerhouse speakers and session topics on the SLI site. <a href="http://www.nce-sli.org">Register today!</a>

@@ -1,0 +1,8 @@
+---
+layout: ganew
+headline: "Leaving Your Legacy "
+date:   2015-08-19 09:09:59
+categories: ganew-section2
+image: https://www.thearc.org/image/Planned-Giving-100x100.jpg
+---
+June is Legacy month! The Arc Georgia has launched its <a href="https://ga.thearc.org/get-involved/planned-giving/">Planned Giving Initiative</a>.  Now it is easy to make a planned or future gift as part of your will to ensure that The Arc’s advocacy on behalf of people with I/DD can continue for years to come. <a href="https://ga.thearc.org/get-involved/planned-giving/">LEARN MORE</a>

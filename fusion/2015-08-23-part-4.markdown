@@ -1,0 +1,9 @@
+---
+layout: fusion1
+title:  "News & Action Items"
+headline: "Brand Implementation Tip: Know your colors!"
+date:   2015-08-18 09:09:59
+categories: fusion-news-no
+image: 
+---
+Colors appear differently in online and print materials, depending on which format you use. Make sure to always use RGB for anything online, and CMYK for print. Using the wrong ones can distort colors—especially in your logo! Interested in the nitty-gritty of why each is used? <a href="https://www.sumydesigns.com/2014/10/16/colors-web-colors-print/">Learn more here.</a> Questions? Contact The Arc’s Brand Coordinator, <a href="mailto:Glaze@thearc.org">Bethany Glaze</a>. We’re always happy to help! 

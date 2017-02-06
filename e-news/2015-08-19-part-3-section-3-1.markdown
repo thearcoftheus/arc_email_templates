@@ -1,0 +1,7 @@
+---
+layout: enews
+headline: "Leading by Example: FCC’s Inclusive Workplace"
+date:   2015-08-19 09:09:59
+categories: enews-section3
+---
+Eighty-five percent of working-age individuals with disabilities are either unemployed or underemployed. Of the 15% that are employed, only half are working in inclusive jobs in the community. One proactive agency, the Federal Communications Commission (FCC), is already working to change this by implementing an initiative dedicated to individuals with disabilities working in competitive and inclusive positions. The Arc’s employment division, The Arc@Work, has been supporting the FCC with their hiring efforts. Head over to <u>our blog</u><b> (link to this story, jon needs to put it on the blog, jon needs the copy to put it on the blog)</b> to read about Keith Coburn’s journey to stable employment at the FCC, including the two promotions he has already received in his year and a half on the job. 

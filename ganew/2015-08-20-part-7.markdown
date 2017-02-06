@@ -1,0 +1,8 @@
+---
+layout: ganew
+headline: "Donate Your Car Today!"
+date:   2015-08-19 09:09:59
+categories: ganew-section2
+image: https://www.thearc.org/image/Car-Donation-100x100.jpg
+---
+Do you have an old car, truck, boat taking up space in your garage? <a href="https://ga.thearc.org/get-involved/donate-your-vehicle/">Consider donating it to The Arc of Georgia!</a> All donation proceeds benefit The Arc Georgia. We accept any vehicle with a title and arrange free, convenient pick up or towing. <a href="https://ga.thearc.org/get-involved/donate-your-vehicle/">DONATE YOUR CAR TODAY!</a>

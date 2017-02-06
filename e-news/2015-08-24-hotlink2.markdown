@@ -1,0 +1,8 @@
+---
+layout: enews
+title:  "Sign Up for The Arc’s Disability Advocacy Network "
+headline: "Sign Up for The Arc’s Disability Advocacy Network "
+date:   2015-08-21 09:09:59
+categories: enews-hotlinks
+link: http://disabilityadvocacynetwork.org/app/register?1&m=9899
+---

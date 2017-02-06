@@ -1,0 +1,9 @@
+---
+layout: fusion
+title: "Resources & Opportunities"
+headline: "Help us Open the “Gateway to Change” at Summer Leadership Institute 2017!"
+date:  2015-08-21 09:09:59
+categories: fusion-resources
+image: https://www.thearc.org/view.image?Id=1322
+---
+The Call for Proposals for the 2017 NCE Summer Leadership Institute is open! Submit a proposal today. Deadline to submit: February 17, 2017. <a href="http://nce-sli.org/call-for-proposals/">Learn more about our submission guidelines here</a>. Then, meet us in St. Louis this summer, July 24-26.

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://thearcoftheus.github.io/arc_email_templates/</link>
+    <atom:link href="http://thearcoftheus.github.io/arc_email_templates/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 18 Jul 2016 14:05:02 -0400</pubDate>
+    <lastBuildDate>Mon, 18 Jul 2016 14:05:02 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Prism Template</title>
+        <description>
+</description>
+        <pubDate>Mon, 17 Aug 2015 05:09:59 -0400</pubDate>
+        <link>http://thearcoftheus.github.io/arc_email_templates/prism/2015/08/17/part-prism.html</link>
+        <guid isPermaLink="true">http://thearcoftheus.github.io/arc_email_templates/prism/2015/08/17/part-prism.html</guid>
+        
+        
+        <category>prism</category>
+        
+      </item>
+    
+      <item>
+        <title>NCE Template</title>
+        <description>
+</description>
+        <pubDate>Mon, 17 Aug 2015 05:09:59 -0400</pubDate>
+        <link>http://thearcoftheus.github.io/arc_email_templates/nce/2015/08/17/part-nce.html</link>
+        <guid isPermaLink="true">http://thearcoftheus.github.io/arc_email_templates/nce/2015/08/17/part-nce.html</guid>
+        
+        
+        <category>nce</category>
+        
+      </item>
+    
+      <item>
+        <title>NCCJD Template</title>
+        <description>
+</description>
+        <pubDate>Mon, 17 Aug 2015 05:09:59 -0400</pubDate>
+        <link>http://thearcoftheus.github.io/arc_email_templates/nccjd/2015/08/17/part-nccjd.html</link>
+        <guid isPermaLink="true">http://thearcoftheus.github.io/arc_email_templates/nccjd/2015/08/17/part-nccjd.html</guid>
+        
+        
+        <category>nccjd</category>
+        
+      </item>
+    
+      <item>
+        <title>GA Template New</title>
+        <description>
+</description>
+        <pubDate>Mon, 17 Aug 2015 05:09:59 -0400</pubDate>
+        <link>http://thearcoftheus.github.io/arc_email_templates/ganew/2015/08/17/part-ganew.html</link>
+        <guid isPermaLink="true">http://thearcoftheus.github.io/arc_email_templates/ganew/2015/08/17/part-ganew.html</guid>
+        
+        
+        <category>ganew</category>
+        
+      </item>
+    
+      <item>
+        <title>GA Template</title>
+        <description>
+</description>
+        <pubDate>Mon, 17 Aug 2015 05:09:59 -0400</pubDate>
+        <link>http://thearcoftheus.github.io/arc_email_templates/ga/2015/08/17/part-ga.html</link>
+        <guid isPermaLink="true">http://thearcoftheus.github.io/arc_email_templates/ga/2015/08/17/part-ga.html</guid>
+        
+        
+        <category>ga</category>
+        
+      </item>
+    
+      <item>
+        <title>Fusion Template</title>
+        <description>
+</description>
+        <pubDate>Mon, 17 Aug 2015 05:09:59 -0400</pubDate>
+        <link>http://thearcoftheus.github.io/arc_email_templates/fusion/2015/08/17/part-fusion.html</link>
+        <guid isPermaLink="true">http://thearcoftheus.github.io/arc_email_templates/fusion/2015/08/17/part-fusion.html</guid>
+        
+        
+        <category>fusion</category>
+        
+      </item>
+    
+      <item>
+        <title>E-News Template</title>
+        <description>
+</description>
+        <pubDate>Mon, 17 Aug 2015 05:09:59 -0400</pubDate>
+        <link>http://thearcoftheus.github.io/arc_email_templates/enews/2015/08/17/part-enews.html</link>
+        <guid isPermaLink="true">http://thearcoftheus.github.io/arc_email_templates/enews/2015/08/17/part-enews.html</guid>
+        
+        
+        <category>enews</category>
+        
+      </item>
+    
+      <item>
+        <title>Blank Template</title>
+        <description>
+</description>
+        <pubDate>Mon, 17 Aug 2015 05:09:59 -0400</pubDate>
+        <link>http://thearcoftheus.github.io/arc_email_templates/blank/2015/08/17/part-blank.html</link>
+        <guid isPermaLink="true">http://thearcoftheus.github.io/arc_email_templates/blank/2015/08/17/part-blank.html</guid>
+        
+        
+        <category>blank</category>
+        
+      </item>
+    
+  </channel>
+</rss>
