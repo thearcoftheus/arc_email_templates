@@ -1,15 +1,9 @@
 ---
-layout: fusion
+layout: fusion1
 title:  "News & Action Items"
-headline: "CHAPTER SPOTLIGHT: Chapter Anniversaries—the Big 5-0! "
+headline: "Bigger, Better, More!"
 date:   2015-08-18 09:09:59
-<<<<<<< HEAD
 categories: fusion-news-no
 image: https://www.thearc.org/view.image?Id=1322
-=======
-categories: fusion-news
-image: http://3.bp.blogspot.com/-3M2bwCn0tXc/VDmMGqcp04I/AAAAAAAAF8k/ewJHCbYcRDw/s1600/ArcofPG.png
->>>>>>> origin/gh-pages
 ---
-<p><a href="https://www.arcoflehighnorthampton.org/">The Arc of Lehigh & Northampton</a>, <a href="http://www.delarc.org/">The Arc of Delaware County</a>, and <a href="http://www.paxtoncampus.org/the-arc-of-loudoun/">The Arc Loudon</a> are all celebrating their 50th anniversaries this year! Congratulations on half a century of hard work and “achieving with us”. Cheers to the next 50!</p>
-<p>Need help with graphics to celebrate an anniversary, accomplishment, or award? Want your big news featured in Fusion? Email <a href="mailto:katz@thearc.org">Pam Katz </a>.</p>
+Contribute an item for Silent Auction! Your donation to the Silent Auction provides an invaluable opportunity for chapter leaders and staff who have not previously attended Summer Leadership Institute or Professional Development Seminar to come and meet with other chapter leaders while participating in meaningful professional development.  Donate an item <a href="http://convention.thearc.org/sessions/nce-silent-auction/">here</a>. If you have any questions, contact <a href="mailto:tnguyen@thearc.org">Thuba Nguyen</a>, Chapter Growth & Affiliate Relations Associate. 

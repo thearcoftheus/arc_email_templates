@@ -1,10 +1,9 @@
 ---
-layout: fusion
+layout: fusion1
 title:  "2 Box Callout"
-headline: "Including People with Disabilities: Public Health Workforce Competencies"
-webdate: "Tuesday, January 24 from 3:00 – 4:30 pm ET"
+headline: "AUCD Webinar: Ethnic Disparities for Adults with ID/DD"
+webdate: "Tuesday, June 21 12:00 – 2:00 pm EDT"
 date:   2015-08-20 09:09:59
 categories: fusion-webinar-2-no
 ---
-<p>One in five Americans — over 54 million — have a disability, yet many public health programs do not include them in their program design. People with disabilities are more likely to experience chronic conditions like asthma, diabetes, and heart disease as compared to people without disabilities. There is a clear need for public health efforts to reduce these health disparities. The Including People with Disabilities: Public Health Workforce Competencies were created for the public health workforce to provide basic knowledge on the relationship between disability and public health programs, and increase the capacity of public health practitioners to include people with disabilities in their public health efforts. This presentation will provide an overview of the Competencies and examples for implementation, as well as how the material has been adapted to educate public health professionals about how to include adults with ID in planning and health promotion.</p>
-<p><a href="http://www.aucd.org/template/event.cfm?event_id=7922">Register here</a>.</p>
+This webinar will highlight the AUCD-UIC RRTCDD brief, <a href="http://bit.ly/1VVuFgw">Racial and Ethnic Disparities among Adults with Intellectual and Developmental Disabilities</a>. We will review research highlights and findings of an analysis of Medical Expenditure Panel Survey and National Health Interview Survey data. In addition, we will discuss the policy implications of the findings and opportunities for change. There is NO cost for this webinar. For disability accommodations call 301.588.8252 a minimum of five days in advance. <a href="https://events-na3.adobeconnect.com/content/connect/c1/1005431686/en/events/event/shared/default_template_simple/event_registration.html?sco-id=1767361194&_charset_=utf-8">Register here.</a>
