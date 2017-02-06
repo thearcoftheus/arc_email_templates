@@ -1,9 +1,11 @@
 ---
 layout: fusion1
 title:  "News & Action Items"
-headline: "Learn with Advocates from Around the Globe"
+headline: "Chapter Spotlight: The Arc Southern Maryland"
 date:   2015-08-18 09:09:59
 categories: fusion-news
-image: http://www.thearc.org/image/National-Conv-Logo-2016-H-full-color.png
+image: http://www.arcsomd.org/sd/bnrs/bnnrDefault.png
 ---
-Shaping a more inclusive future requires bold and collaborative action. Around the world, there is still discrimination against individuals with disabilities when it comes to even the most basic civil rights any citizen deserves. We need drastic system changes and sweeping reform across the globe, and we need it now. <a href="http://convention.thearc.org">Join us at the 2016 National Convention & International Forum</a> as collective international movement to shape the future. You will find camaraderie, ideas, and encouragement with over 1,000 attendees from over 40 countries. Network with old friends and discover new friends from around the world as you uncover the latest trends in the disability community. <a href="http://convention.thearc.org">Register today!</a>
+Congratulations to <a href="http://www.arcsomd.org/">The Arc Southern Maryland</a> on their recent acquisition of a $15,000 local grant from our national partner, Comcast NBCUniversal for the implementation of a
+
+Learning Lab! The Arc just wrapped up our second year of running learning labs at several chapters throughout the country. The Arc Southern Maryland is a prime example of how building partnerships at the local level can have a major impact on the individuals that we support.

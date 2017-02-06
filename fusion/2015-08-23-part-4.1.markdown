@@ -3,7 +3,7 @@ layout: fusion1
 title:  "News & Action Items"
 headline: "Entrepreneur Alley Deadline: July 1"
 date:   2015-08-18 09:09:59
-categories: fusion-news
+categories: fusion-news-no
 image: http://www.healthmattersprogram.org/healthmatters_files/stacks_image_445.png
 ---
 Only two weeks left to take advantage of our early bird price! Every year, this Convention favorite draws talented self-advocates with diverse skills from around the country who have built small businesses, as well as those employed in a business run by their local chapter of The Arc. The experience is a valuable and profitable opportunity to network with over 1,000 attendees from around the world. Know someone who’d like to show off their skills? <a href="http://convention.thearc.org/sessions/entrepreneur-alley/">Sign up today to be an Entrepreneur Alley vendor.</a> Questions? Contact <a href="mailto:skennedy@thearc.org">Sarah Kennedy.</a>

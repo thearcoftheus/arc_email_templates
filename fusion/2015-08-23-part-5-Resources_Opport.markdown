@@ -1,17 +1,26 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-headline: "Make MLK Day a Day of Service at Your Chapter!"
+headline: "Would you like to Serve on a Standing Committee or Advisory Council of The Arc?"
 date:  2015-08-21 09:09:59
 categories: fusion-resources
 image: http://www.nationalservice.gov/sites/default/files/upload/mlk2005_noline.jpg
 pageposition: first
 ---
-For the second year, The Arc is working with the Corporation for National and Community Service to offer $10,000 grants to chapters of The Arc to develop service projects that celebrate Dr. King. These projects will bring together volunteers from and without disabilities to provide food assistance in their communities. The Arc will work with state and local chapters to:
+You are invited to apply to serve on one of The Arc’s committees. Both volunteers and staff leaders of chapters of The Arc and other stakeholders and constituents are eligible for the following:
 <ul>
-	<li>Partner with a service club to recruit volunteers with and without disabilities</li>
-	<li>Work with hunger-focused groups (food banks, soup kitchens, etc) to deliver food aid</li>
-	<li>Provide food aid on MLK Day and through the end of the grant (August 1, 2017)</li>
-	<li>Raise $35,000 in in-kind or cash matching funds to support the project</li>
+<li>Board Development Committee</li>
+
+<li>Budget Finance & Audit Committee</li>
+
+<li>Policy and Positions Committee</li>
+
+<li>Legal Advocacy Subcommittee</li>
+
+<li>Resource Development Committee</li>
+
+<li>National Council of Self-Advocates (Council and Steering Committee Members)</li>
+
+<li>National Siblings Council (Council and Steering Committee Members)</li>
 </ul>
-<a href="http://www.thearc.org/file/2017-MLK-Day-of-Service-RFP.pdf">Proposals are due August 19</a>. Questions? Contact <a href="mailto:Sladen@thearc.org">Jennifer Sladen</a>. 
+Read the <a href="https://www.thearc.org/file/documents_general-resources/Committee-Descriptions-2017.pdf?erid=8877115">descriptions of the roles and responsibilities of each committee</a>, and fill out the <a href="https://fs16.formsite.com/u024508129ncearc/form69/index.html">application form</a>. A limited number of committee assignments are available. Committee appointments are for a two year term (2017-2018). Deadline: February 7, 2017.

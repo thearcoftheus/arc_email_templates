@@ -1,10 +1,10 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "An International Perspective"
+headline: "Disability Policy Seminar 2017: 41 Days Left!"
 date:   2015-08-18 09:09:59
 categories: fusion-news
-image: http://www.thearc.org/image/National-Conv-Logo-2016-H-full-color.png
+image: http://arcdps.wpengine.com/wp-content/uploads/2016/12/Disability-Policy-Seminar-Logo-for-website.jpg
 pageposition: first
 ---
-At our 2016 National Convention & International Forum, you will find camaraderie, ideas, and encouragement with attendees from countries all over the world as we partner once again with Inclusion International. One attendee said: “I attended the previous event partnered with Inclusion International; it was not to be missed. Networking with people from all over the world was particular[ly] rewarding.” See old friends and discover new ones from around the world as you uncover the latest trends in the disability community. <a href="http://convention.thearc.org">Register today!</a>
+Six weeks left until DPS 2017! Join us at this year's crucial Disability Policy Seminar to get informed, connected, and ready to protect the things that matter most. Access to our bedrock federal programs and civil rights protections are at risk. We MUST be diligent, informed, and ready to act! The event is packed with informative sessions from experts in the field, and opportunities to discuss key issues with others from your state. We need you there with us—<a href="http://disabilitypolicyseminar.org">register today</a>!

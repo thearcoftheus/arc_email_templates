@@ -1,10 +1,8 @@
 ---
 layout: fusion
 title:  "Letter from the CEO"
-headline: "Greetings from Palm Springs"
+headline: "Peter’s Perspective"
 date:   2015-08-17 09:09:59
 categories: fusion-ceo
 ---
-Today, we kick-off the annual NCE Summer Leadership Institute. We have an exciting program planned and will be exploring important topics such as alternatives to traditional day services, diversity and cultural competence, person centered planning, community organizing for impact, and more. You can follow the event online using the hashtag #SLI2016. If you were not able to make it this year, my message for you is <b><i>Meet me in St. Louis!</i></b>
-<br><br>
-Please mark your calendar for the 2017 NCE Summer Leadership Institute on July 24 – 26, 2017 in St. Louis, MO. Be there! As always, you can reach me at <a href="mailto:berns@thearc.org">berns@thearc.org</a>.   
+Story ask for ACA/DAN/Paid leave/etc

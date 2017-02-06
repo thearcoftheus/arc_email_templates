@@ -1,11 +1,11 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-headline: "Mental Health Courts and Individuals with I/DD: A Criminal Justice Solution?"
+headline: "The FINDS Survey is Here!"
 date:  2015-08-21 09:09:59
 categories: fusion-resources
-image: 
+image: https://www.thearc.org/view.image?Id=2654
 ---
-<i>Thursday, July 28 from 1:30 – 3:00 pm EDT</i>
-<br><br>
-Mental health courts were created to divert offenders from prison into long-term community based treatment. These courts rely on assessments, treatment plans, and ongoing behavior monitoring to address both the mental health needs of offenders, as well as safety needs of the community. But, are they appropriate for people with I/DD? NCCJD will discuss the results of a recent survey of mental health courts serving people with I/DD. A historical perspective of mental health courts will be provided, and their role and purpose in the criminal justice system defined. We will discuss how the Mental Health and Developmental Disabilities Court specifically addresses the needs of individuals with I/DD and the benefits of serving them. Negatives of mental health courts and whether they are adequate to serve those with I/DD will also be addressed. <a href="http://bit.ly/21kWFcs">Register here</a>.
+We need your input and help disseminating this crucial survey! The Research and Training Center on Community Living at the University of Minnesota in collaboration with The Arc, is seeking caregivers to share their perceptions on a range of life-span issues impacting individuals with I/DD. We are inviting family or unrelated caregivers aged 18 years or older who provide frequent primary support to a person with an I/DD to participate. The results of the 2010 Survey provided unique insight into the growing gaps in education, employment, and other life-span activities that exist between persons with disabilities and their non-disabled peers, which has informed further dialogue and policy changes at the
+
+Federal and State levels. <a href="http://thearc.org/FINDS">Take the survey and share it widely in your networks</a>! Deadline: March 30.

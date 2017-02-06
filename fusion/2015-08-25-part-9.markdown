@@ -1,9 +1,9 @@
 ---
 layout: fusion1
 title: "Resources & Opportunities"
-headline: "JOB ANNOUNCEMENT: Executive Director, The Arc of Illinois "
+headline: "FELLOWSHIP OPPORTUNITY: 2017 Disability Rights Storytellers Fellowship"
 date:  2015-08-21 09:09:59
 categories: fusion-resources
-image: http://www.thearc.org/image/Arc_Illinois_Color_Pos_JPG.jpg
+image: http://www.aapd.com/wp-content/themes/aapd/markup/images/logo.jpg
 ---
-Tony Paulauski will be retiring after 25+ years as Executive Director. The candidate for this position will be an experienced professional advocate for people with I/DD and their families. Additionally, s/he will have a demonstrated ability to cultivate relationships with chapters of The Arc, other disability providers, associations, funders and political leaders. Candidates must have senior administrator experience in a disability related organization, hold a Bachelor’s Degree (Masters preferred) in a related discipline and have proven background in governmental affairs, finance, development, and personnel management. The Executive Director will represent the organization throughout the State of Illinois and reports to a volunteer Board of Directors. <a href="http://avenuesonline.org/arcsearch.html">Find additional information and apply here.</a>
+The Disability Rights Storytellers Fellowship managed by <a href="http://www.rootedinrights.org">Rooted in Rights</a> and AAPD provides the opportunity for an individual with a disability to learn and apply skills in digital media storytelling, and to prepare participants for advanced careers in media production, journalism, online advocacy, or digital design. The project combines hands-on training on cutting edge technologies with a strong foundation in developing the individual’s voice and using story-driven videos in advocacy. AAPD will also work to connect the Fellow to internships and employment opportunities. Applications for the 2017 Disability Rights Storytellers Fellowship are due by March 15, 2017. <a href="http://www.aapd.com/disability-rights-storytellers/">Learn more and apply here</a>.
