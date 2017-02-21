@@ -1,9 +1,9 @@
 ---
-layout: fusion
+layout: fusion1
 title: "Resources & Opportunities"
-headline: "Near DC? Make February 2 an Advocacy Day!"
+headline: "FELLOWSHIP OPPORTUNITY: 2017 Disability Rights Storytellers Fellowship"
 date:  2015-08-21 09:09:59
 categories: fusion-resources-no
-image: https://pbs.twimg.com/profile_images/796834358912921600/IkLdcMyE_400x400.jpg
+image: http://www.aapd.com/wp-content/themes/aapd/markup/images/logo.jpg
 ---
-The Jewish Disability Network, in partnership with The Arc, looks forward to your participation in Jewish Disability Advocacy Day on February 2, 2017 on Capitol Hill. <a href="http://www.jewishfederations.org/JDAD2017">Register here</a>.
+The Disability Rights Storytellers Fellowship managed by <a href="http://www.rootedinrights.org">Rooted in Rights</a> and AAPD provides the opportunity for an individual with a disability to learn and apply skills in digital media storytelling, and to prepare participants for advanced careers in media production, journalism, online advocacy, or digital design. The project combines hands-on training on cutting edge technologies with a strong foundation in developing the individual’s voice and using story-driven videos in advocacy. AAPD will also work to connect the Fellow to internships and employment opportunities. Applications for the 2017 Disability Rights Storytellers Fellowship are due by March 15, 2017. <a href="http://www.aapd.com/disability-rights-storytellers/">Learn more and apply here</a>.

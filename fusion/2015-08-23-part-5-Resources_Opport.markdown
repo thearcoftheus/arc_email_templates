@@ -4,7 +4,7 @@ title: "Resources & Opportunities"
 headline: "We’re Hiring at the National Office!"
 date:  2015-08-21 09:09:59
 categories: fusion-resources
-image: http://www.thearc.org/view.image?Id=2654
+image: http://www.nationalservice.gov/sites/default/files/upload/mlk2005_noline.jpg
 pageposition: first
 ---
 The Arc’s National Office is seeking energetic and talented development professionals to join our growing fundraising efforts. 

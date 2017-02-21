@@ -5,7 +5,7 @@ headline: "Apply for a Scholarship to Attend an NCE Professional Development Eve
 date:  2015-08-21 09:09:59
 image: https://www.thearc.org/view.image?Id=1322
 categories: fusion-resources
-
+image: https://www.thearc.org/view.image?Id=1322
 ---
 NCE is offering an exciting opportunity for attending one of our professional development events:
 <em>2017 Summer Leadership Institute, St. Louis, MO – July 24-26, 2017<br />

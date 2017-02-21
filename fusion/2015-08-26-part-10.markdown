@@ -1,9 +1,13 @@
 ---
-layout: fusion
+layout: fusion1
 title: "Resources & Opportunities"
-headline: "FELLOWSHIP OPPORTUNITY: Open Society Foundation"
+headline: "JOB ANNOUNCEMENT:  Director of Public Policy and Advocacy – Children and Families, The Arc Maryland"
 date:  2015-08-21 09:09:59
 categories: fusion-resources-no
-image: https://pbs.twimg.com/profile_images/2577163591/52e66q9yto9nzywaxt33_400x400.png
+image: http://www.thearc.org/image/Arc_Maryland_Color_Pos_JPG.jpg
 ---
-<a href="https://www.opensocietyfoundations.org/grants/open-society-community-youth-fellowships-20161123">The Open Society Foundation is seeking US activists ages 18—25 who have a project idea about advancing human rights in underserved communities</a>. They have a particular fellowship for people with intellectual disabilities– regardless of their support need. The deadline to apply is January 10, 2017. <a href="https://www.opensocietyfoundations.org/sites/default/files/part-1-about-the-youth-fellowships-20161123.pdf">About the Fellowship</a>. <a href="https://www.opensocietyfoundations.org/sites/default/files/part-2-how-to-apply-and-what-happens-next-20161123.pdf">How to Apply</a>.
+The Arc of Maryland is seeking a Director of Public Policy and Advocacy – Children and Families. The director will work closely with the Executive Director, the public policy team, and the Governmental Affairs and the Children’s and Family Issues Committees to advance the policy and advocacy goals of The Arc Maryland. Experience in working with the Maryland General Assembly is preferred. Grant development and management, including budgets is desirable. The successful candidate will join a diverse team of board and staff members who are committed to working for communities that welcome and include individuals with I/DD and their families. <b>Deadline to Apply: July 8, 2016</b>.
+Please submit cover letter, resume, salary requirements, and list of three professional references to: Cristine Marchand, Executive Director
+<br>130 Lubrano Drive, Suite 212 
+<br>Annapolis, MD 21401 
+<br>Or via email: <a href="mailto:info@thearcmd.org">info@thearcmd.org</a>

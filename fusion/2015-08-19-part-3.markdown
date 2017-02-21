@@ -3,8 +3,8 @@ layout: fusion
 title:  "News & Action Items"
 headline: "Take Action to Prevent Gutting of the ACA And Medicaid!"
 date:   2015-08-18 09:09:59
-image: https://www.thearc.org/view.image?Id=2654
 categories: fusion-news
+image: http://www.thearc.org/view.image?Id=1322
 ---
 We need you to reach out to your Senators and Representatives to let them know why the ACA and Medicaid are essential to people with disabilities and their families!
 <ul>
