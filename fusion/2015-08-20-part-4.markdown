@@ -1,9 +1,9 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "The Arc on Commutation for Death Row Inmate Abelardo Arboleda Ortiz"
+headline: "The FINDS Survey is Here!"
 date:   2015-08-18 09:09:59
-image: https://upload.wikimedia.org/wikipedia/commons/f/f3/Seal_of_the_United_States_Supreme_Court.svg
+image: https://www.thearc.org/view.image?Id=2654
 categories: fusion-news
 ---
-<p>The Arc commends President Obama for commuting Abelardo Arboleda Ortiz’s sentence from death to life in prison without the possibility of parole. Mr. Ortiz’s diagnosis of intellectual disability should have ruled out the death penalty per a 2002 Supreme Court ruling, Atkins v. Virginia. The Arc has been involved in this case for years, having filed two amicus briefs in support of Mr. Ortiz and in December 2016, submitted a clemency letter to President Obama requesting the commutation of Mr. Ortiz’s sentence. <a href="https://blog.thearc.org/2017/01/18/justice-abelardo-arboleda-ortiz-final-days-presidency/">Read more here</a>.</p>
+We need your input and help disseminating this crucial survey! The Research and Training Center on Community Living at the University of Minnesota in collaboration with The Arc, is seeking caregivers to share their perceptions on a range of life-span issues impacting individuals with I/DD. We are inviting <strong>family or unrelated caregivers aged 18 years or older</strong> who provide frequent primary support to a person with an I/DD to participate. The results of the 2010 Survey provided unique insight into the growing gaps in education, employment, and other life-span activities that exist between persons with disabilities and their non-disabled peers, which has informed further dialogue and policy changes at the Federal and State levels. <a href="http://thearc.org/FINDS">Take the survey and share it widely in your networks</a>! <strong>Deadline: March 30</strong>.

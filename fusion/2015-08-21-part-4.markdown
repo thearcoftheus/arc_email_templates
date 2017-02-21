@@ -1,9 +1,10 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "The Arc Files Two IDEA Amicus Briefs"
-image: https://upload.wikimedia.org/wikipedia/commons/f/f3/Seal_of_the_United_States_Supreme_Court.svg
+headline: "Announcing The Arc@School Website!"
+image: http://thearcatschool.org/wp-content/uploads/2016/11/cropped-The-Arc-@-School-Lockup-Pos-01-1.png
 date:   2015-08-18 09:09:59
 categories: fusion-news
 ---
-<p>The Arc recently filed two amicus briefs on the rights of students with disabilities under the IDEA in Endrew F. v. Douglas (before the U.S. Supreme Court) and, with The Arc Connecticut, CCJEF v. Rell (before the Connecticut Supreme Court). <a href="http://bit.ly/2jIf3Az">Both briefs can be found here</a>. Recently, attorneys from The Arc attended oral arguments before the Supreme Court of the United States in the Endrew case. <a href="http://nyti.ms/2iXsrzx">The New York Times covered the arguments</a>.</p>
+In 2016, The Arc launched a new initiative, <a href="http://thearcatschool.org">The Arc@School</a>, to build the capacity of The Arc’s nationwide network of chapters to support students with I/DD and their families in developing and implementing individualized education programs (IEPs) that will help students with I/DD graduate from high school and pursue post-secondary education and employment. The newly-launched website aims to be an online resource for students with disabilities, their parents, and advocates that includes information, best practices, and a resource directory, where you can find links and contact information for chapters of The Arc, protection and advocacy programs, parent centers, and state education agencies in your state. <a href="https://blog.thearc.org/2017/02/01/navigating-school-arcschool-launches-website-help-students-disabilities-parents-special-education-advocacy/
+">Check it out</a>!
