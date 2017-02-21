@@ -4,10 +4,6 @@ title:  "News & Action Items"
 headline: "Bigger, Better, More!"
 date:   2015-08-18 09:09:59
 categories: fusion-news-no
-<<<<<<< HEAD
-image: http://3.bp.blogspot.com/-3M2bwCn0tXc/VDmMGqcp04I/AAAAAAAAF8k/ewJHCbYcRDw/s1600/ArcofPG.png
-=======
 image: https://www.thearc.org/view.image?Id=1322
->>>>>>> origin/gh-pages
 ---
 Contribute an item for Silent Auction! Your donation to the Silent Auction provides an invaluable opportunity for chapter leaders and staff who have not previously attended Summer Leadership Institute or Professional Development Seminar to come and meet with other chapter leaders while participating in meaningful professional development.  Donate an item <a href="http://convention.thearc.org/sessions/nce-silent-auction/">here</a>. If you have any questions, contact <a href="mailto:tnguyen@thearc.org">Thuba Nguyen</a>, Chapter Growth & Affiliate Relations Associate. 
