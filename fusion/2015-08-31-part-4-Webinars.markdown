@@ -1,7 +1,7 @@
 ---
 layout: fusion1
 title:  "2 Box Callout"
-headline: "Meeting the Challenges of Organizational Change: Effective Board and Upper Management Relationships "
+headline: "Meeting the Challenges of Organizational Change: Effective Board and Upper Management Relationships"
 webdate: "Tuesday, February 21 from 2:00 - 3:00 pm ET"
 date:   2015-08-20 09:09:59
 categories: fusion-webinar-1
