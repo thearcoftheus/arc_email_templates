@@ -3,11 +3,7 @@ layout: fusion1
 title: "Resources & Opportunities"
 headline: "FELLOWSHIP OPPORTUNITY: 2017 Disability Rights Storytellers Fellowship"
 date:  2015-08-21 09:09:59
-<<<<<<< HEAD
-categories: fusion-resources
-=======
 categories: fusion-resources-no
->>>>>>> gh-pages
 image: http://www.aapd.com/wp-content/themes/aapd/markup/images/logo.jpg
 ---
 The Disability Rights Storytellers Fellowship managed by <a href="http://www.rootedinrights.org">Rooted in Rights</a> and AAPD provides the opportunity for an individual with a disability to learn and apply skills in digital media storytelling, and to prepare participants for advanced careers in media production, journalism, online advocacy, or digital design. The project combines hands-on training on cutting edge technologies with a strong foundation in developing the individual’s voice and using story-driven videos in advocacy. AAPD will also work to connect the Fellow to internships and employment opportunities. Applications for the 2017 Disability Rights Storytellers Fellowship are due by March 15, 2017. <a href="http://www.aapd.com/disability-rights-storytellers/">Learn more and apply here</a>.

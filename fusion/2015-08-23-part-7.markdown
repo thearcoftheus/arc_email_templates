@@ -1,23 +1,9 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-<<<<<<< HEAD
-headline: "Apply for a Scholarship to Attend an NCE Professional Development Event!"
-=======
 headline: "New NCCJD White Paper: Competency of Individuals with I/DD in the Criminal Justice System"
->>>>>>> gh-pages
 date:  2015-08-21 09:09:59
 categories: fusion-resources
 image: https://www.thearc.org/view.image?Id=1322
 ---
-<<<<<<< HEAD
-NCE is offering an exciting opportunity for attending one of our professional development events:
-
-2017 Summer Leadership Institute, St. Louis, MO – July 24-26, 2017
-
-2017 Professional Development Seminar, San Diego, CA – November 1-2, 2017
-
-If you work for a chapter of The Arc and have never attended one of our events, you are eligible to win a scholarship. Scholarships cover the registration fee and attendance at a social event. Visit the <a href="https://fs16.formsite.com/u024508129ncearc/form261/index.html?1484843450553">2017 NCE Scholarship Application</a> to learn more and apply! Deadline: March 3, 2017.
-=======
 Competency is a critical issue in nearly every stage of a criminal case, especially for people with I/DD. This paper demystifies the complex topic of competency by examining it from a number of different angles. Written as an education resource and advocacy tool for criminal justice professionals and disabilty advocates, the paper reveals challenges with the current comptency framework and suggests best practices and potential solutions. <a href="http://www.thearc.org/NCCJD/publications">Check it out</a>! 
->>>>>>> gh-pages
