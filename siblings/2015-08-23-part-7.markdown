@@ -1,0 +1,9 @@
+---
+layout: siblings
+title: "Resources & Opportunities"
+headline: "Accessible Transportation Grant Available "
+date:  2015-08-21 09:09:59
+image: http://www.nadtc.org/wp-content/uploads/nadtc-color-logo-2.3.16-e1461785571427.jpg
+categories: siblings-resources
+---
+<a href="http://www.nadtc.org/">The National Aging and Disability Transportation Center</a> seeks applications that increase accessible transportation options for older adults and people with disabilities. Grants of up to $50,000 each will be awarded to as many as six communities for a 12-month period. Applications are due August 26, 2016. <a href="http://www.nadtc.org/grants-funding/nadtc-grant-opportunities/current-nadtc-funding-opportunities">Apply today!</a> 

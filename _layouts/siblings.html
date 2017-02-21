@@ -1,0 +1,231 @@
+---
+layout: default
+---
+<html>
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+<style>
+a {
+color: #EA7125;
+}
+</style>
+</head>
+<body>
+{% for page in site.pages %}
+  {% if page.categories == 'siblings-head' %}  
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 700px; font-family: 'Trebuchet MS',Arial,Helvetica,sans-serif; color: #000000; font-size: 14px;"><tbody>
+<tr>
+<td style="text-align: center; font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 13px;"><a style="color: #ea7125;" href="target=&amp;pid=0&amp;did=0&amp;tab=0&amp;splid=1"><span style="color: #ea7125;">View this email in your browser.</span></a></td>
+</tr>
+<tr>
+<td style="background-color: #ffffff; width: 700px;" valign="bottom"><img alt="The Arc email header" height="180" src="http://www.thearc.org/view.image?Id=4210" width="700" /></td>
+</tr>
+</table>
+
+
+
+    
+  {% endif %}
+{% endfor %}
+
+{% for page in site.pages %}
+  {% if page.categories == 'siblings-ceo' %}  
+  
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 700px; font-family: 'Trebuchet MS',Arial,Helvetica,sans-serif; color: #000000; font-size: 14px;">
+<tbody>
+<tr>
+<td style="padding: 20px 0 10px 0; font-family: 'Trebuchet MS',Arial,Helvetica,sans-serif; color: #000000; font-size: 22px;">Peters Perspective</td>
+</tr>
+<tr>
+<td style="vertical-align: top; font-family: 'Trebuchet MS',Arial,Helvetica,sans-serif; color: #000000; font-size: 14px; margin-top: 5px;">
+<table align="left" style="float: left;">
+<tbody>
+<tr>
+<td><img align="left" alt="Peter V. Berns" height="200" src="http://www.thearc.org/view.image?Id=4416" style="float: left; margin: 10px 10px 10px 0;" width="200" /></td>
+</tr>
+<tr>
+<td style="font-family: 'Trebuchet MS',Arial,Helvetica,sans-serif; color: #000000; font-size: 12px; text-align: center;">Peter V. Berns<br />CEO of The Arc</td>
+</tr>
+</tbody>
+</table>
+<span style="font-size: 18px; color: #44697d; font-weight: bold;">{{ page.headline }}</span><br />
+{{ page.content }}
+</td>
+</tr>
+</tbody>
+</table>
+
+
+    
+  {% endif %}
+{% endfor %}
+
+{% for page in site.pages %}
+  {% if page.categories == 'siblings-news' %}  
+  
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 700px; font-family: 'Trebuchet MS',Arial,Helvetica,sans-serif; color: #000000; font-size: 14px; padding: 10px 0;">
+<tbody>
+
+{% if page.pageposition == 'first' %} 
+<tr>
+<td style="padding: 20px 0 10px 0; font-family: 'Trebuchet MS',Arial,Helvetica,sans-serif; color: #000000; font-size: 22px;" colspan="2">News from the National Office</td>
+</tr>
+{% endif %}
+
+<tr valign="top">
+<td>
+<table align="left" cellpadding="5" style="padding-right: 10px;"><tr valign="top"><td><img src="{{ page.image }}" width="170"></td></table>
+</td>
+
+<td style="vertical-align: top; font-family: 'Trebuchet MS',Arial,Helvetica,sans-serif; color: #000000; font-size: 14px;">
+<span style="font-size: 18px; color: #44697d; font-weight: bold;">{{ page.headline }}</span><br />
+{{ page.content }}
+</td>
+</tr>
+</tbody>
+</table>
+    
+  {% endif %}
+{% endfor %}
+
+
+{% for page in site.pages %}
+  {% if page.categories == 'siblings-resources' %}  
+  
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 700px; font-family: 'Trebuchet MS',Arial,Helvetica,sans-serif; color: #000000; font-size: 14px;">
+<tbody>
+{% if page.pageposition == 'first' %} 
+<tr>
+<td style="padding: 20px 0 10px 0; font-family: 'Trebuchet MS',Arial,Helvetica,sans-serif; color: #000000; font-size: 22px;" colspan="2">The Inside Scoop: Resources and Opportunities </td>
+</tr>
+{% endif %}
+<tr valign="top">
+<td>
+<table align="left" cellpadding="5" style="padding-right: 10px;"><tr valign="top"><td><img src="{{ page.image }}" width="170"></td></table>
+</td>
+<td style="vertical-align: top; font-family: 'Trebuchet MS',Arial,Helvetica,sans-serif; color: #000000; font-size: 14px;">
+
+<span style="font-size: 18px; color: #44697d; font-weight: bold;">{{ page.headline }}</span><br />
+{{ page.content }}
+</td>
+</tr>
+</tbody>
+</table>
+
+    
+  {% endif %}
+{% endfor %}
+
+  
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 700px; font-family: 'Trebuchet MS',Arial,Helvetica,sans-serif; color: #000000; font-size: 14px; border-collapse: collapse; margin-top: 0px; margin-bottom: 20px;">
+<tbody>'
+<tr>
+<td style="padding: 20px 0 10px 0; font-family: 'Trebuchet MS',Arial,Helvetica,sans-serif; color: #000000; font-size: 22px;" colspan="2"></td>
+</tr>
+{% for page in site.pages %}
+  {% if page.categories == 'siblings-webinar-1' %}  
+<tr>
+<td style="vertical-align: top; text-align: left; border: 3px solid #474747; padding: 10px; background-color: lightyellow; width: 50%;">
+<span style="color: #44697d; font-weight: bold; font-size: 18px;">{{ page.headline }}</span>
+
+<br /><i>{{ page.webdate }}</i><br><br>
+
+<div>
+
+{{ page.content }} 
+
+</div>
+</td>
+<tr>
+  {% endif %}
+{% endfor %}
+{% for page in site.pages %}
+  {% if page.categories == 'siblings-webinar-2' %}  
+  
+<td style="vertical-align: top; text-align: left; border: 3px solid #474747; padding: 10px; background-color: lightyellow; width: 50%;">
+<span style="color: #44697d; font-weight: bold; font-size: 18px;">{{ page.headline }}</span>
+
+<br /><i>{{ page.webdate }}</i><br><br>
+
+<div>
+
+{{ page.content }} 
+
+</div>
+</td>
+    <tr>
+  {% endif %}
+{% endfor %}
+
+
+
+
+{% for page in site.pages %}
+  {% if page.categories == 'siblings-webinar-3' %}  
+
+
+<td style="vertical-align: top; text-align: left; border: 3px solid #474747; padding: 10px; background-color: lightyellow; width: 50%;">
+<span style="color: #44697d; font-weight: bold; font-size: 18px;">{{ page.headline }}</span>
+
+<br /><i>{{ page.webdate }}</i><br><br>
+
+<div>
+
+{{ page.content }} 
+
+</div>
+</td>
+<tr>
+  {% endif %}
+{% endfor %}
+
+</tr>
+</tbody>
+</table>
+
+
+{% for page in site.pages %}
+  {% if page.categories == 'siblings-ad' %}  
+  
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 700px; font-family: 'Trebuchet MS',Arial,Helvetica,sans-serif; color: #000000; font-size: 14px;">
+<tbody>
+<tr valign="top">
+<td>
+<table align="center" cellpadding="5"><tr valign="top"><td><a href="{{ page.link }}"><img src="{{ page.image }}"></a></td></table>
+</td>
+</tr>
+</tbody>
+</table>
+
+    
+  {% endif %}
+{% endfor %}
+
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 700px; font-family: 'Trebuchet MS',Arial,Helvetica,sans-serif; color: #000000; font-size: 14px;">
+<tbody>
+<tr>
+<td colspan="4">
+<table border="0" cellpadding="0" cellspacing="0" style="border-top: 1px solid #b2b2b2; background-color: transparent; width: 100%; color: #000000; font-size: 11px;">
+<tbody>
+<tr>
+<td style="padding: 12px 20px 20px; font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif; color: #000000;" colspan="4" align="center"><strong style="font-size: 12px;">The Arc</strong> 1825 K Street, NW, Suite 1200, Washington, DC 20006<br /> Phone: 800.433.5255&nbsp;&nbsp;|&nbsp;&nbsp;<a style="color: #000000;" href="mailto:info@thearc.org">Contact Us</a></td>
+</tr>
+<tr>
+<td style="padding: 0px 20px 10px; font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif;" colspan="2"><a style="color: #000000;" href="target=_blank&amp;pid=2679&amp;did=0&amp;tab=0">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="color: #000000;" href="target=&amp;pid=2264&amp;did=0&amp;tab=0">Email Preferences</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="color: #EA7125;" href="https://www.thearc.org/donate">Donate</a></td>
+<td style="padding: 0px 20px 10px; font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif; color: #000000;" align="right">&copy; 2016 The Arc</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+</body>
+</html>

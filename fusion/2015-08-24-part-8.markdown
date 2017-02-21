@@ -3,9 +3,16 @@ layout: fusion
 title: "Resources & Opportunities"
 headline: "The FINDS Survey is Here!"
 date:  2015-08-21 09:09:59
+<<<<<<< HEAD
 categories: fusion-resources
 image: https://www.thearc.org/view.image?Id=2654
 ---
 We need your input and help disseminating this crucial survey! The Research and Training Center on Community Living at the University of Minnesota in collaboration with The Arc, is seeking caregivers to share their perceptions on a range of life-span issues impacting individuals with I/DD. We are inviting family or unrelated caregivers aged 18 years or older who provide frequent primary support to a person with an I/DD to participate. The results of the 2010 Survey provided unique insight into the growing gaps in education, employment, and other life-span activities that exist between persons with disabilities and their non-disabled peers, which has informed further dialogue and policy changes at the
 
 Federal and State levels. <a href="http://thearc.org/FINDS">Take the survey and share it widely in your networks</a>! Deadline: March 30.
+=======
+categories: fusion-resources-no
+image: https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/1098365_600806613297066_1740566113_n.png?oh=2ed610f9bb1057caea5dc280b9221768&oe=5904E77D
+---
+We need your input and help disseminating this crucial survey! The Research and Training Center on Community Living at the University of Minnesota in collaboration with The Arc, is seeking caregivers to share their perceptions on a range of life-span issues impacting individuals with I/DD. We are inviting family or unrelated caregivers aged 18 years or older who provide frequent primary support to a person with an I/DD to participate. The results of the 2010 Survey provided unique insight into the growing gaps in education, employment, and other life-span activities that exist between persons with disabilities and their non-disabled peers, which has informed further dialogue and policy changes at the Federal and State levels. <a href="http://thearc.org/FINDS">Take the survey and share it widely in your networks</a>! Deadline: March 30.
+>>>>>>> gh-pages

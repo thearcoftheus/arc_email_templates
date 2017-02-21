@@ -1,9 +1,18 @@
 ---
 layout: fusion
 title:  "News & Action Items"
+<<<<<<< HEAD
 headline: "Act with The Arc on #WeActWednesday"
+=======
+headline: "The FINDS Survey is Here!"
+>>>>>>> gh-pages
 date:   2015-08-18 09:09:59
+image: https://www.thearc.org/view.image?Id=2654
 categories: fusion-news
 image: https://www.thearc.org/image/fusion/16-066-The-Annual-Report_web_Page_01.jpg
 ---
+<<<<<<< HEAD
 Critical programs to people with I/DD are under threat in Washington—the Affordable Care Act, Medicaid, Supplemental Security Income, and civil rights protections. To harness the power of The Arc’s network and engage more online, we have started posting calls to action on The Arc’s <a href="https://www.facebook.com/thearcus/?ref=aymt_homepage_panel">Facebook</a> and <a href="https://twitter.com/TheArcUS">Twitter</a> on Wednesdays using the hashtag #WeActWednesday. We need our chapters to take up this effort with us—in social media, volume matters. Help us show our power by using the hashtag, and getting your networks to act on the weekly call to action. Follow The Arc on <a href="https://www.facebook.com/thearcus/?ref=aymt_homepage_panel">Facebook</a> and <a href="https://twitter.com/TheArcUS">Twitter</a>, and share our messages via your chapter’s social media and your personal networks. Need help setting up social media for your chapter? Contact <a href="mailto:katz@thearc.org">Pam Katz</a>.
+=======
+We need your input and help disseminating this crucial survey! The Research and Training Center on Community Living at the University of Minnesota in collaboration with The Arc, is seeking caregivers to share their perceptions on a range of life-span issues impacting individuals with I/DD. We are inviting <strong>family or unrelated caregivers aged 18 years or older</strong> who provide frequent primary support to a person with an I/DD to participate. The results of the 2010 Survey provided unique insight into the growing gaps in education, employment, and other life-span activities that exist between persons with disabilities and their non-disabled peers, which has informed further dialogue and policy changes at the Federal and State levels. <a href="http://thearc.org/FINDS">Take the survey and share it widely in your networks</a>! <strong>Deadline: March 30</strong>.
+>>>>>>> gh-pages
