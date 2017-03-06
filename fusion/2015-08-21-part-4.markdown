@@ -1,11 +1,10 @@
 ---
 layout: fusion1
 title:  "News & Action Items"
-headline: "Announcing The Arc@School Website!"
-image: http://thearcatschool.org/wp-content/uploads/2016/11/cropped-The-Arc-@-School-Lockup-Pos-01-1.png
+headline: "Fry v. Napoleon Community Schools Victory"
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Seal_of_the_United_States_Supreme_Court.svg/1200px-Seal_of_the_United_States_Supreme_Court.svg.png 
 date:   2015-08-18 09:09:59
 categories: fusion-news
 image: http://www.arcsomd.org/sd/bnrs/bnnrDefault.png
 ---
-In 2016, The Arc launched a new initiative, <a href="http://thearcatschool.org">The Arc@School</a>, to build the capacity of The Arc’s nationwide network of chapters to support students with I/DD and their families in developing and implementing individualized education programs (IEPs) that will help students with I/DD graduate from high school and pursue post-secondary education and employment. The newly-launched website aims to be an online resource for students with disabilities, their parents, and advocates that includes information, best practices, and a resource directory, where you can find links and contact information for chapters of The Arc, protection and advocacy programs, parent centers, and state education agencies in your state. <a href="https://blog.thearc.org/2017/02/01/navigating-school-arcschool-launches-website-help-students-disabilities-parents-special-education-advocacy/
-">Check it out</a>!
+The Arc applauds the US Supreme Court decision allowing independent disability discrimination claims against school districts, which removes important barriers for students with disabilities seeking redress under the ADA and Section 504. Though the decision in Fry leaves some questions unanswered, it does eliminate certain roadblocks that have prevented students from seeking relief directly in federal court when their claims involve disability discrimination under the ADA or Section 504, rather than their educational services and supports under the IDEA. <a href="https://blog.thearc.org/2017/02/23/arc-applauds-u-s-supreme-court-decision-allowing-independent-disability-discrimination-claims-school-districts/">Read more here</a>.
