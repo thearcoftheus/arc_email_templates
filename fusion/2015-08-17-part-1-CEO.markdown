@@ -1,10 +1,8 @@
 ---
 layout: fusion
 title:  "Peter’s Perspective"
-headline: "FINDS Survey Underway"
+headline: "Live from DPS!"
 date:   2015-08-17 09:09:59
 categories: fusion-ceo
 ---
-The Arc’s survey of Family and Individual Needs for Disability Supports (FINDS) is live and we need your help to get more families to complete the survey. You can find sample promotional messaging and materials to <a href="http://thearc.org/FINDS">get the word out here</a>. We currently have about 1,200 completed surveys and need 5,300. A number of states (ID, NC, NV, SD & WY) are missing.
-
-The FINDS survey provides great data we can use to better understand and serve the needs of people with intellectual and developmental disabilities and their families, and to strengthen our advocacy across the country.  So please, encourage your constituents to complete the survey today. Thanks. If you have any questions, you can contact Amie Lulinski <a href="mailto:Lulinski@thearc.org">by email</a> or by phone at 202.534.3724. As always, you can reach me at <a href="mailto:berns@thearc.org">berns@thearc.org</a>. 
+The 2017 Disability Policy Seminar is underway! If you were not able to make it, you can access the <a href="http://disabilitypolicyseminar.org/materials">fact sheets here</a>. Follow live coverage from the event on social media with the hashtag #DPS2017. We hope to see you next year!

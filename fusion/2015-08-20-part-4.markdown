@@ -1,10 +1,10 @@
 ---
 layout: fusion
 title:  "News & Action Items"
-headline: "PLACEHOLDER- CALL FOR PROPOSALS FROM DARCY- SENDING SOON"
+headline: "Introducing The Arc’s new Director, Advocacy and Mobilization"
 date:   2015-08-18 09:09:59
-image: https://www.thearc.org/view.image?Id=2654
+image: https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAgdAAAAJGMyY2U0OTBhLTkzNjEtNDBiNi05MmNmLTMxMzdhNTMwZGM4Nw.jpg
 categories: fusion-news
 image: https://www.thearc.org/image/fusion/16-066-The-Annual-Report_web_Page_01.jpg
 ---
-PLACEHOLDER- CALL FOR PROPOSALS FROM DARCY- SENDING SOON
+We are thrilled to announce that The Arc has hired Claire Manning as our new Director, Advocacy and Mobilization. This is a new position that will work closely with our national public policy team, our communications team, and our chapters in these challenging times. She will lead The Arc’s work to strengthen our current chapter and activist advocacy engagement capacity, including online engagement and story sharing. Claire has nearly a decade of experience in grassroots organizing and advocacy in the women’s health sector at Planned Parenthood (at the local and national levels) and the National Family Planning & Reproductive Health Association, a membership association of Title X health centers. Please welcome <a href="mailto:manning@thearc.org">Claire</a> to The Arc! 

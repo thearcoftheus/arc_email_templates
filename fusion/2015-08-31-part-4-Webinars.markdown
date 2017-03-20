@@ -1,18 +1,9 @@
 ---
 layout: fusion1
 title:  "2 Box Callout"
-
-headline: "Transformation to What? Getting Past the "Messy in the Middle" Stage"
-webdate: "Thursday, March 16 from 3:00 - 3:44 pm ET"
+headline: "Small Steps, Big Leaps: Healthy Vending in Your Organization "
+webdate: "Thursday, April 6 from 2:00 – 3:00 pm CT"
 date:   2015-08-20 09:09:59
 categories: fusion-webinar-1
 ---
-The transformation from segregated work settings can bring liberation and empowerment. But the process of change is not always easy or comfortable for individuals with I/DD and their families.
-A variety of issues can come up for people with I/DD as the agencies that serve them switch to integrated employment:
-<ol>
-<li>Cessation of weekly paychecks when their workshop shuts down.</li>
-<li>They might stop seeing their friends on a daily basis once the workshop closes.</li>
-<li>They may get a part-time job, leaving the rest of the day needing to be filled.</li>
-<li>Their family may feel the pressure of helping their relative find and keep fulfilling work in the community.</li>
-</ol>
-So how do we get to where people have a satisfying job and relationships in the community? Join us for a candid discussion of this. <a href="https://events-na11.adobeconnect.com/content/connect/c1/1325063098/en/events/event/shared/1413246572/event_landing.html?sco-id=1595331920&_charset_=utf-8">Register here</a>. 
+Healthier vending machine initiatives increase your staff and people with I/DD choices by expanding access to healthier snack and drink options! This presentation will provide strategies for healthier vending options through the following: (i) steps to developing healthy vending machine initiative; (ii) using tools to survey vending machines and implementing new guidelines; and, (iii) integrating examples and links to resources related to healthy vending machine for your initiative. This presentation is for DD Providers who provide Supports for Community Living services to people with IDD and others seeking to increase healthy options in their organization's vending machines. For more information, please contact Jasmina Sisirak at <a href="info@healthmattersprogram.org">info@healthmattersprogram.org</a>. <a href="https://www.thearc.org/page.redir?target=http%3a%2f%2fwww.HealthMattersProgram.org&srcid=42229&srctid=1&erid=8959505&trid=f0092a56-9ddf-432a-aae1-919da87ed6ee">Learn more about the program here</a>. <a href="https://www.thearc.org/page.redir?target=http%3a%2f%2fbit.ly%2f2l3BZHN&srcid=42229&srctid=1&erid=8959505&trid=f0092a56-9ddf-432a-aae1-919da87ed6ee">Register here</a>.
