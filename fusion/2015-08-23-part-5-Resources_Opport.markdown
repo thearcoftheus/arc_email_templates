@@ -1,10 +1,11 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-headline: "Deadline Looming to Complete FINDS Survey: April 30, 2017"
+headline: "Yes, there is a free lunch!"
 date:  2015-08-21 09:09:59
 categories: fusion-resources
 image: http://www.thearc.org/image/_content-images/Stanley-and-Family.jpg
 pageposition: first
 ---
-We are only a few weeks away from the deadline to complete the crucial FINDS Survey! Please help support our data-driven advocacy by completing this survey and sharing it with your networks. We are inviting family or unrelated caregivers aged 18 years or older, who provide frequent primary support to a person with an I/DD to participate. The results of the 2010 Survey provided unique insight into the growing gaps in education, employment, and other life-span activities that exist between persons with disabilities and their non-disabled peers, which has informed further dialogue and policy changes at the Federal and State levels. <a href="https://www.thearc.org/page.redir?target=http%3a%2f%2fthearc.org%2fFINDS&srcid=42060&srctid=1&erid=8903948&trid=735391c7-9b86-4afd-8511-18735cce4f34">Take the survey and share it widely in your networks</a>! If you have any questions, please contact <a href="mailto:Lulinski@thearc.org">Amie Lulinski</a>. Deadline: April 30.
+Are you attending this year’s Summer Leadership Institute?  Join us to learn about the simplest way to raise funds with the highest return on investment, Planned Giving!  A robust Planned Giving program has the potential to provide your Chapter with a foundation for stability so that you can be there for your constituents now and in the future.  Lunch includes a speaker from Wealth Engine and it is open for all members of the current chapter Work Group (35 chapters and growing) and those who are curious and interested in learning and becoming a member.
+Please contact <a href="mailto:henke@thearc.org"Jen Henke</a> to get more information about how your chapter can benefit from planned giving and becoming part of the Work Group.

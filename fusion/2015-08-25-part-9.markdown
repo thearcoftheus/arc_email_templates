@@ -1,9 +1,9 @@
 ---
 layout: fusion1
 title: "Resources & Opportunities"
-headline: "Open Society Community Youth Fellowship Opportunity "
+headline: "GRANT OPPORTUNITY: Walmart State Giving Program on Hunger Relief"
 date:  2015-08-21 09:09:59
 categories: fusion-resources
-image: http://osf.cz/wp-content/uploads/2015/06/OSF_logo_RGB.jpg
+image: http://cdn.corporate.walmart.com/9f/0c/c4f424744c50ad58e82e4989489e/walmart-foundation.png
 ---
-The Open Society Foundations’ Youth Exchange, in partnership with the Human Rights Initiative, is looking for young adults with intellectual and developmental disabilities to apply for their Community Youth Fellowships. The fellowships come with an award of up to $60,000 for full-time, 18-month projects (prorated for part-time or 12-month projects). The Community Youth Fellowships will support activists aged 18–25 who want to complete a project they have created that advances human rights anywhere in the United States. <a href="https://www.opensocietyfoundations.org/grants/open-society-youth-exchange-fellowships-20170309">Learn more about eligibility and the Fellowships here</a>. 
+The Walmart Foundation is accepting applications from nonprofits in 31 states for hunger relief programs. Applications are accepted from May 8 to May 12, but you can get started earlier using the information on the State Giving Program web page: <a href=“http://corporate.walmart.com/_foundation_/apply-for-grants/state-giving-program”>http://corporate.walmart.com/_foundation_/apply-for-grants/state-giving-program</a>

@@ -1,8 +1,11 @@
 ---
 layout: fusion
 title:  "Peter’s Perspective"
-headline: "Live from DPS!"
+headline: "Don’t Let Down Your Guard. It’s Not Over Yet."
 date:   2015-08-17 09:09:59
 categories: fusion-ceo
 ---
-The 2017 Disability Policy Seminar is underway! If you were not able to make it, you can access the <a href="http://disabilitypolicyseminar.org/materials">fact sheets here</a>. Follow live coverage from the event on social media with the hashtag #DPS2017. We hope to see you next year!
+Thank you to the thousands of members of The Arc who called, emailed, visited their members of Congress and shared their stories about the importance of the Affordable Care Act (ACA) and Medicaid in the lives of people with disabilities and their families. Because of your hard work, the House of Representatives pulled the American Health Care Act. Medicaid and the ACA, which provide essential supports and services, have been protected for now. 
+
+This is an incredible victory, but we must remain vigilant. Some Members of Congress are already <a href="https://www.nytimes.com/2017/03/28/us/politics/health-care-obamacare-freedom-caucus.html?_r=2">planning another effort to repeal the ACA and decimate Medicaid</a>. Congress will be in Recess April 10 – 21.  Please set up a meeting with your US Senators and Representatives, or invite them to visit your chapter and learn more about your work.   And have all your board members, staff, the individuals you serve and family members <a href=“https://blog.thearc.org/joinourfight/">sign up for our Alerts</a>. {Add Link} Please contact <a href=“mailto:manning@thearc.org”>
+Claire Manning</a> with any questions; or you can reach me at <a href=“mailto:berns@thearc.org”>berns@thearc.org</a>.

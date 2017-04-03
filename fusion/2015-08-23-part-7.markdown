@@ -1,10 +1,10 @@
 ---
 layout: fusion
 title: "Resources & Opportunities"
-headline: "CALL FOR PROPOSALS: The Arc's 2017 National Convention"
+headline: "New Publications from NCCJD"
 date:  2015-08-21 09:09:59
 categories: fusion-resources
-image: http://az616578.vo.msecnd.net/files/2016/07/15/636042063351450019-793573314_sanddy%20eggo.jpg
+image: http://www.thearc.org/image/_content-images/NCCJD-Artwork.jpg
 ---
-http://az616578.vo.msecnd.net/files/2016/07/15/636042063351450019-793573314_sanddy%20eggo.jpg
-This year, we are looking for the most powerful speakers inside and outside of our network. If you or someone you know has a compelling idea, tool, or story to share with others, <a href="https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=WQRXSVAL">submit a proposal to present at The Arc’s 2017 National Convention</a>. Proposals are due by April 14, 2017. National Convention will be November 1-4, 2017 in San Diego, California. If you have any questions, please contact <a href="mailto:mauger@thearc.org">Kerry Mauger</a>.
+<a href=“http://www.thearc.org/what-we-do/programs-and-services/national-initiatives/nccjd/NCCJD-White-Paper-Competency-of-Individuals-with-IDD-in-the-Criminal-Justice-System”>“Competency of Individuals with Intellectual and Developmental Disability in the Criminal Justice System: A Call to Action for the Criminal Justice Community"</a> explores the complex topic of competency and suggests best practices and potential solutions for professionals. Complementing this publication is NCCJD’s webinar, <a href=“https://thearc2.webex.com/ec3100/eventcenter/recording/recordAction.do?theAction=poprecord&siteurl=thearc2&entappname=url3100&internalRecordTicket=4832534b000000038f49faaaf93aad6d4a670dd541f36480d99c1a86ba6a2e0b1fd5b7840c7569c1&renewticket=0&isurlact=true&format=short&rnd=4672647396&RCID=383e1a9238791f0e78e783da8ff7d8f2&rID=13919387&needFilter=false&recordID=13919387&apiname=lsr.php&AT=pb&actappname=ec3100&&SP=EC&entactname=%2FnbrRecordingURL.do&actname=%2Feventcenter%2Fframe%2Fg.do”>“Competency of Individuals with Intellectual and Developmental Disabilities in the Criminal Justice System: A Call to Action for the Criminal Justice Community.”</a>
+Second, NCCJD Criminal Justice Attorney Fellow Ariel Simms and Officer Sean Collins of The Arc of Pikes Peaks Disability Response Team and the Colorado Springs Police Department highlight the need for a more accurate definition of “crisis" and further collaboration between law enforcement and disability communities in <a href=“http://www.policechiefmagazine.org/wp-content/uploads/PoliceChief_March_2017_WEB.pdf”>“Policing Persons with Disabilities in the 21st Century: A Call for Crisis Prevention and Procedural Justice”</a> (p. 38).

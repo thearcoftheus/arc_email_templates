@@ -1,13 +1,11 @@
 ---
 layout: fusion1
 title: "Resources & Opportunities"
-headline: "JOB ANNOUNCEMENT:  Director of Public Policy and Advocacy – Children and Families, The Arc Maryland"
+headline: "2017 M-Enabling Summit: “Making Connected Things and Services Accessible for All”"
 date:  2015-08-21 09:09:59
-categories: fusion-resources-no
-image: http://www.thearc.org/image/Arc_Maryland_Color_Pos_JPG.jpg
+categories: fusion-resources
+image: https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/16114957_1231504580261319_4846822411160580327_n.jpg?oh=b260d6d95240134f1c795517e9fa5f22&oe=59514C89
 ---
-The Arc of Maryland is seeking a Director of Public Policy and Advocacy – Children and Families. The director will work closely with the Executive Director, the public policy team, and the Governmental Affairs and the Children’s and Family Issues Committees to advance the policy and advocacy goals of The Arc Maryland. Experience in working with the Maryland General Assembly is preferred. Grant development and management, including budgets is desirable. The successful candidate will join a diverse team of board and staff members who are committed to working for communities that welcome and include individuals with I/DD and their families. <b>Deadline to Apply: July 8, 2016</b>.
-Please submit cover letter, resume, salary requirements, and list of three professional references to: Cristine Marchand, Executive Director
-<br>130 Lubrano Drive, Suite 212 
-<br>Annapolis, MD 21401 
-<br>Or via email: <a href="mailto:info@thearcmd.org">info@thearcmd.org</a>
+Join us at the 6th annual M-Enabling Summit, the leading global conference and showcase on the East Coast dedicated to technological innovations that enable seniors and persons with disabilities to access digital content and services in new ways.
+With its 2017 theme, “Making Connected Things and Services Accessible for All,” the M-Enabling Summit sets the stage to promote accessible products, services and assistive technologies. It also offers an ideal platform to network with accessibility professionals, organizations, and decision makers seeking to address compliance challenges and market development opportunities. 
+In the spotlight: accessibility for better branding, consumer marketing, innovation in robotics, wearables, virtual and augmented reality, artificial intelligence, IoT, smart homes, Section 508 and WCAG 2.1, as well as scaling-up accessibility in higher education, businesses, government, and smart cities. New to the M-Enabling Summit is the addition of the IAAP Pre Conference Session taking place June 12. <a href="http://www.m-enabling.com/conreg.html">Register today</a>. 

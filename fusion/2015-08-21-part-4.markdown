@@ -1,10 +1,14 @@
 ---
 layout: fusion1
 title:  "News & Action Items"
-headline: "Fry v. Napoleon Community Schools Victory"
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Seal_of_the_United_States_Supreme_Court.svg/1200px-Seal_of_the_United_States_Supreme_Court.svg.png 
+headline: "Supreme Court Updates"
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Seal_of_the_United_States_Supreme_Court.svg/1200px-Seal_of_the_United_States_Supreme_Court.svg.png
 date:   2015-08-18 09:09:59
-categories: fusion-news-no
+categories: fusion-news
 image: http://www.arcsomd.org/sd/bnrs/bnnrDefault.png
 ---
-The Arc applauds the US Supreme Court decision allowing independent disability discrimination claims against school districts, which removes important barriers for students with disabilities seeking redress under the ADA and Section 504. Though the decision in Fry leaves some questions unanswered, it does eliminate certain roadblocks that have prevented students from seeking relief directly in federal court when their claims involve disability discrimination under the ADA or Section 504, rather than their educational services and supports under the IDEA. <a href="https://blog.thearc.org/2017/02/23/arc-applauds-u-s-supreme-court-decision-allowing-independent-disability-discrimination-claims-school-districts/">Read more here</a>.
+March has been a busy month at the U.S. Supreme Court for people with disabilities, with two opinions issued relating to the rights of students with disabilities under the Individuals with Disabilities Education Act and the prohibition on executing capital defendants with intellectual disability as well as the confirmation hearings for Judge Neil Gorsuch. Read The Arc’s take on these important developments:
+<a href=“https://blog.thearc.org/2017/03/23/arc-applauds-u-s-supreme-court-decision-special-education-case-idea-demands/”>The Arc Applauds U.S. Supreme Court Decision in Special Education Case: “The IDEA Demands More”</a>
+<a href=“https://blog.thearc.org/2017/03/30/arc-applauds-supreme-courts-decisive-rejection-texas-wholly-nonclinical-outlier-standards-determining-intellectual-disability/”>The Arc Applauds Supreme Court’s Decisive Rejection of Texas’ “Wholly Nonclinical,” “Outlier” Standards in Determining Intellectual Disability</a>
+<a href=“https://www.bostonglobe.com/opinion/2017/03/29/gorsuch-narrow-view-law-has-cruel-consequences/Qw1raIzfrCYB30fF9xkzdN/story.html”>Boston Globe: Gorsuch’s narrow view of the law has cruel consequences</a>
+<a href=“https://www.nytimes.com/2017/03/22/us/politics/gorsuch-education.html”>New York Times: Supreme Court Rejects Education Minimum Applied by Gorsuch</a>
